@@ -1,0 +1,177 @@
+{
+  "id": "P0012800",
+  "subject": {
+    "id": "P0012800",
+    "alternateIds": [
+      "RUMC_solverd_ithaca_0352"
+    ],
+    "dateOfBirth": "1995-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000002",
+        "label": "Abnormality of body height"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001518",
+        "label": "Small for gestational age"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001520",
+        "label": "Large for gestational age"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000135",
+        "label": "Hypogonadism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000256",
+        "label": "Macrocephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000400",
+        "label": "Macrotia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000490",
+        "label": "Deeply set eye"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000708",
+        "label": "Behavioral abnormality"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000811",
+        "label": "Abnormal external genitalia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002813",
+        "label": "Abnormality of limb bone morphology"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009473",
+        "label": "Joint contracture of the hand"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010864",
+        "label": "Intellectual disability, severe"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100490",
+        "label": "Camptodactyly of finger"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0012800",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0012800",
+            "interpretationStatus": "CAUSATIVE",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:6814",
+                  "symbol": "MAGEL2"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "15",
+                  "pos": "23890602",
+                  "ref": "G",
+                  "alt": "C",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:56:14Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-vissers",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

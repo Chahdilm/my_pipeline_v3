@@ -1,0 +1,184 @@
+{
+  "id": "P0012895",
+  "subject": {
+    "id": "P0012895",
+    "alternateIds": [
+      "RUMC_solverd_ithaca_0447"
+    ],
+    "dateOfBirth": "2011-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000002",
+        "label": "Abnormality of body height"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004324",
+        "label": "Increased body weight"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004325",
+        "label": "Decreased body weight"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000293",
+        "label": "Full cheeks"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000311",
+        "label": "Round face"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000508",
+        "label": "Ptosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000581",
+        "label": "Blepharophimosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000582",
+        "label": "Upslanted palpebral fissure"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001250",
+        "label": "Seizures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001270",
+        "label": "Motor delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001388",
+        "label": "Joint laxity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001511",
+        "label": "Intrauterine growth retardation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001943",
+        "label": "Hypoglycemia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002359",
+        "label": "Frequent falls"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003287",
+        "label": "Abnormality of mitochondrial metabolism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003388",
+        "label": "Easy fatigability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003546",
+        "label": "Exercise intolerance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008872",
+        "label": "Feeding difficulties in infancy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100602",
+        "label": "Preeclampsia"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0012895",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:56:22Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-vissers",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

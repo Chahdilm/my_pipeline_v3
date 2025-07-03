@@ -1,0 +1,125 @@
+{
+  "id": "P0022069",
+  "subject": {
+    "id": "P0022069",
+    "alternateIds": [
+      "D1918525"
+    ],
+    "dateOfBirth": "1984-03-14T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001250",
+        "label": "Seizures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007204",
+        "label": "Diffuse white matter abnormalities"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0022069",
+      "progressStatus": "UNSOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0022069",
+            "interpretationStatus": "CANDIDATE",
+            "gene": {
+              "valueId": "HGNC:2203",
+              "symbol": "COL4A2"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0022069",
+            "interpretationStatus": "CANDIDATE",
+            "gene": {
+              "valueId": "HGNC:29419",
+              "symbol": "EARS2"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0022069",
+            "interpretationStatus": "CANDIDATE",
+            "gene": {
+              "valueId": "HGNC:7883",
+              "symbol": "NOTCH3"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0022069",
+            "interpretationStatus": "CANDIDATE",
+            "gene": {
+              "valueId": "HGNC:1390",
+              "symbol": "CACNA1C"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:06:03Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "uzg-poppe",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-RND"
+      }
+    ]
+  }
+}

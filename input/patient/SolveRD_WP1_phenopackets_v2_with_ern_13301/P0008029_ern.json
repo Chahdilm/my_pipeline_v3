@@ -1,0 +1,231 @@
+{
+  "id": "P0008029",
+  "subject": {
+    "id": "P0008029",
+    "alternateIds": [
+      "TOP_N642859_1"
+    ],
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0001612",
+        "label": "Weak cry"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001263",
+        "label": "Global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003270",
+        "label": "Abdominal distention"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002019",
+        "label": "Constipation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002194",
+        "label": "Delayed gross motor development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000750",
+        "label": "Delayed speech and language development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002359",
+        "label": "Frequent falls"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001324",
+        "label": "Muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008994",
+        "label": "Proximal muscle weakness in lower limbs"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001288",
+        "label": "Gait disturbance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002355",
+        "label": "Difficulty walking"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000508",
+        "label": "Ptosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030319",
+        "label": "Weakness of facial musculature"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001621",
+        "label": "Weak voice"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002650",
+        "label": "Scoliosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003306",
+        "label": "Spinal rigidity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0031179",
+        "label": "Nuchal rigidity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000154",
+        "label": "Wide mouth"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0008029",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0008029",
+            "interpretationStatus": "CAUSATIVE",
+            "gene": {
+              "valueId": "HGNC:23419",
+              "symbol": "KIFBP"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0008029",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:",
+                  "symbol": "KIAA1279"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "10",
+                  "pos": "70775455",
+                  "ref": "CT",
+                  "alt": "C",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0008029",
+            "interpretationStatus": "CAUSATIVE",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:",
+                  "symbol": "KIAA1279"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "10",
+                  "pos": "70775455",
+                  "ref": "CT",
+                  "alt": "C",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:36:08Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "cheo-lochmuller",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

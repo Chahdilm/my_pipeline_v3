@@ -1,0 +1,217 @@
+{
+  "id": "P0019601",
+  "subject": {
+    "id": "P0019601",
+    "alternateIds": [
+      "RUMC_solverd_ithaca_2704"
+    ],
+    "dateOfBirth": "2016-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000154",
+        "label": "Wide mouth"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000294",
+        "label": "Low anterior hairline"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000316",
+        "label": "Hypertelorism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000358",
+        "label": "Posteriorly rotated ears"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000369",
+        "label": "Low-set ears"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000494",
+        "label": "Downslanted palpebral fissures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000506",
+        "label": "Telecanthus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000574",
+        "label": "Thick eyebrow"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000817",
+        "label": "Poor eye contact"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000998",
+        "label": "Hypertrichosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001156",
+        "label": "Brachydactyly syndrome"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001182",
+        "label": "Tapered finger"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001388",
+        "label": "Joint laxity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001520",
+        "label": "Large for gestational age"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001769",
+        "label": "Broad foot"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001773",
+        "label": "Short foot"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001792",
+        "label": "Small nail"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004209",
+        "label": "Clinodactyly of the 5th finger"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004279",
+        "label": "Short palm"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009768",
+        "label": "Broad phalanges of the hand"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011937",
+        "label": "Hypoplastic fifth toenail"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012420",
+        "label": "Meconium stained amniotic fluid"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012471",
+        "label": "Thick vermilion border"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001520",
+        "label": "Large for gestational age"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0019601",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:05:00Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-vissers",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

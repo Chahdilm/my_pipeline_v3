@@ -1,0 +1,163 @@
+{
+  "id": "P0007324",
+  "subject": {
+    "id": "P0007324",
+    "alternateIds": [
+      "PED2790.1"
+    ],
+    "dateOfBirth": "2009-11-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000034",
+        "label": "Hydrocele testis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000160",
+        "label": "Narrow mouth"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000308",
+        "label": "Microretrognathia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000773",
+        "label": "Short ribs"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000960",
+        "label": "Sacral dimple"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001245",
+        "label": "Small thenar eminence"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001382",
+        "label": "Joint hypermobility"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008081",
+        "label": "Pes valgus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008124",
+        "label": "Talipes calcaneovarus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009601",
+        "label": "Aplasia/Hypoplasia of the thumb"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010487",
+        "label": "Small hypothenar eminence"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030084",
+        "label": "Clinodactyly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001539",
+        "label": "Omphalocele"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001562",
+        "label": "Oligohydramnios"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001622",
+        "label": "Premature birth"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009800",
+        "label": "Maternal diabetes"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0007324",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:36:06Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "chud-faivre",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

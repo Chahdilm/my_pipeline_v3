@@ -1,0 +1,255 @@
+{
+  "id": "P0012657",
+  "subject": {
+    "id": "P0012657",
+    "alternateIds": [
+      "RUMC_solverd_ithaca_0209"
+    ],
+    "dateOfBirth": "2013-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000002",
+        "label": "Abnormality of body height"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004324",
+        "label": "Increased body weight"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004325",
+        "label": "Decreased body weight"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000256",
+        "label": "Macrocephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000343",
+        "label": "Long philtrum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000422",
+        "label": "Abnormality of the nasal bridge"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000463",
+        "label": "Anteverted nares"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000486",
+        "label": "Strabismus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000506",
+        "label": "Telecanthus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000527",
+        "label": "Long eyelashes"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000537",
+        "label": "Epicanthus inversus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000545",
+        "label": "Myopia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000648",
+        "label": "Optic atrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001128",
+        "label": "Trichiasis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001250",
+        "label": "Seizures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001270",
+        "label": "Motor delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001305",
+        "label": "Dandy-Walker malformation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001769",
+        "label": "Broad foot"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001837",
+        "label": "Broad toe"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002553",
+        "label": "Highly arched eyebrow"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003194",
+        "label": "Short nasal bridge"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006610",
+        "label": "Wide intermamillary distance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007933",
+        "label": "Broad lateral eyebrow"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009062",
+        "label": "Infantile axial hypotonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100022",
+        "label": "Abnormality of movement"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0012657",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0012657",
+            "interpretationStatus": "CAUSATIVE",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:8617",
+                  "symbol": "PAX3"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "2",
+                  "pos": "223084905",
+                  "ref": "G",
+                  "alt": "T",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:56:02Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-vissers",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

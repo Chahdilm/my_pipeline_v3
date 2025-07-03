@@ -1,0 +1,300 @@
+{
+  "id": "P0003865",
+  "subject": {
+    "id": "P0003865",
+    "alternateIds": [
+      "PFC_0206"
+    ],
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0007002",
+        "label": "Motor axonal neuropathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009830",
+        "label": "Peripheral neuropathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003418",
+        "label": "Back pain"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011868",
+        "label": "Sciatica"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0033466",
+        "label": "Weak grip"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012036",
+        "label": "Sternocleidomastoid amyotrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003393",
+        "label": "Thenar muscle atrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008954",
+        "label": "Intrinsic hand muscle atrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009053",
+        "label": "Distal lower limb muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009027",
+        "label": "Foot dorsiflexor weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008003",
+        "label": "Jerky ocular pursuit movements"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000182",
+        "label": "Movement abnormality of the tongue"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003547",
+        "label": "Shoulder girdle muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001761",
+        "label": "Pes cavus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0200101",
+        "label": "Decreased/absent ankle reflexes"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001310",
+        "label": "Dysmetria"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002075",
+        "label": "Dysdiadochokinesis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012179",
+        "label": "Craniofacial dystonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002346",
+        "label": "Head tremor"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003693",
+        "label": "Distal amyotrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001251",
+        "label": "Ataxia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006248",
+        "label": "Limited wrist movement"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003376",
+        "label": "Steppage gait"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030948",
+        "label": "Elevated gamma-glutamyltransferase level"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003236",
+        "label": "Elevated serum creatine kinase"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003146",
+        "label": "Hypocholesterolemia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002155",
+        "label": "Hypertriglyceridemia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007360",
+        "label": "Aplasia/Hypoplasia of the cerebellum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002120",
+        "label": "Cerebral cortical atrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007269",
+        "label": "Spinal muscular atrophy"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0003865",
+      "progressStatus": "UNSOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0003865",
+            "interpretationStatus": "CANDIDATE",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "LIKELY_PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:2711",
+                  "symbol": "DCTN1"
+                },
+                "expressions": [
+                  {
+                    "syntax": "hgvs",
+                    "value": "NM_004082.4:c.3823 C\u00a0>\u00a0T"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0003865",
+            "interpretationStatus": "CANDIDATE",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "UNCERTAIN_SIGNIFICANCE",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:6323",
+                  "symbol": "KIF5A"
+                },
+                "expressions": [
+                  {
+                    "syntax": "hgvs",
+                    "value": "NM_004984.2:c.1373 C\u00a0>\u00a0T"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0003865",
+            "interpretationStatus": "CANDIDATE",
+            "gene": {
+              "valueId": "HGNC:7737",
+              "symbol": "NEFH"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:36:01Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "ucam-horvath",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

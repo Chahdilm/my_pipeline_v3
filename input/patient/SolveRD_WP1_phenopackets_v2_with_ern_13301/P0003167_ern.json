@@ -1,0 +1,260 @@
+{
+  "id": "P0003167",
+  "subject": {
+    "id": "P0003167",
+    "alternateIds": [
+      "FER0947"
+    ],
+    "dateOfBirth": "1970-02-24T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0200125",
+        "label": "Mitochondrial respiratory chain defects"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000012",
+        "label": "Urinary urgency"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001260",
+        "label": "Dysarthria"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002015",
+        "label": "Dysphagia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002061",
+        "label": "Lower limb spasticity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002172",
+        "label": "Postural instability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002313",
+        "label": "Spastic paraparesis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002317",
+        "label": "Unsteady gait"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002936",
+        "label": "Distal sensory impairment"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003236",
+        "label": "Elevated serum creatine phosphokinase"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003390",
+        "label": "Sensory axonal neuropathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003458",
+        "label": "EMG: myopathic abnormalities"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007002",
+        "label": "Motor axonal neuropathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007340",
+        "label": "Lower limb muscle weakness"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0003167",
+      "progressStatus": "UNSOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0003167",
+            "gene": {
+              "valueId": "HGNC:10548",
+              "symbol": "ATXN1"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0003167",
+            "gene": {
+              "valueId": "HGNC:10555",
+              "symbol": "ATXN2"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0003167",
+            "interpretationStatus": "REJECTED",
+            "gene": {
+              "valueId": "HGNC:7106",
+              "symbol": "ATXN3"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0003167",
+            "interpretationStatus": "REJECTED",
+            "gene": {
+              "valueId": "HGNC:1388",
+              "symbol": "CACNA1A"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0003167",
+            "gene": {
+              "valueId": "HGNC:10560",
+              "symbol": "ATXN7"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0003167",
+            "gene": {
+              "valueId": "HGNC:3951",
+              "symbol": "FXN"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0003167",
+            "gene": {
+              "valueId": "HGNC:7489",
+              "symbol": "MT-TK"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0003167",
+            "gene": {
+              "valueId": "HGNC:9118",
+              "symbol": "PMP22"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0003167",
+            "gene": {
+              "valueId": "HGNC:7953",
+              "symbol": "NPTX2"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0003167",
+            "gene": {
+              "valueId": "HGNC:11237",
+              "symbol": "SPG7"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0003167",
+            "gene": {
+              "valueId": "HGNC:20373",
+              "symbol": "SPG21"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0003167",
+            "gene": {
+              "valueId": "HGNC:11226",
+              "symbol": "SPG11"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:101000",
+        "label": "Autosomal recessive spastic paraplegia type 20"
+      }
+    },
+    {
+      "term": {
+        "id": "Orphanet:254818",
+        "label": "Ataxia neuropathy spectrum"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:36:00Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "unife-ferlini",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

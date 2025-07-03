@@ -1,0 +1,185 @@
+{
+  "id": "P0017272",
+  "subject": {
+    "id": "P0017272",
+    "alternateIds": [
+      "RUMC_solverd_ithaca_2159"
+    ],
+    "dateOfBirth": "2013-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000240",
+        "label": "Abnormality of skull size"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000098",
+        "label": "Tall stature"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000219",
+        "label": "Thin upper lip vermilion"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000248",
+        "label": "Brachycephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000490",
+        "label": "Deeply set eye"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000735",
+        "label": "Impaired social interactions"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000750",
+        "label": "Delayed speech and language development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000767",
+        "label": "Pectus excavatum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001270",
+        "label": "Motor delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002457",
+        "label": "Abnormal head movements"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002500",
+        "label": "Abnormality of the cerebral white matter"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006610",
+        "label": "Wide intermamillary distance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006919",
+        "label": "Abnormal aggressive, impulsive or violent behavior"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010806",
+        "label": "U-Shaped upper lip vermilion"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100033",
+        "label": "Tics"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0017272",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0017272",
+            "interpretationStatus": "CANDIDATE",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:10588",
+                  "symbol": "SCN2A"
+                },
+                "expressions": [
+                  {
+                    "syntax": "hgvs",
+                    "value": "NM_021007.2:c.3703C>T"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:57:50Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-vissers",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

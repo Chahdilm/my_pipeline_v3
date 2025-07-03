@@ -1,0 +1,159 @@
+{
+  "id": "P0009884",
+  "subject": {
+    "id": "P0009884",
+    "alternateIds": [
+      "PED1205.1"
+    ],
+    "dateOfBirth": "1976-04-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000218",
+        "label": "High palate"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000248",
+        "label": "Brachycephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000276",
+        "label": "Long face"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000307",
+        "label": "Pointed chin"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000486",
+        "label": "Strabismus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000490",
+        "label": "Deeply set eye"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000601",
+        "label": "Hypotelorism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000709",
+        "label": "Psychosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000729",
+        "label": "Autistic behavior"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000739",
+        "label": "Anxiety"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001519",
+        "label": "Disproportionate tall stature"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002360",
+        "label": "Sleep disturbance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100716",
+        "label": "Self-injurious behavior"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0009884",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:558",
+        "label": "Marfan syndrome"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:36:11Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "chud-faivre",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

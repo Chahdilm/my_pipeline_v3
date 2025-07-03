@@ -1,0 +1,171 @@
+{
+  "id": "P0019378",
+  "subject": {
+    "id": "P0019378",
+    "alternateIds": [
+      "BAR-Fam26_01"
+    ],
+    "dateOfBirth": "2017-06-13T00:00:00Z",
+    "vitalStatus": {
+      "status": "DECEASED"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0003236",
+        "label": "Elevated serum creatine phosphokinase"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008180",
+        "label": "Mildly elevated creatine phosphokinase"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001324",
+        "label": "Muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003202",
+        "label": "Skeletal muscle atrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003324",
+        "label": "Generalized muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003458",
+        "label": "EMG: myopathic abnormalities"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004887",
+        "label": "Respiratory failure requiring assisted ventilation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011471",
+        "label": "Gastrostomy tube feeding in infancy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011805",
+        "label": "Abnormality of muscle morphology"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0019378",
+      "progressStatus": "UNSOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0019378",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "UNCERTAIN_SIGNIFICANCE",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:17089",
+                  "symbol": "SYNE1"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "6",
+                  "pos": "152539515",
+                  "ref": "G",
+                  "alt": "A",
+                  "info": "Uncertain significance"
+                }
+              }
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0019378",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "UNCERTAIN_SIGNIFICANCE",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:17089",
+                  "symbol": "SYNE1"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "6",
+                  "pos": "152647165",
+                  "ref": "C",
+                  "alt": "A",
+                  "info": "Uncertain significance"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:04:56Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "hsjd-nascimento",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

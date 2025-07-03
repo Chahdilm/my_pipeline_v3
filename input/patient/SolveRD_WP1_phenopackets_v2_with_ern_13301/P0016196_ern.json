@@ -1,0 +1,161 @@
+{
+  "id": "P0016196",
+  "subject": {
+    "id": "P0016196",
+    "alternateIds": [
+      "ID29799"
+    ],
+    "dateOfBirth": "1997-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0001257",
+        "label": "Spasticity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002061",
+        "label": "Lower limb spasticity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006801",
+        "label": "Hyperactive deep tendon reflexes"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007256",
+        "label": "Abnormal pyramidal signs"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0016196",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "OMIM:604360",
+          "label": "Spastic Paraplegia 11, Autosomal Recessive"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0016196",
+            "interpretationStatus": "CAUSATIVE",
+            "gene": {
+              "valueId": "HGNC:11226",
+              "symbol": "SPG11"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0016196",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "UNCERTAIN_SIGNIFICANCE",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:11226",
+                  "symbol": "SPG11"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "15",
+                  "pos": "44913964",
+                  "ref": "A",
+                  "alt": "AC",
+                  "info": "Uncertain significance"
+                }
+              }
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0016196",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "UNCERTAIN_SIGNIFICANCE",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:11226",
+                  "symbol": "SPG11"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "15",
+                  "pos": "44888281",
+                  "ref": "C",
+                  "alt": "A",
+                  "info": "Uncertain significance"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:685",
+        "label": "Hereditary spastic paraplegia"
+      }
+    },
+    {
+      "term": {
+        "id": "OMIM:604360",
+        "label": "Spastic Paraplegia 11, Autosomal Recessive"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:57:22Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "ekut-schuele",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-RND"
+      }
+    ]
+  }
+}

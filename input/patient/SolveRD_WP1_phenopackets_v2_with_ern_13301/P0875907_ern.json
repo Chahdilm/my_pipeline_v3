@@ -1,0 +1,275 @@
+{
+  "id": "P0875907",
+  "subject": {
+    "id": "P0875907",
+    "alternateIds": [
+      "NME-134"
+    ],
+    "dateOfBirth": "2000-05-24T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0012759",
+        "label": "Neurodevelopmental abnormality"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001270",
+        "label": "Motor delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002421",
+        "label": "Poor head control"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011344",
+        "label": "Severe global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001324",
+        "label": "Muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002033",
+        "label": "Poor suck"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002197",
+        "label": "Generalized-onset seizure"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002069",
+        "label": "Bilateral tonic-clonic seizure"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011968",
+        "label": "Feeding difficulties"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011470",
+        "label": "Nasogastric tube feeding in infancy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002747",
+        "label": "Respiratory insufficiency due to muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0032341",
+        "label": "Reduced forced vital capacity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002540",
+        "label": "Inability to walk"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003324",
+        "label": "Generalized muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001290",
+        "label": "Generalized hypotonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001284",
+        "label": "Areflexia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011185",
+        "label": "EEG with focal epileptiform discharges"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011203",
+        "label": "EEG with abnormally slow frequencies"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003134",
+        "label": "Abnormality of peripheral nerve conduction"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007002",
+        "label": "Motor axonal neuropathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007220",
+        "label": "Demyelinating motor neuropathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0040132",
+        "label": "Abnormal sensory nerve conduction velocity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003390",
+        "label": "Sensory axonal neuropathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011402",
+        "label": "Demyelinating sensory neuropathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007327",
+        "label": "Mixed demyelinating and axonal polyneuropathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012443",
+        "label": "Abnormality of brain morphology"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012447",
+        "label": "Abnormal myelination"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011805",
+        "label": "Abnormal skeletal muscle morphology"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0875907",
+      "progressStatus": "UNSOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0875907",
+            "interpretationStatus": "REJECTED",
+            "gene": {
+              "valueId": "HGNC:11117",
+              "symbol": "SMN1"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0875907",
+            "interpretationStatus": "CAUSATIVE",
+            "gene": {
+              "valueId": "HGNC:11118",
+              "symbol": "SMN2"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0875907",
+            "interpretationStatus": "REJECTED",
+            "gene": {
+              "valueId": "HGNC:9086",
+              "symbol": "PLP1"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:166",
+        "label": "Charcot-Marie-Tooth disease/Hereditary motor and sensory neuropathy"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:11:17Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "cheo-lochmuller",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "Not_Applicable"
+      }
+    ]
+  }
+}

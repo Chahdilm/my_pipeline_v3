@@ -1,0 +1,224 @@
+{
+  "id": "P0012481",
+  "subject": {
+    "id": "P0012481",
+    "alternateIds": [
+      "RUMC_solverd_ithaca_0033"
+    ],
+    "dateOfBirth": "2008-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000207",
+        "label": "Triangular mouth"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000365",
+        "label": "Hearing impairment"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000460",
+        "label": "Narrow nose"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000483",
+        "label": "Astigmatism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000505",
+        "label": "Visual impairment"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000664",
+        "label": "Synophrys"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000682",
+        "label": "Abnormality of dental enamel"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000951",
+        "label": "Abnormality of the skin"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001680",
+        "label": "Coarctation of aorta"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002011",
+        "label": "Morphological abnormality of the central nervous system"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002705",
+        "label": "High, narrow palate"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002783",
+        "label": "Recurrent lower respiratory tract infections"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006695",
+        "label": "Atrioventricular canal defect"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008872",
+        "label": "Feeding difficulties in infancy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009904",
+        "label": "Prominent ear helix"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011611",
+        "label": "Interrupted aortic arch"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0200005",
+        "label": "Abnormal shape of the palpebral fissure"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0012481",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0012481",
+            "interpretationStatus": "CAUSATIVE",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:11535",
+                  "symbol": "TAF1"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "X",
+                  "pos": "70618477",
+                  "ref": "C",
+                  "alt": "T",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0012481",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:11535",
+                  "symbol": "TAF1"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "X",
+                  "pos": "70618477",
+                  "ref": "C",
+                  "alt": "T",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:56:01Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-vissers",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

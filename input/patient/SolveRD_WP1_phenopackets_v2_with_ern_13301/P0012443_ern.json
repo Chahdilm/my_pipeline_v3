@@ -1,0 +1,177 @@
+{
+  "id": "P0012443",
+  "subject": {
+    "id": "P0012443",
+    "alternateIds": [
+      "AAA5701605"
+    ],
+    "dateOfBirth": "2007-07-21T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0001288",
+        "label": "Gait disturbance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001300",
+        "label": "Parkinsonism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001347",
+        "label": "Hyperreflexia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001618",
+        "label": "Dysphonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002063",
+        "label": "Rigidity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002067",
+        "label": "Bradykinesia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002151",
+        "label": "Increased serum lactate"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002172",
+        "label": "Postural instability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002174",
+        "label": "Postural tremor"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003487",
+        "label": "Babinski sign"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007007",
+        "label": "Cavitation of the basal ganglia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007256",
+        "label": "Abnormal pyramidal signs"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011968",
+        "label": "Feeding difficulties"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012128",
+        "label": "Basal ganglia necrosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012707",
+        "label": "Elevated brain lactate level by MRS"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0012443",
+      "progressStatus": "UNSOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "OMIM:613135",
+          "label": "PARKINSONISM-DYSTONIA, INFANTILE"
+        }
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:1576",
+        "label": "Infantile bilateral striatal necrosis"
+      }
+    },
+    {
+      "term": {
+        "id": "OMIM:613135",
+        "label": "PARKINSONISM-DYSTONIA, INFANTILE"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:56:01Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "vhir-macaya",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-RND"
+      }
+    ]
+  }
+}

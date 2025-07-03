@@ -1,0 +1,278 @@
+{
+  "id": "P0263440",
+  "subject": {
+    "id": "P0263440",
+    "alternateIds": [
+      "RUMC_solverd_ithaca_2895"
+    ],
+    "dateOfBirth": "1978-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000160",
+        "label": "Narrow mouth"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000322",
+        "label": "Short philtrum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000699",
+        "label": "Diastema"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000708",
+        "label": "Behavioral abnormality"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000711",
+        "label": "Restlessness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000716",
+        "label": "Depressivity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000720",
+        "label": "Mood swings"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000729",
+        "label": "Autistic behavior"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000737",
+        "label": "Irritability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000750",
+        "label": "Delayed speech and language development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000817",
+        "label": "Poor eye contact"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000975",
+        "label": "Hyperhidrosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000978",
+        "label": "Bruising susceptibility"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001288",
+        "label": "Gait disturbance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001384",
+        "label": "Abnormality of the hip joint"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001769",
+        "label": "Broad foot"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001773",
+        "label": "Short foot"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002275",
+        "label": "Poor motor coordination"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002607",
+        "label": "Bowel incontinence"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002942",
+        "label": "Thoracic kyphosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004323",
+        "label": "Abnormality of body weight"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005978",
+        "label": "Type II diabetes mellitus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006349",
+        "label": "Agenesis of permanent teeth"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008441",
+        "label": "Herniation of intervertebral nuclei"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009907",
+        "label": "Attached earlobe"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010550",
+        "label": "Paraplegia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011968",
+        "label": "Feeding difficulties"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012378",
+        "label": "Fatigue"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0040171",
+        "label": "Decreased serum testosterone level"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0045025",
+        "label": "Narrow palpebral fissure"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100790",
+        "label": "Hernia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0200055",
+        "label": "Small hand"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012188",
+        "label": "Hyperemesis gravidarum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001622",
+        "label": "Premature birth"
+      },
+      "excluded": true
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0263440",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:06:44Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-vissers",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

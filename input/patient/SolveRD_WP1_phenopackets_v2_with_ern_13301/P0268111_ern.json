@@ -1,0 +1,147 @@
+{
+  "id": "P0268111",
+  "subject": {
+    "id": "P0268111",
+    "alternateIds": [
+      "PED10170.1"
+    ],
+    "dateOfBirth": "2009-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000252",
+        "label": "Microcephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000175",
+        "label": "Cleft palate"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000347",
+        "label": "Micrognathia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008772",
+        "label": "Aplasia/Hypoplasia of the external ear"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009892",
+        "label": "Anotia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001631",
+        "label": "Atrial septal defect"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002650",
+        "label": "Scoliosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008678",
+        "label": "Renal hypoplasia/aplasia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001263",
+        "label": "Global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000733",
+        "label": "Abnormal repetitive mannerisms"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100716",
+        "label": "Self-injurious behavior"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011470",
+        "label": "Nasogastric tube feeding in infancy"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0268111",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:374",
+        "label": "Goldenhar syndrome"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:06:44Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "chud-faivre",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

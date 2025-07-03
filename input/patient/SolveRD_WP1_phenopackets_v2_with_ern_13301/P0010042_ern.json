@@ -1,0 +1,132 @@
+{
+  "id": "P0010042",
+  "subject": {
+    "id": "P0010042",
+    "alternateIds": [
+      "PED0051.1"
+    ],
+    "dateOfBirth": "1997-06-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000034",
+        "label": "Hydrocele testis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000717",
+        "label": "Autism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000718",
+        "label": "Aggressive behavior"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002360",
+        "label": "Sleep disturbance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007010",
+        "label": "Poor fine motor coordination"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0010042",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "OMIM:606232",
+          "label": "PHELAN-MCDERMID SYNDROME"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0010042",
+            "interpretationStatus": "CAUSATIVE",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "LIKELY_PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:14294",
+                  "symbol": "SHANK3"
+                },
+                "expressions": [
+                  {
+                    "syntax": "hgvs",
+                    "value": "NM_001080420.1:NM_001080420.1:c.5090_50 92delACC"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "OMIM:606232",
+        "label": "PHELAN-MCDERMID SYNDROME"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:36:12Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "chud-faivre",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

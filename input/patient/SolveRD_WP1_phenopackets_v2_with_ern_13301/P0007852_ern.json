@@ -1,0 +1,188 @@
+{
+  "id": "P0007852",
+  "subject": {
+    "id": "P0007852",
+    "alternateIds": [
+      "PED3846.1"
+    ],
+    "dateOfBirth": "1992-04-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000278",
+        "label": "Retrognathia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001166",
+        "label": "Arachnodactyly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002194",
+        "label": "Delayed gross motor development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002650",
+        "label": "Scoliosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002705",
+        "label": "High, narrow palate"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002991",
+        "label": "Abnormality of the fibula"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004322",
+        "label": "Short stature"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008081",
+        "label": "Pes valgus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008551",
+        "label": "Microtia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009062",
+        "label": "Infantile axial hypotonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010743",
+        "label": "Short metatarsal"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010877",
+        "label": "Unilateral strabismus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011003",
+        "label": "Severe Myopia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001622",
+        "label": "Premature birth"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0007852",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "OMIM:614557",
+          "label": "Ehlers-danlos Syndrome With Progressive Kyphoscoliosis, Myopathy,and Hearing Loss"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0007852",
+            "interpretationStatus": "CAUSATIVE",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:18625",
+                  "symbol": "FKBP14"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "7",
+                  "pos": "30058726",
+                  "ref": "T",
+                  "alt": "TG",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "OMIM:614557",
+        "label": "Ehlers-danlos Syndrome With Progressive Kyphoscoliosis, Myopathy,and Hearing Loss"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:36:07Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "chud-faivre",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "id": "P0011140",
+  "subject": {
+    "id": "P0011140",
+    "alternateIds": [
+      "16641"
+    ],
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0001258",
+        "label": "Spastic paraplegia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001288",
+        "label": "Gait disturbance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001348",
+        "label": "Brisk reflexes"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003390",
+        "label": "Sensory axonal neuropathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003552",
+        "label": "Muscle stiffness"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0011140",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "OMIM:613647",
+          "label": "Spastic Paraplegia 48, Autosomal Recessive"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0011140",
+            "interpretationStatus": "CAUSATIVE",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:22197",
+                  "symbol": "AP5Z1"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "7",
+                  "pos": "4829471",
+                  "ref": "CG",
+                  "alt": "C",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0011140",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "LIKELY_PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:22197",
+                  "symbol": "AP5Z1"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "7",
+                  "pos": "4829471",
+                  "ref": "CG",
+                  "alt": "C",
+                  "info": "Likely pathogenic"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "OMIM:613647",
+        "label": "Spastic Paraplegia 48, Autosomal Recessive"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:55:58Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "ucl-hanna",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-RND"
+      }
+    ]
+  }
+}

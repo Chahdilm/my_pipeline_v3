@@ -1,0 +1,151 @@
+{
+  "id": "P0834368",
+  "subject": {
+    "id": "P0834368",
+    "alternateIds": [
+      "ID25850"
+    ],
+    "dateOfBirth": "1971-09-18T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0100543",
+        "label": "Cognitive impairment"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000741",
+        "label": "Apathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000734",
+        "label": "Disinhibition"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000710",
+        "label": "Hyperorality"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0033051",
+        "label": "Impaired executive functioning"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000735",
+        "label": "Impaired social interactions"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000733",
+        "label": "Stereotypy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012758",
+        "label": "Neurodevelopmental delay"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002381",
+        "label": "Aphasia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002186",
+        "label": "Apraxia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000743",
+        "label": "Frontal release signs"
+      },
+      "excluded": true
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0834368",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:282",
+        "label": "Frontotemporal dementia"
+      }
+    },
+    {
+      "term": {
+        "id": "Orphanet:275864",
+        "label": "Behavioral variant of frontotemporal dementia"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:11:16Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "ekut-schoels",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-RND"
+      }
+    ]
+  }
+}

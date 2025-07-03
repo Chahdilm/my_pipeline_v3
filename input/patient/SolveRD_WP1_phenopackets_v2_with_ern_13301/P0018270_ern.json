@@ -1,0 +1,177 @@
+{
+  "id": "P0018270",
+  "subject": {
+    "id": "P0018270",
+    "alternateIds": [
+      "29472_ND1253"
+    ],
+    "dateOfBirth": "2012-06-22T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000252",
+        "label": "Microcephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000290",
+        "label": "Abnormality of the forehead"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000369",
+        "label": "Low-set ears"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001270",
+        "label": "Motor delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001507",
+        "label": "Growth abnormality"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001511",
+        "label": "Intrauterine growth retardation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001999",
+        "label": "Abnormal facial shape"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002474",
+        "label": "Expressive language delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002578",
+        "label": "Gastroparesis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002579",
+        "label": "Gastrointestinal dysmotility"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004322",
+        "label": "Short stature"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004325",
+        "label": "Decreased body weight"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005709",
+        "label": "2-3 toe cutaneous syndactyly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011968",
+        "label": "Feeding difficulties"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0040080",
+        "label": "Anteverted ears"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001622",
+        "label": "Premature birth"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0018270",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:87277",
+        "label": "Rare intellectual disability"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:58:07Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "iier-posada",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "UDN-Spain"
+      }
+    ]
+  }
+}

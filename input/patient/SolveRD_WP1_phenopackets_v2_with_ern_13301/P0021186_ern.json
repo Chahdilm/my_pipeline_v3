@@ -1,0 +1,1572 @@
+{
+  "id": "P0021186",
+  "subject": {
+    "id": "P0021186",
+    "alternateIds": [
+      "PED6077.1"
+    ],
+    "dateOfBirth": "2014-02-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000062",
+        "label": "Ambiguous genitalia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000069",
+        "label": "Abnormality of the ureter"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000085",
+        "label": "Horseshoe kidney"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000098",
+        "label": "Tall stature"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000107",
+        "label": "Renal cyst"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000175",
+        "label": "Cleft palate"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000204",
+        "label": "Cleft upper lip"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000316",
+        "label": "Hypertelorism"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000359",
+        "label": "Abnormality of the inner ear"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000384",
+        "label": "Preauricular skin tag"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000405",
+        "label": "Conductive hearing impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000407",
+        "label": "Sensorineural hearing impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000479",
+        "label": "Abnormality of the retina"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000481",
+        "label": "Abnormality of the cornea"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000487",
+        "label": "Congenital strabismus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000518",
+        "label": "Cataract"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000565",
+        "label": "Esotropia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000568",
+        "label": "Microphthalmia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000577",
+        "label": "Exotropia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000587",
+        "label": "Abnormality of the optic nerve"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000589",
+        "label": "Coloboma"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000593",
+        "label": "Abnormality of the anterior chamber"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000601",
+        "label": "Hypotelorism"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000613",
+        "label": "Photophobia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000618",
+        "label": "Blindness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000640",
+        "label": "Gaze-evoked nystagmus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000666",
+        "label": "Horizontal nystagmus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000709",
+        "label": "Psychosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000710",
+        "label": "Hyperorality"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000711",
+        "label": "Restlessness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000712",
+        "label": "Emotional lability"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000716",
+        "label": "Depression"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000717",
+        "label": "Autism"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000719",
+        "label": "Inappropriate behavior"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000720",
+        "label": "Mood swings"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000721",
+        "label": "Lack of spontaneous play"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000722",
+        "label": "Obsessive-compulsive behavior"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000729",
+        "label": "Autistic behavior"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000732",
+        "label": "Inflexible adherence to routines or rituals"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000736",
+        "label": "Short attention span"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000737",
+        "label": "Irritability"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000738",
+        "label": "Hallucinations"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000739",
+        "label": "Anxiety"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000744",
+        "label": "Low frustration tolerance"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000745",
+        "label": "Diminished motivation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000746",
+        "label": "Delusions"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000751",
+        "label": "Personality changes"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000756",
+        "label": "Agoraphobia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000757",
+        "label": "Lack of insight"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000776",
+        "label": "Congenital diaphragmatic hernia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000795",
+        "label": "Abnormality of the urethra"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000819",
+        "label": "Diabetes mellitus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000839",
+        "label": "Pituitary dwarfism"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000925",
+        "label": "Abnormality of the vertebral column"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000953",
+        "label": "Hyperpigmentation of the skin"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001010",
+        "label": "Hypopigmentation of the skin"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001141",
+        "label": "Severe visual impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001180",
+        "label": "Hand oligodactyly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001250",
+        "label": "Seizures"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001251",
+        "label": "Ataxia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001257",
+        "label": "Spasticity"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001332",
+        "label": "Dystonia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001361",
+        "label": "Nystagmus-induced head nodding"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001363",
+        "label": "Craniosynostosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001371",
+        "label": "Flexion contracture"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001396",
+        "label": "Cholestasis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001508",
+        "label": "Failure to thrive"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001518",
+        "label": "Small for gestational age"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001533",
+        "label": "Slender build"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001539",
+        "label": "Omphalocele"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001543",
+        "label": "Gastroschisis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001575",
+        "label": "Mood changes"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001583",
+        "label": "Rotary nystagmus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001629",
+        "label": "Ventricular septal defect"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001636",
+        "label": "Tetralogy of Fallot"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001638",
+        "label": "Cardiomyopathy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001655",
+        "label": "Patent foramen ovale"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001674",
+        "label": "Complete atrioventricular canal defect"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001680",
+        "label": "Coarctation of aorta"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001684",
+        "label": "Secundum atrial septal defect"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001738",
+        "label": "Exocrine pancreatic insufficiency"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001762",
+        "label": "Talipes equinovarus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001770",
+        "label": "Toe syndactyly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001824",
+        "label": "Weight loss"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001836",
+        "label": "Camptodactyly of toe"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001849",
+        "label": "Foot oligodactyly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001999",
+        "label": "Abnormal facial shape"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002011",
+        "label": "Morphological abnormality of the central nervous system"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002032",
+        "label": "Esophageal atresia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002072",
+        "label": "Chorea"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002088",
+        "label": "Abnormality of lung morphology"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002193",
+        "label": "Pseudobulbar behavioral symptoms"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002251",
+        "label": "Aganglionic megacolon"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002300",
+        "label": "Mutism"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002307",
+        "label": "Drooling"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002342",
+        "label": "Intellectual disability, moderate"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002360",
+        "label": "Sleep disturbance"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002575",
+        "label": "Tracheoesophageal fistula"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002591",
+        "label": "Polyphagia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002650",
+        "label": "Scoliosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002652",
+        "label": "Skeletal dysplasia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002659",
+        "label": "Increased susceptibility to fractures"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002910",
+        "label": "Elevated hepatic transaminases"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003397",
+        "label": "Generalized hypotonia due to defect at the neuromuscular junction"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003498",
+        "label": "Disproportionate short stature"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003508",
+        "label": "Proportionate short stature"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003561",
+        "label": "Birth length less than 3rd percentile"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003782",
+        "label": "Eunuchoid habitus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004322",
+        "label": "Short stature"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004324",
+        "label": "Increased body weight"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004325",
+        "label": "Decreased body weight"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004467",
+        "label": "Preauricular pit"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005306",
+        "label": "Capillary hemangiomas"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0006101",
+        "label": "Finger syndactyly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0006852",
+        "label": "Episodic generalized hypotonia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0006919",
+        "label": "Abnormal aggressive, impulsive or violent behavior"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0006934",
+        "label": "Congenital nystagmus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007018",
+        "label": "Attention deficit hyperactivity disorder"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007758",
+        "label": "Congenital visual impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008929",
+        "label": "Asymmetric short stature"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0009816",
+        "label": "Lower limb undergrowth"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0009824",
+        "label": "Upper limb undergrowth"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010301",
+        "label": "Spinal dysraphism"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010529",
+        "label": "Echolalia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010542",
+        "label": "Vestibular nystagmus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010545",
+        "label": "Downbeat nystagmus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010864",
+        "label": "Intellectual disability, severe"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010865",
+        "label": "Oppositional defiant disorder"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011276",
+        "label": "Vascular skin abnormality"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011343",
+        "label": "Moderate global developmental delay"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011344",
+        "label": "Severe global developmental delay"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011477",
+        "label": "Upbeat nystagmus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011567",
+        "label": "Sinus venosus atrial septal defect"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011675",
+        "label": "Arrhythmia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011856",
+        "label": "Pica"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0012043",
+        "label": "Pendular nystagmus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0012075",
+        "label": "Personality disorder"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0012154",
+        "label": "Anhedonia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0012433",
+        "label": "Abnormal social behavior"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0012523",
+        "label": "Oral aversion"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0012736",
+        "label": "Profound global developmental delay"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0025068",
+        "label": "Incomitant strabismus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0025069",
+        "label": "Comitant strabismus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0025112",
+        "label": "Sound sensitivity"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0025160",
+        "label": "Abnormal temper tantrums"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0025253",
+        "label": "Claustrophobia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0025269",
+        "label": "Panic attack"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0025312",
+        "label": "Esophoria"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0025313",
+        "label": "Exophoria"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0030082",
+        "label": "Abnormal drinking behavior"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0030083",
+        "label": "Salt craving"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0030213",
+        "label": "Emotional blunting"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0030221",
+        "label": "Sweet craving"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0030223",
+        "label": "Perseveration"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0030691",
+        "label": "Divergence nystagmus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0030842",
+        "label": "Choking episodes"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0030858",
+        "label": "Addictive behavior"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0040082",
+        "label": "Happy demeanor"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0045082",
+        "label": "Decreased body mass index"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100024",
+        "label": "Conspicuously happy disposition"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100258",
+        "label": "Preaxial polydactyly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100259",
+        "label": "Postaxial polydactyly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100490",
+        "label": "Camptodactyly of finger"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100704",
+        "label": "Cortical visual impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100739",
+        "label": "Bulimia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100753",
+        "label": "Schizophrenia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100754",
+        "label": "Mania"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0012188",
+        "label": "Hyperemesis gravidarum"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008071",
+        "label": "Maternal hypertension"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0009800",
+        "label": "Maternal diabetes"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0030244",
+        "label": "Maternal fever in pregnancy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100622",
+        "label": "Maternal seizures"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011438",
+        "label": "Maternal teratogenic exposure"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100603",
+        "label": "Toxemia of pregnancy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011436",
+        "label": "Abnormal maternal serum screening"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001562",
+        "label": "Oligohydramnios"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001561",
+        "label": "Polyhydramnios"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001558",
+        "label": "Decreased fetal movement"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010519",
+        "label": "Increased fetal movement"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011408",
+        "label": "Moderate intrauterine growth retardation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008846",
+        "label": "Severe intrauterine growth retardation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001518",
+        "label": "Small for gestational age"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001520",
+        "label": "Large for gestational age"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003561",
+        "label": "Birth length less than 3rd percentile"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003517",
+        "label": "Birth length greater than 97th percentile"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011451",
+        "label": "Congenital microcephaly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004488",
+        "label": "Macrocephaly at birth"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0006579",
+        "label": "Prolonged neonatal jaundice"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002643",
+        "label": "Neonatal respiratory distress"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0040187",
+        "label": "Neonatal sepsis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001998",
+        "label": "Neonatal hypoglycemia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000356",
+        "label": "Abnormality of the outer ear"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000486",
+        "label": "Strabismus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000505",
+        "label": "Visual impairment"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000639",
+        "label": "Nystagmus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000708",
+        "label": "Behavioral abnormality"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001256",
+        "label": "Intellectual disability, mild"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001263",
+        "label": "Global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001290",
+        "label": "Generalized hypotonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001631",
+        "label": "Atrial septal defect"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008605",
+        "label": "Unilateral external ear deformity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010445",
+        "label": "Primum atrial septal defect"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010544",
+        "label": "Vertical nystagmus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010877",
+        "label": "Unilateral strabismus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011342",
+        "label": "Mild global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0025356",
+        "label": "Pschomotor retardation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030515",
+        "label": "Moderate visual impairment"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0040202",
+        "label": "Abnormal consumption behavior"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100738",
+        "label": "Abnormal eating behavior"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100851",
+        "label": "Abnormal emotion/affect behavior"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100852",
+        "label": "Abnormal fear/anxiety-related behavior"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001511",
+        "label": "Intrauterine growth retardation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001622",
+        "label": "Premature birth"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001787",
+        "label": "Abnormal delivery"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002033",
+        "label": "Poor suck"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005100",
+        "label": "Premature birth following premature rupture of fetal membranes"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008883",
+        "label": "Mild intrauterine growth retardation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011410",
+        "label": "Caesarian section"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030364",
+        "label": "Secondary Caesarian section"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0021186",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:05:33Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "chud-faivre",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

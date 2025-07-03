@@ -1,0 +1,282 @@
+{
+  "id": "P0016952",
+  "subject": {
+    "id": "P0016952",
+    "alternateIds": [
+      "FR-NEIDF0211"
+    ],
+    "dateOfBirth": "2006-12-08T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000776",
+        "label": "Congenital diaphragmatic hernia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002088",
+        "label": "Abnormality of lung morphology"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0012188",
+        "label": "Hyperemesis gravidarum"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008071",
+        "label": "Maternal hypertension"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0009800",
+        "label": "Maternal diabetes"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0030244",
+        "label": "Maternal fever in pregnancy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100622",
+        "label": "Maternal seizures"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011438",
+        "label": "Maternal teratogenic exposure"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100603",
+        "label": "Toxemia of pregnancy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011436",
+        "label": "Abnormal maternal serum screening"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001511",
+        "label": "Intrauterine growth retardation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001562",
+        "label": "Oligohydramnios"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001561",
+        "label": "Polyhydramnios"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001558",
+        "label": "Decreased fetal movement"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010519",
+        "label": "Increased fetal movement"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001622",
+        "label": "Premature birth"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000252",
+        "label": "Microcephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000253",
+        "label": "Progressive microcephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000518",
+        "label": "Cataract"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001290",
+        "label": "Generalized hypotonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002011",
+        "label": "Morphological abnormality of the central nervous system"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002068",
+        "label": "Neuromuscular dysphagia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002093",
+        "label": "Respiratory insufficiency"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002650",
+        "label": "Scoliosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004325",
+        "label": "Decreased body weight"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0016952",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0016952",
+            "interpretationStatus": "CAUSATIVE",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:30881",
+                  "symbol": "ALG13"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "X",
+                  "pos": "110971470",
+                  "ref": "C",
+                  "alt": "T",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:370959",
+        "label": "Congenital muscular dystrophy with cerebellar involvement"
+      }
+    },
+    {
+      "term": {
+        "id": "Orphanet:324422",
+        "label": "ALG13-CDG"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:57:39Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "aim-bonne",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

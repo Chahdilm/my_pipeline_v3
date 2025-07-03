@@ -1,0 +1,331 @@
+{
+  "id": "P0015675",
+  "subject": {
+    "id": "P0015675",
+    "alternateIds": [
+      "NP0474-1"
+    ],
+    "dateOfBirth": "2001-07-05T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000028",
+        "label": "Cryptorchidism"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000047",
+        "label": "Hypospadias"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0009800",
+        "label": "Maternal diabetes"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011438",
+        "label": "Maternal teratogenic exposure"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001511",
+        "label": "Intrauterine growth retardation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001562",
+        "label": "Oligohydramnios"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001561",
+        "label": "Polyhydramnios"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001558",
+        "label": "Decreased fetal movement"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001787",
+        "label": "Abnormal delivery"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002376",
+        "label": "Developmental regression"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007281",
+        "label": "Developmental stagnation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005855",
+        "label": "Multiple prenatal fractures"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000252",
+        "label": "Microcephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000708",
+        "label": "Behavioral abnormality"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000722",
+        "label": "Obsessive-compulsive behavior"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000744",
+        "label": "Low frustration tolerance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001629",
+        "label": "Ventricular septal defect"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001631",
+        "label": "Atrial septal defect"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001655",
+        "label": "Patent foramen ovale"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002360",
+        "label": "Sleep disturbance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002395",
+        "label": "Lower limb hyperreflexia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004322",
+        "label": "Short stature"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004325",
+        "label": "Decreased body weight"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006979",
+        "label": "Sleep-wake cycle disturbance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007083",
+        "label": "Hyperactive patellar reflex"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008770",
+        "label": "Obsessive-compulsive trait"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011276",
+        "label": "Vascular skin abnormality"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011451",
+        "label": "Congenital microcephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012452",
+        "label": "Restless legs"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0025356",
+        "label": "Pschomotor retardation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100665",
+        "label": "Angioedema"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100785",
+        "label": "Insomnia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000750",
+        "label": "Delayed speech and language development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001263",
+        "label": "Global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002474",
+        "label": "Expressive language delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010863",
+        "label": "Receptive language delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011343",
+        "label": "Moderate global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011345",
+        "label": "Moderate expressive language delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011351",
+        "label": "Moderate receptive language delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011451",
+        "label": "Congenital microcephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012758",
+        "label": "Neurodevelopmental delay"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0015675",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:57:06Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "vhir-macaya",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-RND"
+      }
+    ]
+  }
+}

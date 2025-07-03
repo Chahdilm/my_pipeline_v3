@@ -1,0 +1,387 @@
+{
+  "id": "P0015642",
+  "subject": {
+    "id": "P0015642",
+    "alternateIds": [
+      "NP0482-1"
+    ],
+    "dateOfBirth": "2008-10-23T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000496",
+        "label": "Abnormality of eye movement"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001251",
+        "label": "Ataxia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001260",
+        "label": "Dysarthria"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001265",
+        "label": "Hyporeflexia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001324",
+        "label": "Muscle weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001337",
+        "label": "Tremor"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001347",
+        "label": "Hyperreflexia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002015",
+        "label": "Dysphagia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002063",
+        "label": "Rigidity"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002169",
+        "label": "Clonus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003487",
+        "label": "Babinski sign"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004305",
+        "label": "Involuntary movements"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007256",
+        "label": "Abnormal pyramidal signs"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100033",
+        "label": "Tics"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0009800",
+        "label": "Maternal diabetes"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011438",
+        "label": "Maternal teratogenic exposure"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001511",
+        "label": "Intrauterine growth retardation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001562",
+        "label": "Oligohydramnios"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001561",
+        "label": "Polyhydramnios"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001558",
+        "label": "Decreased fetal movement"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005855",
+        "label": "Multiple prenatal fractures"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000325",
+        "label": "Triangular face"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000527",
+        "label": "Long eyelashes"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001332",
+        "label": "Dystonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001382",
+        "label": "Joint hypermobility"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002020",
+        "label": "Gastroesophageal reflux"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002265",
+        "label": "Large fleshy ears"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002273",
+        "label": "Tetraparesis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002374",
+        "label": "Diminished movement"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002451",
+        "label": "Limb dystonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002705",
+        "label": "High, narrow palate"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005769",
+        "label": "Fifth finger distal phalanx clinodactyly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005824",
+        "label": "Clinodactyly of the 2nd toe"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007325",
+        "label": "Generalized dystonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010864",
+        "label": "Intellectual disability, severe"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011476",
+        "label": "Profound sensorineural hearing impairment"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012048",
+        "label": "Oromandibular dystonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001263",
+        "label": "Global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001622",
+        "label": "Premature birth"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004387",
+        "label": "Enterocolitis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011649",
+        "label": "Patent ductus arteriosus after premature birth"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012736",
+        "label": "Profound global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012758",
+        "label": "Neurodevelopmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0040187",
+        "label": "Neonatal sepsis"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0015642",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0015642",
+            "interpretationStatus": "CAUSATIVE",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:29012",
+                  "symbol": "KDM6B"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "17",
+                  "pos": "7749427",
+                  "ref": "CT",
+                  "alt": "C",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:57:02Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "vhir-macaya",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-RND"
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "id": "P0013011",
+  "subject": {
+    "id": "P0013011",
+    "alternateIds": [
+      "RUMC_solverd_ithaca_0563"
+    ],
+    "dateOfBirth": "1995-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000002",
+        "label": "Abnormality of body height"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001518",
+        "label": "Small for gestational age"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001520",
+        "label": "Large for gestational age"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000175",
+        "label": "Cleft palate"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000204",
+        "label": "Cleft upper lip"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000316",
+        "label": "Hypertelorism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000358",
+        "label": "Posteriorly rotated ears"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000377",
+        "label": "Abnormality of the pinna"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000436",
+        "label": "Abnormality of the nasal tip"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000445",
+        "label": "Wide nose"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000455",
+        "label": "Broad nasal tip"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000494",
+        "label": "Downslanted palpebral fissures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001238",
+        "label": "Slender finger"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001831",
+        "label": "Short toe"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002342",
+        "label": "Intellectual disability, moderate"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010752",
+        "label": "Cleft mandible"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0013011",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0013011",
+            "interpretationStatus": "CAUSATIVE",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:11254",
+                  "symbol": "SPOP"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "17",
+                  "pos": "47696411",
+                  "ref": "G",
+                  "alt": "A",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:56:31Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-vissers",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

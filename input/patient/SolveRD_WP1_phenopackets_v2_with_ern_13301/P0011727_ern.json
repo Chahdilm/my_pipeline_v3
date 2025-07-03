@@ -1,0 +1,167 @@
+{
+  "id": "P0011727",
+  "subject": {
+    "id": "P0011727",
+    "alternateIds": [
+      "ID12608"
+    ],
+    "dateOfBirth": "1959-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0002066",
+        "label": "Gait ataxia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002495",
+        "label": "Impaired vibratory sensation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003477",
+        "label": "Peripheral axonal neuropathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007178",
+        "label": "Motor polyneuropathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007199",
+        "label": "Progressive spastic paraparesis"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0011727",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "OMIM:612020",
+          "label": "Spastic Paraplegia 39, Autosomal Recessive"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0011727",
+            "interpretationStatus": "CAUSATIVE",
+            "gene": {
+              "valueId": "HGNC:16268",
+              "symbol": "PNPLA6"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0011727",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:16268",
+                  "symbol": "PNPLA6"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "19",
+                  "pos": "7605561",
+                  "ref": "G",
+                  "alt": "A",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0011727",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:16268",
+                  "symbol": "PNPLA6"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "19",
+                  "pos": "7619464",
+                  "ref": "G",
+                  "alt": "A",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:139480",
+        "label": "Autosomal recessive spastic paraplegia type 39"
+      }
+    },
+    {
+      "term": {
+        "id": "OMIM:612020",
+        "label": "Spastic Paraplegia 39, Autosomal Recessive"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:56:00Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "ekut-schuele",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-RND"
+      }
+    ]
+  }
+}

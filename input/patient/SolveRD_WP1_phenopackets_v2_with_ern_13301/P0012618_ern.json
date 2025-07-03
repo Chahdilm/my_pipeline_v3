@@ -1,0 +1,177 @@
+{
+  "id": "P0012618",
+  "subject": {
+    "id": "P0012618",
+    "alternateIds": [
+      "RUMC_solverd_ithaca_0170"
+    ],
+    "dateOfBirth": "2013-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000002",
+        "label": "Abnormality of body height"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000240",
+        "label": "Abnormality of skull size"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000444",
+        "label": "Convex nasal ridge"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000486",
+        "label": "Strabismus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000617",
+        "label": "Abnormality of ocular smooth pursuit"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000953",
+        "label": "Hyperpigmentation of the skin"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001252",
+        "label": "Muscular hypotonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001270",
+        "label": "Motor delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002307",
+        "label": "Drooling"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004325",
+        "label": "Decreased body weight"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004691",
+        "label": "2-3 toe syndactyly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007360",
+        "label": "Aplasia/Hypoplasia of the cerebellum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100022",
+        "label": "Abnormality of movement"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0012618",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "OMIM:614815",
+          "label": "JOUBERT SYNDROME 18"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0012618",
+            "interpretationStatus": "CAUSATIVE",
+            "gene": {
+              "valueId": "HGNC:24519",
+              "symbol": "TCTN3"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "OMIM:614815",
+        "label": "JOUBERT SYNDROME 18"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:56:02Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-vissers",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

@@ -1,0 +1,430 @@
+{
+  "id": "P0435584",
+  "subject": {
+    "id": "P0435584",
+    "alternateIds": [
+      "RUGroningen_solverd_ithaca_0001"
+    ],
+    "dateOfBirth": "2018-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000160",
+        "label": "Narrow mouth"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000168",
+        "label": "Abnormality of the gingiva"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000205",
+        "label": "Pursed lips"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000238",
+        "label": "Hydrocephalus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000306",
+        "label": "Abnormality of the chin"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000324",
+        "label": "Facial asymmetry"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000364",
+        "label": "Hearing abnormality"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000375",
+        "label": "Abnormal cochlea morphology"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000378",
+        "label": "Cupped ear"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000419",
+        "label": "Abnormality of the nasal septum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000492",
+        "label": "Abnormal eyelid morphology"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000526",
+        "label": "Aniridia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000568",
+        "label": "Microphthalmia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000586",
+        "label": "Shallow orbits"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000612",
+        "label": "Iris coloboma"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000653",
+        "label": "Sparse eyelashes"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000668",
+        "label": "Hypodontia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000965",
+        "label": "Cutis marmorata"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001043",
+        "label": "Prominent scalp veins"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001250",
+        "label": "Seizure"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001320",
+        "label": "Cerebellar vermis hypoplasia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001338",
+        "label": "Partial agenesis of the corpus callosum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001596",
+        "label": "Alopecia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001763",
+        "label": "Pes planus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001840",
+        "label": "Metatarsus adductus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002198",
+        "label": "Dilated fourth ventricle"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002365",
+        "label": "Hypoplasia of the brainstem"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002536",
+        "label": "Abnormal cortical gyration"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006482",
+        "label": "Abnormality of dental morphology"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007082",
+        "label": "Dilated third ventricle"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007343",
+        "label": "Abnormal morphology of the limbic system"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007766",
+        "label": "Optic disc hypoplasia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008082",
+        "label": "Medial deviation of the foot"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010290",
+        "label": "Short hard palate"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010558",
+        "label": "Abnormality of the clivus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010668",
+        "label": "Abnormality of the zygomatic bone"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010938",
+        "label": "Abnormality of the external nose"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010993",
+        "label": "Abnormality of the cerebral subcortex"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011344",
+        "label": "Severe global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011800",
+        "label": "Midface retrusion"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012521",
+        "label": "Optic nerve aplasia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0025163",
+        "label": "Abnormality of optic chiasm morphology"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030048",
+        "label": "Colpocephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100699",
+        "label": "Scarring"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:3000003",
+        "label": "Abnormal mandibular ramus morphology"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:3000079",
+        "label": "Abnormal mandibular symphysis morphology"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009800",
+        "label": "Maternal diabetes"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010952",
+        "label": "Mild fetal ventriculomegaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011413",
+        "label": "Shoulder dystocia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012768",
+        "label": "Neonatal asphyxia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001507",
+        "label": "Growth abnormality"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001518",
+        "label": "Small for gestational age"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001520",
+        "label": "Large for gestational age"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003517",
+        "label": "Birth length greater than 97th percentile"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003561",
+        "label": "Birth length less than 3rd percentile"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004488",
+        "label": "Macrocephaly at birth"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011451",
+        "label": "Congenital microcephaly"
+      },
+      "excluded": true
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0435584",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "OMIM:618727",
+          "label": "Ectodermal Dysplasia With Facial Dysmorphism And Acral, Ocular, And Brain Anomalies, Somatic Mosaic"
+        }
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "OMIM:618727",
+        "label": "Ectodermal Dysplasia With Facial Dysmorphism And Acral, Ocular, And Brain Anomalies, Somatic Mosaic"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:10:56Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-vissers",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

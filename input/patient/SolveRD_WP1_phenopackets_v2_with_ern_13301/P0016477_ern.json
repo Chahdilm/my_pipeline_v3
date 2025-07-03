@@ -1,0 +1,117 @@
+{
+  "id": "P0016477",
+  "subject": {
+    "id": "P0016477",
+    "alternateIds": [
+      "170130"
+    ],
+    "dateOfBirth": "2016-04-07T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0001305",
+        "label": "Dandy-Walker malformation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001320",
+        "label": "Cerebellar vermis hypoplasia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002126",
+        "label": "Polymicrogyria"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002282",
+        "label": "Heterotopia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002509",
+        "label": "Limb hypertonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008936",
+        "label": "Muscular hypotonia of the trunk"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012434",
+        "label": "Delayed social development"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0016477",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:269546",
+        "label": "Syndrome with a Dandy-Walker malformation as major feature"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:57:24Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "ekut-riess",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

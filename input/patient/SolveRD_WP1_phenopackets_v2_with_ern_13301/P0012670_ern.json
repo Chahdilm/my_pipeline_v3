@@ -1,0 +1,201 @@
+{
+  "id": "P0012670",
+  "subject": {
+    "id": "P0012670",
+    "alternateIds": [
+      "RUMC_solverd_ithaca_0222"
+    ],
+    "dateOfBirth": "2008-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000002",
+        "label": "Abnormality of body height"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000020",
+        "label": "Urinary incontinence"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000179",
+        "label": "Thick lower lip vermilion"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000325",
+        "label": "Triangular face"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000403",
+        "label": "Recurrent otitis media"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000490",
+        "label": "Deeply set eye"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000545",
+        "label": "Myopia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000717",
+        "label": "Autism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000735",
+        "label": "Impaired social interactions"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000750",
+        "label": "Delayed speech and language development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001263",
+        "label": "Global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001520",
+        "label": "Large for gestational age"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001544",
+        "label": "Prominent umbilicus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002360",
+        "label": "Sleep disturbance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005280",
+        "label": "Depressed nasal bridge"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006149",
+        "label": "Increased laxity of fingers"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008872",
+        "label": "Feeding difficulties in infancy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011098",
+        "label": "Speech apraxia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011304",
+        "label": "Broad thumb"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030051",
+        "label": "Tip-toe gait"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100852",
+        "label": "Abnormal fear/anxiety-related behavior"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0012670",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:56:02Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-vissers",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

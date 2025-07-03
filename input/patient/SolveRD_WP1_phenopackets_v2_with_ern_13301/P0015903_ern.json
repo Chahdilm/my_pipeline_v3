@@ -1,0 +1,170 @@
+{
+  "id": "P0015903",
+  "subject": {
+    "id": "P0015903",
+    "alternateIds": [
+      "NP0325-1"
+    ],
+    "dateOfBirth": "2009-08-22T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0010851",
+        "label": "EEG with burst suppression"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0012443",
+        "label": "Abnormality of brain morphology"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000717",
+        "label": "Autism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001269",
+        "label": "Hemiparesis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002121",
+        "label": "Absence seizures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007105",
+        "label": "Infantile encephalopathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010819",
+        "label": "Atonic seizures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010841",
+        "label": "Multifocal epileptiform discharges"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010845",
+        "label": "EEG with generalized slow activity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010864",
+        "label": "Intellectual disability, severe"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011097",
+        "label": "Epileptic spasms"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0200134",
+        "label": "Epileptic encephalopathy"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0015903",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0015903",
+            "interpretationStatus": "CAUSATIVE",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:4332",
+                  "symbol": "BICRA"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "19",
+                  "pos": "48205505",
+                  "ref": "GAC",
+                  "alt": "G",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:57:17Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "vhir-macaya",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-RND"
+      }
+    ]
+  }
+}

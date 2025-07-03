@@ -1,0 +1,139 @@
+{
+  "id": "P0022073",
+  "subject": {
+    "id": "P0022073",
+    "alternateIds": [
+      "18334481"
+    ],
+    "dateOfBirth": "2014-03-26T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000276",
+        "label": "Long face"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000753",
+        "label": "Autism with high cognitive abilities"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002020",
+        "label": "Gastroesophageal reflux"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002039",
+        "label": "Anorexia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002359",
+        "label": "Frequent falls"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005461",
+        "label": "Craniofacial disproportion"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007002",
+        "label": "Motor axonal neuropathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007068",
+        "label": "Inferior vermis hypoplasia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007307",
+        "label": "Rapid neurologic deterioration"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010863",
+        "label": "Receptive language delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011172",
+        "label": "Complex febrile seizures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012046",
+        "label": "Areflexia of upper limbs"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0022073",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:06:03Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "vhir-macaya",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

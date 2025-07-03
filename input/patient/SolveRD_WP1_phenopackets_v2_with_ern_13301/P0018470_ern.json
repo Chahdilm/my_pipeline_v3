@@ -1,0 +1,171 @@
+{
+  "id": "P0018470",
+  "subject": {
+    "id": "P0018470",
+    "alternateIds": [
+      "TOP_FMAL508_508_1_1"
+    ],
+    "dateOfBirth": "2009-09-14T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0002650",
+        "label": "Scoliosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002987",
+        "label": "Elbow flexion contracture"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003121",
+        "label": "Limb joint contracture"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003202",
+        "label": "Skeletal muscle atrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003546",
+        "label": "Exercise intolerance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003736",
+        "label": "Autophagic vacuoles"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006380",
+        "label": "Knee flexion contracture"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030230",
+        "label": "Central core regions in muscle fibers"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0018470",
+      "progressStatus": "UNSOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0018470",
+            "interpretationStatus": "CANDIDATE",
+            "gene": {
+              "valueId": "HGNC:18603",
+              "symbol": "COL25A1"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0018470",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "UNCERTAIN_SIGNIFICANCE",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:18603",
+                  "symbol": "COL25A1"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "4",
+                  "pos": "109740433",
+                  "ref": "T",
+                  "alt": "A",
+                  "info": "Uncertain significance"
+                }
+              }
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0018470",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "UNCERTAIN_SIGNIFICANCE",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:10483",
+                  "symbol": "RYR1"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "19",
+                  "pos": "38990545",
+                  "ref": "C",
+                  "alt": "G",
+                  "info": "Uncertain significance"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:58:12Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "cheo-lochmuller",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

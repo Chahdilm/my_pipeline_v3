@@ -1,0 +1,129 @@
+{
+  "id": "P0228718",
+  "subject": {
+    "id": "P0228718",
+    "alternateIds": [
+      "X7284"
+    ],
+    "dateOfBirth": "1999-10-17T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0003715",
+        "label": "Myofibrillar myopathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001639",
+        "label": "Hypertrophic cardiomyopathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0032444",
+        "label": "Status post organ transplantation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001611",
+        "label": "Nasal speech"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003419",
+        "label": "Low back pain"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030319",
+        "label": "Weakness of facial musculature"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003376",
+        "label": "Steppage gait"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003236",
+        "label": "Elevated serum creatine kinase"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030951",
+        "label": "Skeletal muscle fibrosis"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0228718",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:99739",
+        "label": "Rare familial disorder with hypertrophic cardiomyopathy"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:06:41Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "tigem-nigro",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

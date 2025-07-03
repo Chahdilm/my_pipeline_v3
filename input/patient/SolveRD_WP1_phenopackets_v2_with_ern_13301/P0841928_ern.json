@@ -1,0 +1,175 @@
+{
+  "id": "P0841928",
+  "subject": {
+    "id": "P0841928",
+    "alternateIds": [
+      "20My1017"
+    ],
+    "dateOfBirth": "1965-01-15T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0003388",
+        "label": "Easy fatigability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003419",
+        "label": "Low back pain"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003710",
+        "label": "Exercise-induced muscle cramps"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002108",
+        "label": "Spontaneous pneumothorax"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003327",
+        "label": "Axial muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0031462",
+        "label": "Musculotendinous retraction"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100595",
+        "label": "Camptocormia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002355",
+        "label": "Difficulty walking"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0841928",
+      "progressStatus": "UNSOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "OMIM:618129",
+          "label": "Muscular dystrophy, limb-girdle, autosomal dominant 4"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0841928",
+            "interpretationStatus": "REJECTED",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "UNCERTAIN_SIGNIFICANCE",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:2928",
+                  "symbol": "DMD"
+                },
+                "expressions": [
+                  {
+                    "syntax": "hgvs",
+                    "value": "NM_004006.2:c.9729A>C"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0841928",
+            "interpretationStatus": "CAUSATIVE",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "LIKELY_PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:1480",
+                  "symbol": "CAPN3"
+                },
+                "expressions": [
+                  {
+                    "syntax": "hgvs",
+                    "value": "NM_000070.2:c.1333G>A"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:565909",
+        "label": "Calpain-3-related limb-girdle muscular dystrophy D4"
+      }
+    },
+    {
+      "term": {
+        "id": "OMIM:618129",
+        "label": "Muscular dystrophy, limb-girdle, autosomal dominant 4"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:11:16Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "aim-bonne",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

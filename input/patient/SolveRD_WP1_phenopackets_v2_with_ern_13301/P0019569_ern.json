@@ -1,0 +1,214 @@
+{
+  "id": "P0019569",
+  "subject": {
+    "id": "P0019569",
+    "alternateIds": [
+      "RUMC_solverd_ithaca_2679"
+    ],
+    "dateOfBirth": "2007-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000275",
+        "label": "Narrow face"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000446",
+        "label": "Narrow nasal bridge"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000540",
+        "label": "Hypermetropia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000582",
+        "label": "Upslanted palpebral fissure"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000717",
+        "label": "Autism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000718",
+        "label": "Aggressive behavior"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000739",
+        "label": "Anxiety"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000741",
+        "label": "Apathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001090",
+        "label": "Large eyes"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001256",
+        "label": "Intellectual disability, mild"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001533",
+        "label": "Slender build"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001786",
+        "label": "Narrow foot"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002360",
+        "label": "Sleep disturbance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004325",
+        "label": "Decreased body weight"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010865",
+        "label": "Oppositional defiant disorder"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100738",
+        "label": "Abnormal eating behavior"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100807",
+        "label": "Long fingers"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002033",
+        "label": "Poor suck"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002045",
+        "label": "Hypothermia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011438",
+        "label": "Maternal teratogenic exposure"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0019569",
+      "progressStatus": "UNSOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0019569",
+            "interpretationStatus": "CANDIDATE",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "UNCERTAIN_SIGNIFICANCE",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:29025",
+                  "symbol": "ZNF536"
+                },
+                "expressions": [
+                  {
+                    "syntax": "hgvs",
+                    "value": "NM_001352260.1:c.502dup"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:04:59Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-vissers",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "id": "P0009543",
+  "subject": {
+    "id": "P0009543",
+    "alternateIds": [
+      "NG0324A"
+    ],
+    "dateOfBirth": "2013-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000248",
+        "label": "Brachycephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000343",
+        "label": "Long philtrum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000463",
+        "label": "Anteverted nares"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000470",
+        "label": "Short neck"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000494",
+        "label": "Downslanted palpebral fissures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000768",
+        "label": "Pectus carinatum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000912",
+        "label": "Sprengel anomaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000954",
+        "label": "Single transverse palmar crease"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001212",
+        "label": "Prominent fingertip pads"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001639",
+        "label": "Hypertrophic cardiomyopathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002714",
+        "label": "Downturned corners of mouth"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004602",
+        "label": "Cervical C2/C3 vertebral fusion"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0009543",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "OMIM:617047",
+          "label": "Cardiomyopathy, Familial Hypertrophic, 26"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0009543",
+            "interpretationStatus": "CAUSATIVE",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:3756",
+                  "symbol": "FLNC"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "7",
+                  "pos": "128485076",
+                  "ref": "C",
+                  "alt": "T",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0009543",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:3756",
+                  "symbol": "FLNC"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "7",
+                  "pos": "128485076",
+                  "ref": "C",
+                  "alt": "T",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "OMIM:617047",
+        "label": "Cardiomyopathy, Familial Hypertrophic, 26"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:36:10Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "cuni-macek",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

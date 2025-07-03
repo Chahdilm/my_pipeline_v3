@@ -1,0 +1,174 @@
+{
+  "id": "P0017059",
+  "subject": {
+    "id": "P0017059",
+    "alternateIds": [
+      "RUMC_solverd_ithaca_2498"
+    ],
+    "dateOfBirth": "2010-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000248",
+        "label": "Brachycephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000750",
+        "label": "Delayed speech and language development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001250",
+        "label": "Seizures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001270",
+        "label": "Motor delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003287",
+        "label": "Abnormality of mitochondrial metabolism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006532",
+        "label": "Recurrent pneumonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006829",
+        "label": "Severe muscular hypotonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007105",
+        "label": "Infantile encephalopathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008872",
+        "label": "Feeding difficulties in infancy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011097",
+        "label": "Epileptic spasms"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100704",
+        "label": "Cortical visual impairment"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0017059",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "OMIM:613720",
+          "label": "EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 7"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0017059",
+            "interpretationStatus": "CANDIDATE",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:6296",
+                  "symbol": "KCNQ2"
+                },
+                "expressions": [
+                  {
+                    "syntax": "hgvs",
+                    "value": "NM_172107.2:c.602G>A"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "OMIM:613720",
+        "label": "EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 7"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:57:44Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-vissers",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

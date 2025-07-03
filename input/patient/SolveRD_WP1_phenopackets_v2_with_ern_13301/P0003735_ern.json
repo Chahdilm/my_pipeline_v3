@@ -1,0 +1,653 @@
+{
+  "id": "P0003735",
+  "subject": {
+    "id": "P0003735",
+    "alternateIds": [
+      "09-001"
+    ],
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000467",
+        "label": "Neck muscle weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000508",
+        "label": "Ptosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000597",
+        "label": "Ophthalmoparesis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000765",
+        "label": "Abnormality of the thorax"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001635",
+        "label": "Congestive heart failure"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001638",
+        "label": "Cardiomyopathy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002015",
+        "label": "Dysphagia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002093",
+        "label": "Respiratory insufficiency"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002167",
+        "label": "Neurological speech impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002205",
+        "label": "Recurrent respiratory infections"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002355",
+        "label": "Difficulty walking"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002540",
+        "label": "Inability to walk"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002564",
+        "label": "obsolete Malformation of the heart and great vessels"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002650",
+        "label": "Scoliosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002948",
+        "label": "Vertebral fusion"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003306",
+        "label": "Spinal rigidity"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003307",
+        "label": "Hyperlordosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003326",
+        "label": "Myalgia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003394",
+        "label": "Muscle cramps"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003445",
+        "label": "EMG: neuropathic changes"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003473",
+        "label": "Fatigable weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003546",
+        "label": "Exercise intolerance"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003691",
+        "label": "Scapular winging"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003713",
+        "label": "Muscle fiber necrosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003715",
+        "label": "Myofibrillar myopathy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003722",
+        "label": "Neck flexor weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003730",
+        "label": "EMG: myotonic runs"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003733",
+        "label": "Thigh hypertrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003789",
+        "label": "Minicore myopathy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003798",
+        "label": "Nemaline bodies"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003803",
+        "label": "Type 1 muscle fiber predominance"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004887",
+        "label": "Respiratory failure requiring assisted ventilation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005750",
+        "label": "Contractures of the joints of the lower limbs"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0006957",
+        "label": "Loss of ability to walk"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008956",
+        "label": "Proximal lower limb amyotrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008981",
+        "label": "Calf muscle hypertrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008994",
+        "label": "Proximal muscle weakness in lower limbs"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008997",
+        "label": "Proximal muscle weakness in upper limbs"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0009071",
+        "label": "Inflammatory myopathy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010602",
+        "label": "Type 2 muscle fiber predominance"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011675",
+        "label": "Arrhythmia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0030098",
+        "label": "Reduced muscle dystrophin expression"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0030099",
+        "label": "Reduced muscle fiber alpha dystroglycan"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0030102",
+        "label": "Reduced muscle fiber alpha sarcoglycan"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0030107",
+        "label": "Reduced muscle fiber beta sarcoglycan"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0030108",
+        "label": "Reduced muscle fiber gamma sarcoglycan"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0030111",
+        "label": "Reduced muscle fiber delta sarcoglycan"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0030115",
+        "label": "Reduced muscle fiber dysferlin"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0030118",
+        "label": "Reduced muscle fiber emerin"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0030121",
+        "label": "Reduced muscle fiber calpain-3"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0030319",
+        "label": "Weakness of facial musculature"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0040266",
+        "label": "Proximal upper limb muscle hypertrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0040267",
+        "label": "Distal upper limb muscle hypertrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100284",
+        "label": "EMG: myotonic discharges"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100360",
+        "label": "Contractures of the joints of the upper limbs"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:1000001",
+        "label": "HP:1000001"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:1000002",
+        "label": "HP:1000002"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:1000003",
+        "label": "HP:1000003"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:1000004",
+        "label": "HP:1000004"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:1000005",
+        "label": "HP:1000005"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:1000006",
+        "label": "HP:1000006"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:1000007",
+        "label": "HP:1000007"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:1000008",
+        "label": "HP:1000008"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:1000009",
+        "label": "HP:1000009"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:1000010",
+        "label": "HP:1000010"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:1000011",
+        "label": "HP:1000011"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001324",
+        "label": "Muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002460",
+        "label": "Distal muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003198",
+        "label": "Myopathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003323",
+        "label": "Progressive muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003458",
+        "label": "EMG: myopathic abnormalities"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003560",
+        "label": "Muscular dystrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003687",
+        "label": "Centrally nucleated skeletal muscle fibers"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003805",
+        "label": "Rimmed vacuoles"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008959",
+        "label": "Distal upper limb muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009053",
+        "label": "Distal lower limb muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011399",
+        "label": "Tibialis atrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011805",
+        "label": "Abnormality of muscle morphology"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0040081",
+        "label": "Abnormal levels of creatine kinase in blood"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:1000012",
+        "label": "HP:1000012"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:1000013",
+        "label": "HP:1000013"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0003735",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0003735",
+            "interpretationStatus": "CAUSATIVE",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:11122",
+                  "symbol": "SMPX"
+                },
+                "expressions": [
+                  {
+                    "syntax": "hgvs",
+                    "value": "NM_014332.3:c.233G\u2009>\u2009A"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:599",
+        "label": "Distal myopathy"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:36:01Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "uh-udd",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

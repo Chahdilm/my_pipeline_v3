@@ -1,0 +1,159 @@
+{
+  "id": "P0100285",
+  "subject": {
+    "id": "P0100285",
+    "alternateIds": [
+      "SRD048"
+    ],
+    "dateOfBirth": "1970-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0001287",
+        "label": "Meningitis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001392",
+        "label": "Abnormality of the liver"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001635",
+        "label": "Congestive heart failure"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001744",
+        "label": "Splenomegaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002014",
+        "label": "Diarrhea"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002110",
+        "label": "Bronchiectasis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004313",
+        "label": "Decreased circulating antibody level"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005263",
+        "label": "Gastritis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006510",
+        "label": "Chronic pulmonary obstruction"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010976",
+        "label": "B lymphocytopenia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011947",
+        "label": "Respiratory tract infection"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012395",
+        "label": "Seasonal allergy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0032170",
+        "label": "Severe varicella zoster infection"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0410324",
+        "label": "Dust mite allergy"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0100285",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:1572",
+        "label": "Common variable immunodeficiency"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:06:29Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "ukf-grimbacher",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-RITA"
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "id": "P0249249",
+  "subject": {
+    "id": "P0249249",
+    "alternateIds": [
+      "BB7729"
+    ],
+    "dateOfBirth": "1961-07-24T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0002359",
+        "label": "Frequent falls"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008997",
+        "label": "Proximal muscle weakness in upper limbs"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008994",
+        "label": "Proximal muscle weakness in lower limbs"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009073",
+        "label": "Progressive proximal muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003698",
+        "label": "Difficulty standing"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002355",
+        "label": "Difficulty walking"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004347",
+        "label": "Weakness of muscles of respiration"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003473",
+        "label": "Fatigable weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010628",
+        "label": "Facial palsy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0009023",
+        "label": "Abdominal wall muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003722",
+        "label": "Neck flexor weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008180",
+        "label": "Mildly elevated creatine kinase"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003691",
+        "label": "Scapular winging"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009050",
+        "label": "Quadriceps muscle atrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001638",
+        "label": "Cardiomyopathy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0030834",
+        "label": "Shoulder pain"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002828",
+        "label": "Multiple joint contractures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003458",
+        "label": "EMG: myopathic abnormalities"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0249249",
+      "progressStatus": "UNSOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0249249",
+            "gene": {
+              "valueId": "HGNC:25896",
+              "symbol": "ORAI1"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0249249",
+            "gene": {
+              "valueId": "HGNC:11386",
+              "symbol": "STIM1"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0249249",
+            "interpretationStatus": "REJECTED",
+            "gene": {
+              "valueId": "HGNC:2188",
+              "symbol": "COL12A1"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0249249",
+            "gene": {
+              "valueId": "HGNC:2211",
+              "symbol": "COL6A1"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0249249",
+            "gene": {
+              "valueId": "HGNC:2212",
+              "symbol": "COL6A2"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0249249",
+            "gene": {
+              "valueId": "HGNC:2213",
+              "symbol": "COL6A3"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0249249",
+            "gene": {
+              "valueId": "HGNC:939",
+              "symbol": "BAG3"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0249249",
+            "gene": {
+              "valueId": "HGNC:6636",
+              "symbol": "LMNA"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0249249",
+            "gene": {
+              "valueId": "HGNC:"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:06:42Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "unew-straub",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "id": "P0151417",
+  "subject": {
+    "id": "P0151417",
+    "alternateIds": [
+      "SRD017"
+    ],
+    "dateOfBirth": "1959-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000822",
+        "label": "Hypertension"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001392",
+        "label": "Abnormality of the liver"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001744",
+        "label": "Splenomegaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001873",
+        "label": "Thrombocytopenia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001882",
+        "label": "Leukopenia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001891",
+        "label": "Iron deficiency anemia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001903",
+        "label": "Anemia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001973",
+        "label": "Autoimmune thrombocytopenia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002014",
+        "label": "Diarrhea"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002090",
+        "label": "Pneumonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002242",
+        "label": "Abnormal intestine morphology"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002664",
+        "label": "Neoplasm"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002716",
+        "label": "Lymphadenopathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002783",
+        "label": "Recurrent lower respiratory tract infections"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002788",
+        "label": "Recurrent upper respiratory tract infections"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002955",
+        "label": "Granulomatosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002960",
+        "label": "Autoimmunity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004313",
+        "label": "Decreased circulating antibody level"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005263",
+        "label": "Gastritis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008940",
+        "label": "Generalized lymphadenopathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011947",
+        "label": "Respiratory tract infection"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011956",
+        "label": "Intestinal lymphoid nodular hyperplasia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012393",
+        "label": "Allergy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012581",
+        "label": "Simple renal cyst"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0031207",
+        "label": "Hepatic hemangioma"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0032218",
+        "label": "Decreased proportion of CD4-positive T cells"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100502",
+        "label": "Vitamin B12 deficiency"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0410294",
+        "label": "Decreased specific antibody response to protein vaccine"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0410323",
+        "label": "Drug allergy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002014",
+        "label": "Diarrhea"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100721",
+        "label": "Mediastinal lymphadenopathy"
+      },
+      "excluded": true
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0151417",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:1572",
+        "label": "Common variable immunodeficiency"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:06:36Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "ukf-grimbacher",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-RITA"
+      }
+    ]
+  }
+}

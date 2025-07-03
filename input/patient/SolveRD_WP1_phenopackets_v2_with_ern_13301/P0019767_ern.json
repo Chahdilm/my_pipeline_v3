@@ -1,0 +1,283 @@
+{
+  "id": "P0019767",
+  "subject": {
+    "id": "P0019767",
+    "alternateIds": [
+      "GE013_P"
+    ],
+    "dateOfBirth": "1994-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000085",
+        "label": "Horseshoe kidney"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000104",
+        "label": "Renal agenesis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000219",
+        "label": "Thin upper lip vermilion"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000303",
+        "label": "Mandibular prognathia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000470",
+        "label": "Short neck"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000750",
+        "label": "Delayed speech and language development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000767",
+        "label": "Pectus excavatum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000953",
+        "label": "Hyperpigmentation of the skin"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001250",
+        "label": "Seizures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001263",
+        "label": "Global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001328",
+        "label": "Specific learning disability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001385",
+        "label": "Hip dysplasia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001513",
+        "label": "Obesity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001631",
+        "label": "Atrial septal defect"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001680",
+        "label": "Coarctation of aorta"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001773",
+        "label": "Short foot"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001998",
+        "label": "Neonatal hypoglycemia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001999",
+        "label": "Abnormal facial shape"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002194",
+        "label": "Delayed gross motor development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003517",
+        "label": "Birth length greater than 97th percentile"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004322",
+        "label": "Short stature"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004325",
+        "label": "Decreased body weight"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004467",
+        "label": "Preauricular pit"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005116",
+        "label": "Arterial tortuosity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005338",
+        "label": "Sparse lateral eyebrow"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005990",
+        "label": "Thyroid hypoplasia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008358",
+        "label": "Hyperprolinemia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008551",
+        "label": "Microtia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010306",
+        "label": "Short thorax"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010800",
+        "label": "Absent cupid's bow"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010862",
+        "label": "Delayed fine motor development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010864",
+        "label": "Intellectual disability, severe"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011229",
+        "label": "Broad eyebrow"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011255",
+        "label": "Absent crus of helix"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012385",
+        "label": "Camptodactyly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0200055",
+        "label": "Small hand"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0019767",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:05:03Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "tigem-nigro",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

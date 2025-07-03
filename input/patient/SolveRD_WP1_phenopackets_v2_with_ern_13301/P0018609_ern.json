@@ -1,0 +1,213 @@
+{
+  "id": "P0018609",
+  "subject": {
+    "id": "P0018609",
+    "alternateIds": [
+      "RUMC_solverd_ithaca_2629"
+    ],
+    "dateOfBirth": "2007-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000639",
+        "label": "Nystagmus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001260",
+        "label": "Dysarthria"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008000",
+        "label": "Decreased corneal reflex"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001787",
+        "label": "Abnormal delivery"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001622",
+        "label": "Premature birth"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000369",
+        "label": "Low-set ears"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000729",
+        "label": "Autistic behavior"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000739",
+        "label": "Anxiety"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000750",
+        "label": "Delayed speech and language development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001263",
+        "label": "Global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001319",
+        "label": "Neonatal hypotonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001357",
+        "label": "Plagiocephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002293",
+        "label": "Alopecia of scalp"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002315",
+        "label": "Headache"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002360",
+        "label": "Sleep disturbance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002457",
+        "label": "Abnormal head movements"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006919",
+        "label": "Abnormal aggressive, impulsive or violent behavior"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007018",
+        "label": "Attention deficit hyperactivity disorder"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007616",
+        "label": "Nevus flammeus nuchae"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030833",
+        "label": "Neck pain"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010952",
+        "label": "Mild fetal ventriculomegaly"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0018609",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:1532",
+        "label": "G\u00f3mez-L\u00f3pez-Hern\u00e1ndez syndrome"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:58:17Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-vissers",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

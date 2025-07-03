@@ -1,0 +1,181 @@
+{
+  "id": "P0019581",
+  "subject": {
+    "id": "P0019581",
+    "alternateIds": [
+      "RUMC_solverd_ithaca_2671"
+    ],
+    "dateOfBirth": "2011-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000154",
+        "label": "Wide mouth"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000316",
+        "label": "Hypertelorism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000582",
+        "label": "Upslanted palpebral fissure"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000736",
+        "label": "Short attention span"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000750",
+        "label": "Delayed speech and language development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001195",
+        "label": "Single umbilical artery"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001263",
+        "label": "Global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001270",
+        "label": "Motor delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001274",
+        "label": "Agenesis of corpus callosum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001852",
+        "label": "Sandal gap"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001864",
+        "label": "Clinodactyly of the 5th toe"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002465",
+        "label": "Poor speech"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008115",
+        "label": "Clinodactyly of the 3rd toe"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010865",
+        "label": "Oppositional defiant disorder"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011918",
+        "label": "Clinodactyly of the 4th toe"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012471",
+        "label": "Thick vermilion border"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100807",
+        "label": "Long fingers"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100851",
+        "label": "Abnormal emotion/affect behavior"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001622",
+        "label": "Premature birth"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0019581",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:05:00Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-vissers",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

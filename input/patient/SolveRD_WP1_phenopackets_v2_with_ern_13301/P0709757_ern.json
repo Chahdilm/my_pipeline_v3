@@ -1,0 +1,199 @@
+{
+  "id": "P0709757",
+  "subject": {
+    "id": "P0709757",
+    "alternateIds": [
+      "MO173_P"
+    ],
+    "dateOfBirth": "2007-11-22T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000276",
+        "label": "Long face"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000348",
+        "label": "High forehead"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000430",
+        "label": "Underdeveloped nasal alae"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000821",
+        "label": "Hypothyroidism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001245",
+        "label": "Small thenar eminence"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002019",
+        "label": "Constipation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002353",
+        "label": "EEG abnormality"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002360",
+        "label": "Sleep disturbance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002608",
+        "label": "Celiac disease"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002705",
+        "label": "High, narrow palate"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003189",
+        "label": "Long nose"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004325",
+        "label": "Decreased body weight"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006889",
+        "label": "Intellectual disability, borderline"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007010",
+        "label": "Poor fine motor coordination"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011451",
+        "label": "Primary microcephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012411",
+        "label": "Premature pubarche"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012471",
+        "label": "Thick vermilion border"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001511",
+        "label": "Intrauterine growth retardation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001622",
+        "label": "Premature birth"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001787",
+        "label": "Abnormal delivery"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006579",
+        "label": "Prolonged neonatal jaundice"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011410",
+        "label": "Caesarian section"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0709757",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:11:10Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "tigem-nigro",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

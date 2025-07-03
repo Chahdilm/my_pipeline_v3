@@ -1,0 +1,158 @@
+{
+  "id": "P0013043",
+  "subject": {
+    "id": "P0013043",
+    "alternateIds": [
+      "RUMC_solverd_ithaca_0595"
+    ],
+    "dateOfBirth": "1986-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000200",
+        "label": "Short lingual frenulum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000218",
+        "label": "High palate"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000275",
+        "label": "Narrow face"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000278",
+        "label": "Retrognathia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000324",
+        "label": "Facial asymmetry"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000400",
+        "label": "Macrotia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000539",
+        "label": "Abnormality of refraction"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000729",
+        "label": "Autistic behavior"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001863",
+        "label": "Toe clinodactyly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001999",
+        "label": "Abnormal facial shape"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006919",
+        "label": "Abnormal aggressive, impulsive or violent behavior"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008872",
+        "label": "Feeding difficulties in infancy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100324",
+        "label": "Scleroderma"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100543",
+        "label": "Cognitive impairment"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0013043",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:56:33Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-vissers",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

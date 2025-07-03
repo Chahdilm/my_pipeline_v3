@@ -1,0 +1,127 @@
+{
+  "id": "P0021576",
+  "subject": {
+    "id": "P0021576",
+    "alternateIds": [
+      "cmt1292.01"
+    ],
+    "dateOfBirth": "1942-04-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000020",
+        "label": "Urinary incontinence"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002020",
+        "label": "Gastroesophageal reflux"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003390",
+        "label": "Sensory axonal neuropathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003401",
+        "label": "Paresthesia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010829",
+        "label": "Impaired temperature sensation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012332",
+        "label": "Abnormal autonomic nervous system physiology"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0021576",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0021576",
+            "interpretationStatus": "CAUSATIVE",
+            "gene": {
+              "valueId": "HGNC:9969",
+              "symbol": "RFC1"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:139564",
+        "label": "Hereditary sensory and autonomic neuropathy type 1B"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:05:47Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "vib-timmerman",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

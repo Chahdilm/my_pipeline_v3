@@ -1,0 +1,181 @@
+{
+  "id": "P0008783",
+  "subject": {
+    "id": "P0008783",
+    "alternateIds": [
+      "604_17mr"
+    ],
+    "dateOfBirth": "2015-04-19T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000182",
+        "label": "Movement abnormality of the tongue"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000232",
+        "label": "Everted lower lip vermilion"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000252",
+        "label": "Microcephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000294",
+        "label": "Low anterior hairline"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000430",
+        "label": "Underdeveloped nasal alae"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000664",
+        "label": "Synophrys"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000768",
+        "label": "Pectus carinatum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001250",
+        "label": "Seizures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001319",
+        "label": "Neonatal hypotonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001337",
+        "label": "Tremor"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001511",
+        "label": "Intrauterine growth retardation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002059",
+        "label": "Cerebral atrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002079",
+        "label": "Hypoplasia of the corpus callosum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007105",
+        "label": "Infantile encephalopathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010808",
+        "label": "Protruding tongue"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011471",
+        "label": "Gastrostomy tube feeding in infancy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011918",
+        "label": "Clinodactyly of the 4th toe"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012747",
+        "label": "Abnormal brainstem MRI signal intensity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100660",
+        "label": "Dyskinesia"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0008783",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:36:09Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "aous-renieri",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

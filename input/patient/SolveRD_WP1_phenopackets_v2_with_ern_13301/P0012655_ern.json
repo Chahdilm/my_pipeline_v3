@@ -1,0 +1,282 @@
+{
+  "id": "P0012655",
+  "subject": {
+    "id": "P0012655",
+    "alternateIds": [
+      "RUMC_solverd_ithaca_0207"
+    ],
+    "dateOfBirth": "2004-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0001518",
+        "label": "Small for gestational age"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001520",
+        "label": "Large for gestational age"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000010",
+        "label": "Recurrent urinary tract infections"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000252",
+        "label": "Microcephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000311",
+        "label": "Round face"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000322",
+        "label": "Short philtrum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000490",
+        "label": "Deeply set eye"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000540",
+        "label": "Hypermetropia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000718",
+        "label": "Aggressive behavior"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000742",
+        "label": "Self-mutilation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000750",
+        "label": "Delayed speech and language development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000768",
+        "label": "Pectus carinatum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001028",
+        "label": "Hemangioma"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001263",
+        "label": "Global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001773",
+        "label": "Short foot"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001863",
+        "label": "Toe clinodactyly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002019",
+        "label": "Constipation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002079",
+        "label": "Hypoplasia of the corpus callosum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002119",
+        "label": "Ventriculomegaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002183",
+        "label": "Phonophobia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002360",
+        "label": "Sleep disturbance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002788",
+        "label": "Recurrent upper respiratory tract infections"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003186",
+        "label": "Inverted nipples"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004322",
+        "label": "Short stature"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007328",
+        "label": "Impaired pain sensation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010864",
+        "label": "Intellectual disability, severe"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0012655",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "OMIM:613112",
+          "label": "MACROTHROMBOCYTOPENIA, AUTOSOMAL DOMINANT, TUBB1-RELATED"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0012655",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:20772",
+                  "symbol": "TUBB3"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "16",
+                  "pos": "90001622",
+                  "ref": "G",
+                  "alt": "A",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0012655",
+            "interpretationStatus": "CAUSATIVE",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:20772",
+                  "symbol": "TUBB3"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "16",
+                  "pos": "90001622",
+                  "ref": "G",
+                  "alt": "A",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "OMIM:613112",
+        "label": "MACROTHROMBOCYTOPENIA, AUTOSOMAL DOMINANT, TUBB1-RELATED"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:56:02Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-vissers",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

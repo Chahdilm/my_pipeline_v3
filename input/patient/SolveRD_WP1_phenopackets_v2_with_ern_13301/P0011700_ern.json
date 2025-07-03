@@ -1,0 +1,414 @@
+{
+  "id": "P0011700",
+  "subject": {
+    "id": "P0011700",
+    "alternateIds": [
+      "TOP_FIZM048_01"
+    ],
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000405",
+        "label": "Conductive hearing impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000407",
+        "label": "Sensorineural hearing impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000501",
+        "label": "Glaucoma"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000508",
+        "label": "Ptosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000518",
+        "label": "Cataract"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000570",
+        "label": "Abnormality of saccadic eye movements"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000597",
+        "label": "Ophthalmoparesis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000639",
+        "label": "Nystagmus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000648",
+        "label": "Optic atrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001251",
+        "label": "Ataxia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001257",
+        "label": "Spasticity"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001260",
+        "label": "Dysarthria"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001284",
+        "label": "Areflexia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001291",
+        "label": "Abnormality of the cranial nerves"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001310",
+        "label": "Dysmetria"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001315",
+        "label": "Reduced tendon reflexes"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001319",
+        "label": "Neonatal hypotonia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001324",
+        "label": "Muscle weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001332",
+        "label": "Dystonia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001347",
+        "label": "Hyperreflexia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001371",
+        "label": "Flexion contracture"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001374",
+        "label": "Congenital hip dislocation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002070",
+        "label": "Limb ataxia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002072",
+        "label": "Chorea"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002075",
+        "label": "Dysdiadochokinesis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002078",
+        "label": "Truncal ataxia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002080",
+        "label": "Intention tremor"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002305",
+        "label": "Athetosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002355",
+        "label": "Difficulty walking"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002380",
+        "label": "Fasciculations"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002650",
+        "label": "Scoliosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002804",
+        "label": "Arthrogryposis multiplex congenita"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003202",
+        "label": "Skeletal muscle atrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003487",
+        "label": "Babinski sign"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003691",
+        "label": "Scapular winging"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003712",
+        "label": "Skeletal muscle hypertrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0006957",
+        "label": "Loss of ability to walk"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010729",
+        "label": "Cherry red spot of the macula"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000750",
+        "label": "Delayed speech and language development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002123",
+        "label": "Generalized myoclonic seizures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002197",
+        "label": "Generalized seizures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002353",
+        "label": "EEG abnormality"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0011700",
+      "progressStatus": "UNSOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0011700",
+            "interpretationStatus": "CANDIDATE",
+            "gene": {
+              "valueId": "HGNC:21197",
+              "symbol": "FA2H"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0011700",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "UNCERTAIN_SIGNIFICANCE",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:21197",
+                  "symbol": "FA2H"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "16",
+                  "pos": "74808566",
+                  "ref": "C",
+                  "alt": "G",
+                  "info": "Uncertain significance"
+                }
+              }
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0011700",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "UNCERTAIN_SIGNIFICANCE",
+              "variationDescriptor": {
+                "id": "rs750180732",
+                "geneContext": {
+                  "valueId": "HGNC:865",
+                  "symbol": "ATP6V0A1"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "17",
+                  "pos": "40647053",
+                  "id": "rs750180732",
+                  "ref": "T",
+                  "alt": "C",
+                  "info": "Uncertain significance"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:55:59Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "ucam-horvath",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

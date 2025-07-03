@@ -1,0 +1,498 @@
+{
+  "id": "P0008040",
+  "subject": {
+    "id": "P0008040",
+    "alternateIds": [
+      "ROO_BONN18_23550"
+    ],
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000119",
+        "label": "Abnormality of the genitourinary system"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000234",
+        "label": "Abnormality of the head"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000271",
+        "label": "Abnormality of the face"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000405",
+        "label": "Conductive hearing impairment"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000464",
+        "label": "Abnormality of the neck"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000478",
+        "label": "Abnormality of the eye"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000501",
+        "label": "Glaucoma"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000508",
+        "label": "Ptosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000518",
+        "label": "Cataract"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000570",
+        "label": "Abnormality of saccadic eye movements"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000598",
+        "label": "Abnormality of the ear"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000639",
+        "label": "Nystagmus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000648",
+        "label": "Optic atrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001251",
+        "label": "Ataxia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001257",
+        "label": "Spasticity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001260",
+        "label": "Dysarthria"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001271",
+        "label": "Polyneuropathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001284",
+        "label": "Areflexia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001310",
+        "label": "Dysmetria"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001324",
+        "label": "Muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001332",
+        "label": "Dystonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001337",
+        "label": "Tremor"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001344",
+        "label": "Absent speech"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001347",
+        "label": "Hyperreflexia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001371",
+        "label": "Flexion contracture"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001374",
+        "label": "Congenital hip dislocation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001618",
+        "label": "Dysphonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001626",
+        "label": "Abnormality of the cardiovascular system"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002019",
+        "label": "Constipation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002063",
+        "label": "Rigidity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002070",
+        "label": "Limb ataxia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002072",
+        "label": "Chorea"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002075",
+        "label": "Dysdiadochokinesis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002080",
+        "label": "Intention tremor"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002086",
+        "label": "Abnormality of the respiratory system"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002167",
+        "label": "Neurological speech impairment"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002194",
+        "label": "Delayed gross motor development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002197",
+        "label": "Generalized seizures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002305",
+        "label": "Athetosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002355",
+        "label": "Difficulty walking"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002373",
+        "label": "Febrile seizures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002380",
+        "label": "Fasciculations"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002460",
+        "label": "Distal muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002495",
+        "label": "Impaired vibratory sensation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002650",
+        "label": "Scoliosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002804",
+        "label": "Arthrogryposis multiplex congenita"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002910",
+        "label": "Elevated hepatic transaminases"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003128",
+        "label": "Lactic acidosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003202",
+        "label": "Skeletal muscle atrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003327",
+        "label": "Axial muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003390",
+        "label": "Sensory axonal neuropathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003487",
+        "label": "Babinski sign"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003691",
+        "label": "Scapular winging"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003693",
+        "label": "Distal amyotrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003701",
+        "label": "Proximal muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006957",
+        "label": "Loss of ability to walk"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007002",
+        "label": "Motor axonal neuropathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007126",
+        "label": "Proximal amyotrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007220",
+        "label": "Demyelinating motor neuropathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007328",
+        "label": "Impaired pain sensation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007359",
+        "label": "Focal seizures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008180",
+        "label": "Mildly elevated creatine phosphokinase"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010571",
+        "label": "Elevated levels of phytanic acid"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010829",
+        "label": "Impaired temperature sensation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010831",
+        "label": "Impaired proprioception"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011097",
+        "label": "Epileptic spasms"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011146",
+        "label": "Dialeptic seizures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011620",
+        "label": "Abnormality of abdominal situs"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030147",
+        "label": "Truncal titubation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030319",
+        "label": "Weakness of facial musculature"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0045045",
+        "label": "Elevated plasma acylcarnitine levels"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100543",
+        "label": "Cognitive impairment"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0008040",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:36:08Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "cheo-lochmuller",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

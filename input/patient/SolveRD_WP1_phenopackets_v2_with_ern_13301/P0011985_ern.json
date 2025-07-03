@@ -1,0 +1,145 @@
+{
+  "id": "P0011985",
+  "subject": {
+    "id": "P0011985",
+    "alternateIds": [
+      "ID23488"
+    ],
+    "dateOfBirth": "1975-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000014",
+        "label": "Abnormality of the bladder"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000365",
+        "label": "Hearing impairment"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000651",
+        "label": "Diplopia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000819",
+        "label": "Diabetes mellitus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001152",
+        "label": "Saccadic smooth pursuit"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001251",
+        "label": "Ataxia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003438",
+        "label": "Absent Achilles reflex"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003487",
+        "label": "Babinski sign"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007663",
+        "label": "Reduced visual acuity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007979",
+        "label": "Gaze-evoked horizontal nystagmus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010545",
+        "label": "Downbeat nystagmus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100543",
+        "label": "Cognitive impairment"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0011985",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:56:01Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "ekut-synofzik",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-RND"
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "id": "P0017300",
+  "subject": {
+    "id": "P0017300",
+    "alternateIds": [
+      "RUMC_solverd_ithaca_2099"
+    ],
+    "dateOfBirth": "2015-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000002",
+        "label": "Abnormality of body height"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004324",
+        "label": "Increased body weight"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004325",
+        "label": "Decreased body weight"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000286",
+        "label": "Epicanthus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000316",
+        "label": "Hypertelorism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000337",
+        "label": "Broad forehead"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000343",
+        "label": "Long philtrum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000369",
+        "label": "Low-set ears"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000486",
+        "label": "Strabismus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000494",
+        "label": "Downslanted palpebral fissures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000540",
+        "label": "Hypermetropia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000646",
+        "label": "Amblyopia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000742",
+        "label": "Self-mutilation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001182",
+        "label": "Tapered finger"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001252",
+        "label": "Muscular hypotonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001256",
+        "label": "Intellectual disability, mild"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001270",
+        "label": "Motor delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001317",
+        "label": "Abnormality of the cerebellum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002202",
+        "label": "Pleural effusion"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002280",
+        "label": "Enlarged cisterna magna"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005280",
+        "label": "Depressed nasal bridge"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010055",
+        "label": "Broad hallux"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010624",
+        "label": "Aplastic/hypoplastic toenail"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0017300",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "OMIM:617140",
+          "label": "ZTTK SYNDROME"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0017300",
+            "interpretationStatus": "CANDIDATE",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:11183",
+                  "symbol": "SON"
+                },
+                "expressions": [
+                  {
+                    "syntax": "hgvs",
+                    "value": "NM_138927.2:c.5753_5756del "
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "OMIM:617140",
+        "label": "ZTTK SYNDROME"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:57:52Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-vissers",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

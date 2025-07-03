@@ -1,0 +1,3260 @@
+{
+  "id": "P0002302",
+  "subject": {
+    "id": "P0002302",
+    "alternateIds": [
+      "MMAD001"
+    ],
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000003",
+        "label": "Multicystic kidney dysplasia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000008",
+        "label": "Abnormality of female internal genitalia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000009",
+        "label": "Functional abnormality of the bladder"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000013",
+        "label": "Hypoplasia of the uterus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000022",
+        "label": "Abnormality of male internal genitalia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000023",
+        "label": "Inguinal hernia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000028",
+        "label": "Cryptorchidism"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000029",
+        "label": "Testicular atrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000047",
+        "label": "Hypospadias"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000074",
+        "label": "Ureteropelvic junction obstruction"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000089",
+        "label": "Renal hypoplasia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000093",
+        "label": "Proteinuria"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000096",
+        "label": "Glomerulosclerosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000097",
+        "label": "Focal segmental glomerulosclerosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000098",
+        "label": "Tall stature"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000112",
+        "label": "Nephropathy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000122",
+        "label": "Unilateral renal agenesis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000135",
+        "label": "Hypogonadism"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000164",
+        "label": "Abnormality of the teeth"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000179",
+        "label": "Thick lower lip vermilion"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000233",
+        "label": "Thin vermilion border"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000252",
+        "label": "Microcephaly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000268",
+        "label": "Dolichocephaly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000271",
+        "label": "Abnormality of the face"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000272",
+        "label": "Malar flattening"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000280",
+        "label": "Coarse facial features"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000286",
+        "label": "Epicanthus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000293",
+        "label": "Full cheeks"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000311",
+        "label": "Round face"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000347",
+        "label": "Micrognathia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000366",
+        "label": "Abnormality of the nose"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000369",
+        "label": "Low-set ears"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000377",
+        "label": "Abnormality of the pinna"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000400",
+        "label": "Macrotia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000403",
+        "label": "Recurrent otitis media"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000408",
+        "label": "Progressive sensorineural hearing impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000457",
+        "label": "Depressed nasal ridge"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000463",
+        "label": "Anteverted nares"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000478",
+        "label": "Abnormality of the eye"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000483",
+        "label": "Astigmatism"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000485",
+        "label": "Megalocornea"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000491",
+        "label": "Keratitis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000501",
+        "label": "Glaucoma"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000505",
+        "label": "Visual impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000508",
+        "label": "Ptosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000509",
+        "label": "Conjunctivitis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000510",
+        "label": "Rod-cone dystrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000518",
+        "label": "Cataract"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000519",
+        "label": "Congenital cataract"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000535",
+        "label": "Sparse and thin eyebrow"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000540",
+        "label": "Hypermetropia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000544",
+        "label": "External ophthalmoplegia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000572",
+        "label": "Visual loss"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000580",
+        "label": "Pigmentary retinopathy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000586",
+        "label": "Shallow orbits"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000597",
+        "label": "Ophthalmoparesis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000600",
+        "label": "Abnormality of the pharynx"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000613",
+        "label": "Photophobia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000621",
+        "label": "Entropion"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000639",
+        "label": "Nystagmus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000648",
+        "label": "Optic atrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000653",
+        "label": "Sparse eyelashes"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000656",
+        "label": "Ectropion"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000662",
+        "label": "Nyctalopia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000684",
+        "label": "Delayed eruption of teeth"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000687",
+        "label": "Widely spaced teeth"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000712",
+        "label": "Emotional lability"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000718",
+        "label": "Aggressive behavior"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000726",
+        "label": "Dementia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000762",
+        "label": "Decreased nerve conduction velocity"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000768",
+        "label": "Pectus carinatum"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000774",
+        "label": "Narrow chest"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000786",
+        "label": "Primary amenorrhea"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000787",
+        "label": "Nephrolithiasis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000813",
+        "label": "Bicornuate uterus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000820",
+        "label": "Abnormality of the thyroid gland"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000823",
+        "label": "Delayed puberty"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000824",
+        "label": "Growth hormone deficiency"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000869",
+        "label": "Secondary amenorrhea"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000938",
+        "label": "Osteopenia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000943",
+        "label": "Dysostosis multiplex"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000952",
+        "label": "Jaundice"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000958",
+        "label": "Dry skin"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000975",
+        "label": "Hyperhidrosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000992",
+        "label": "Cutaneous photosensitivity"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000998",
+        "label": "Hypertrichosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001006",
+        "label": "Hypotrichosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001012",
+        "label": "Multiple lipomas"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001029",
+        "label": "Poikiloderma"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001048",
+        "label": "Cavernous hemangioma"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001063",
+        "label": "Acrocyanosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001072",
+        "label": "Thickened skin"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001080",
+        "label": "Biliary tract abnormality"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001083",
+        "label": "Ectopia lentis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001085",
+        "label": "Papilledema"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001155",
+        "label": "Abnormality of the hand"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001166",
+        "label": "Arachnodactyly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001254",
+        "label": "Lethargy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001256",
+        "label": "Intellectual disability, mild"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001257",
+        "label": "Spasticity"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001259",
+        "label": "Coma"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001262",
+        "label": "Excessive daytime somnolence"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001268",
+        "label": "Mental deterioration"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001269",
+        "label": "Hemiparesis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001279",
+        "label": "Syncope"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001283",
+        "label": "Bulbar palsy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001289",
+        "label": "Confusion"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001290",
+        "label": "Generalized hypotonia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001300",
+        "label": "Parkinsonism"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001317",
+        "label": "Abnormality of the cerebellum"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001328",
+        "label": "Specific learning disability"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001332",
+        "label": "Dystonia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001348",
+        "label": "Brisk reflexes"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001350",
+        "label": "Slurred speech"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001362",
+        "label": "Calvarial skull defect"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001369",
+        "label": "Arthritis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001388",
+        "label": "Joint laxity"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001392",
+        "label": "Abnormality of the liver"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001399",
+        "label": "Hepatic failure"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001410",
+        "label": "Decreased liver function"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001480",
+        "label": "Freckling"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001511",
+        "label": "Intrauterine growth retardation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001513",
+        "label": "Obesity"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001518",
+        "label": "Small for gestational age"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001537",
+        "label": "Umbilical hernia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001547",
+        "label": "Abnormality of the rib cage"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001557",
+        "label": "Prenatal movement abnormality"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001561",
+        "label": "Polyhydramnios"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001597",
+        "label": "Abnormality of the nail"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001601",
+        "label": "Laryngomalacia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001608",
+        "label": "Abnormality of the voice"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001609",
+        "label": "Hoarse voice"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001618",
+        "label": "Dysphonia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001626",
+        "label": "Abnormality of the cardiovascular system"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001629",
+        "label": "Ventricular septal defect"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001631",
+        "label": "Atrial septal defect"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001634",
+        "label": "Mitral valve prolapse"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001638",
+        "label": "Cardiomyopathy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001653",
+        "label": "Mitral regurgitation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001654",
+        "label": "Abnormality of the heart valves"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001662",
+        "label": "Bradycardia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001667",
+        "label": "Right ventricular hypertrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001716",
+        "label": "Wolff-Parkinson-White syndrome"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001730",
+        "label": "Progressive hearing impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001738",
+        "label": "Exocrine pancreatic insufficiency"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001743",
+        "label": "Abnormality of the spleen"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001744",
+        "label": "Splenomegaly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001751",
+        "label": "Vestibular dysfunction"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001763",
+        "label": "Pes planus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001803",
+        "label": "Nail pits"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001807",
+        "label": "Ridged nail"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001871",
+        "label": "Abnormality of blood and blood-forming tissues"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001874",
+        "label": "Abnormality of neutrophils"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001875",
+        "label": "Neutropenia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001876",
+        "label": "Pancytopenia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001883",
+        "label": "Talipes"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001892",
+        "label": "Abnormal bleeding"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001902",
+        "label": "Giant platelets"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001903",
+        "label": "Anemia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001913",
+        "label": "Granulocytopenia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001943",
+        "label": "Hypoglycemia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001945",
+        "label": "Fever"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001962",
+        "label": "Palpitations"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001982",
+        "label": "Sea-blue histiocytosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001987",
+        "label": "Hyperammonemia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001988",
+        "label": "Recurrent hypoglycemia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001992",
+        "label": "Organic aciduria"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001997",
+        "label": "Gout"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002013",
+        "label": "Vomiting"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002014",
+        "label": "Diarrhea"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002015",
+        "label": "Dysphagia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002020",
+        "label": "Gastroesophageal reflux"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002024",
+        "label": "Malabsorption"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002047",
+        "label": "Malignant hyperthermia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002059",
+        "label": "Cerebral atrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002062",
+        "label": "Morphological abnormality of the pyramidal tract"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002070",
+        "label": "Limb ataxia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002076",
+        "label": "Migraine"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002080",
+        "label": "Intention tremor"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002090",
+        "label": "Pneumonia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002091",
+        "label": "Restrictive ventilatory defect"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002097",
+        "label": "Emphysema"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002103",
+        "label": "Abnormality of the pleura"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002111",
+        "label": "Restrictive deficit on pulmonary function testing"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002119",
+        "label": "Ventriculomegaly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002120",
+        "label": "Cerebral cortical atrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002123",
+        "label": "Generalized myoclonic seizures"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002133",
+        "label": "Status epilepticus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002136",
+        "label": "Broad-based gait"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002145",
+        "label": "Frontotemporal dementia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002149",
+        "label": "Hyperuricemia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002155",
+        "label": "Hypertriglyceridemia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002159",
+        "label": "Heparan sulfate excretion in urine"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002164",
+        "label": "Nail dysplasia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002167",
+        "label": "Neurological speech impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002168",
+        "label": "Scanning speech"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002172",
+        "label": "Postural instability"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002174",
+        "label": "Postural tremor"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002180",
+        "label": "Neurodegeneration"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002187",
+        "label": "Intellectual disability, profound"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002194",
+        "label": "Delayed gross motor development"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002197",
+        "label": "Generalized seizures"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002208",
+        "label": "Coarse hair"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002209",
+        "label": "Sparse scalp hair"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002212",
+        "label": "Curly hair"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002215",
+        "label": "Sparse axillary hair"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002224",
+        "label": "Woolly hair"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002286",
+        "label": "Fair hair"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002311",
+        "label": "Incoordination"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002312",
+        "label": "Clumsiness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002317",
+        "label": "Unsteady gait"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002322",
+        "label": "Resting tremor"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002341",
+        "label": "Cervical cord compression"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002353",
+        "label": "EEG abnormality"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002355",
+        "label": "Difficulty walking"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002357",
+        "label": "Dysphasia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002359",
+        "label": "Frequent falls"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002375",
+        "label": "Hypokinesia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002376",
+        "label": "Developmental regression"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002411",
+        "label": "Myokymia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002493",
+        "label": "Upper motor neuron dysfunction"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002506",
+        "label": "Diffuse cerebral atrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002510",
+        "label": "Spastic tetraplegia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002548",
+        "label": "Parkinsonism with favorable response to dopaminergic medication"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002572",
+        "label": "Episodic vomiting"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002591",
+        "label": "Polyphagia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002594",
+        "label": "Pancreatic hypoplasia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002601",
+        "label": "Paresis of extensor muscles of the big toe"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002607",
+        "label": "Bowel incontinence"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002643",
+        "label": "Neonatal respiratory distress"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002650",
+        "label": "Scoliosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002671",
+        "label": "Basal cell carcinoma"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002673",
+        "label": "Coxa valga"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002680",
+        "label": "J-shaped sella turcica"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002714",
+        "label": "Downturned corners of mouth"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002715",
+        "label": "Abnormality of the immune system"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002749",
+        "label": "Osteomalacia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002751",
+        "label": "Kyphoscoliosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002756",
+        "label": "Pathologic fracture"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002777",
+        "label": "Tracheal stenosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002786",
+        "label": "Tracheobronchomalacia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002792",
+        "label": "Reduced vital capacity"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002829",
+        "label": "Arthralgia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002860",
+        "label": "Squamous cell carcinoma"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002869",
+        "label": "Flared iliac wings"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002870",
+        "label": "Obstructive sleep apnea"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002877",
+        "label": "Nocturnal hypoventilation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002878",
+        "label": "Respiratory failure"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002880",
+        "label": "obsolete Respiratory difficulties"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002900",
+        "label": "Hypokalemia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002902",
+        "label": "Hyponatremia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002909",
+        "label": "Generalized aminoaciduria"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002922",
+        "label": "Increased CSF protein"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002938",
+        "label": "Lumbar hyperlordosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002948",
+        "label": "Vertebral fusion"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002958",
+        "label": "Immune dysregulation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002987",
+        "label": "Elbow flexion contracture"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003010",
+        "label": "Prolonged bleeding time"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003028",
+        "label": "Abnormality of the ankles"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003044",
+        "label": "Shoulder flexion contracture"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003076",
+        "label": "Glycosuria"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003079",
+        "label": "Defective DNA repair after ultraviolet radiation damage"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003090",
+        "label": "Hypoplasia of the capital femoral epiphysis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003196",
+        "label": "Short nose"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003234",
+        "label": "Decreased plasma carnitine"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003259",
+        "label": "Elevated serum creatinine"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003272",
+        "label": "Abnormality of the hip bone"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003273",
+        "label": "Hip contracture"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003274",
+        "label": "Hypoplastic acetabulae"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003306",
+        "label": "Spinal rigidity"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003348",
+        "label": "Hyperalaninemia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003380",
+        "label": "Decreased number of peripheral myelinated nerve fibers"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003393",
+        "label": "Thenar muscle atrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003418",
+        "label": "Back pain"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003447",
+        "label": "Axonal loss"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003473",
+        "label": "Fatigable weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003474",
+        "label": "Sensory impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003487",
+        "label": "Babinski sign"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003493",
+        "label": "Antinuclear antibody positivity"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003502",
+        "label": "Mild short stature"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003510",
+        "label": "Severe short stature"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003517",
+        "label": "Birth length greater than 97th percentile"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003535",
+        "label": "3-Methylglutaconic aciduria"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003547",
+        "label": "Shoulder girdle muscle weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003559",
+        "label": "Muscle hyperirritability"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003645",
+        "label": "Prolonged partial thromboplastin time"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003651",
+        "label": "Foam cells"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003652",
+        "label": "Recurrent myoglobinuria"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003691",
+        "label": "Scapular winging"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003707",
+        "label": "Calf muscle pseudohypertrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003710",
+        "label": "Exercise-induced muscle cramps"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003719",
+        "label": "Muscle mounding"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003724",
+        "label": "Shoulder girdle muscle atrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003725",
+        "label": "Firm muscles"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003731",
+        "label": "Quadriceps muscle weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003733",
+        "label": "Thigh hypertrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003752",
+        "label": "Episodic flaccid weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003756",
+        "label": "Skeletal myopathy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003760",
+        "label": "Percussion-induced rapid rolling muscle contractions"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003774",
+        "label": "Stage 5 chronic kidney disease"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003791",
+        "label": "Deposits immunoreactive to beta-amyloid protein"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004306",
+        "label": "Abnormality of the endocardium"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004334",
+        "label": "Dermal atrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004374",
+        "label": "Hemiplegia/hemiparesis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004379",
+        "label": "Abnormality of alkaline phosphatase activity"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004389",
+        "label": "Intestinal pseudo-obstruction"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004756",
+        "label": "Ventricular tachycardia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004887",
+        "label": "Respiratory failure requiring assisted ventilation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004901",
+        "label": "Exercise-induced lactic acidemia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004904",
+        "label": "Maturity-onset diabetes of the young"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004913",
+        "label": "Intermittent lactic acidemia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005130",
+        "label": "Restrictive heart failure"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005133",
+        "label": "Right ventricular dilatation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005144",
+        "label": "Left ventricular septal hypertrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005162",
+        "label": "Left ventricular failure"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005165",
+        "label": "Shortened PR interval"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005280",
+        "label": "Depressed nasal bridge"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005437",
+        "label": "Recurrent infections in infancy and early childhood"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005563",
+        "label": "Decreased numbers of nephrons"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005750",
+        "label": "Contractures of the joints of the lower limbs"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005949",
+        "label": "Apneic episodes in infancy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005959",
+        "label": "Impaired gluconeogenesis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005978",
+        "label": "Type II diabetes mellitus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0006184",
+        "label": "Decreased palmar creases"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0006203",
+        "label": "Decreased movement range in interphalangeal joints"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0006380",
+        "label": "Knee flexion contracture"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0006557",
+        "label": "Polycystic liver disease"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0006568",
+        "label": "Increased hepatic glycogen content"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0006785",
+        "label": "Limb-girdle muscular dystrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0006830",
+        "label": "Severe neonatal hypotonia in males"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0006858",
+        "label": "Impaired distal proprioception"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0006913",
+        "label": "Frontal cortical atrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0006957",
+        "label": "Loss of ability to walk"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007108",
+        "label": "Demyelinating peripheral neuropathy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007112",
+        "label": "Temporal cortical atrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007181",
+        "label": "Interosseus muscle atrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007215",
+        "label": "Periodic hyperkalemic paralysis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007220",
+        "label": "Demyelinating motor neuropathy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007240",
+        "label": "Progressive gait ataxia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007256",
+        "label": "Abnormal pyramidal signs"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007272",
+        "label": "Progressive psychomotor deterioration"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007281",
+        "label": "Developmental stagnation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007289",
+        "label": "Limb fasciculations"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007327",
+        "label": "Mixed demyelinating and axonal polyneuropathy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007344",
+        "label": "Atrophy/Degeneration involving the spinal cord"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007354",
+        "label": "Amyotrophic lateral sclerosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007385",
+        "label": "Aplasia cutis congenita of scalp"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007587",
+        "label": "Numerous pigmented freckles"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007641",
+        "label": "Dyschromatopsia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007703",
+        "label": "Abnormality of retinal pigmentation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007754",
+        "label": "Macular dystrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007759",
+        "label": "Opacification of the corneal stroma"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007765",
+        "label": "Deep anterior chamber"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007798",
+        "label": "obsolete Foveal dystrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007838",
+        "label": "Progressive ptosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008002",
+        "label": "Abnormality of macular pigmentation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008069",
+        "label": "Neoplasm of the skin"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008116",
+        "label": "Flexion limitation of toes"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008166",
+        "label": "Decreased beta-galactosidase activity"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008209",
+        "label": "Premature ovarian failure"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008245",
+        "label": "Pituitary hypothyroidism"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008282",
+        "label": "Unconjugated hyperbilirubinemia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008301",
+        "label": "Dermatan sulfate excretion in urine"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008305",
+        "label": "Exercise-induced myoglobinuria"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008306",
+        "label": "Abnormal iron deposition in mitochondria"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008314",
+        "label": "Decreased activity of mitochondrial complex II"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008322",
+        "label": "Abnormal mitochondrial morphology"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008348",
+        "label": "Immunoglobulin IgG2 deficiency"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008376",
+        "label": "Nasal, dysarthic speech"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008430",
+        "label": "Anterior beaking of lumbar vertebrae"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008504",
+        "label": "Moderate sensorineural hearing impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008678",
+        "label": "Renal hypoplasia/aplasia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008946",
+        "label": "Pelvic girdle amyotrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008948",
+        "label": "Proximal upper limb amyotrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008956",
+        "label": "Proximal lower limb amyotrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008959",
+        "label": "Distal upper limb muscle weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008967",
+        "label": "Exercise-induced muscle stiffness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008972",
+        "label": "Decreased activity of mitochondrial respiratory chain"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0009031",
+        "label": "Amyotrophy of ankle musculature"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0009051",
+        "label": "Increased muscle glycogen content"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0009053",
+        "label": "Distal lower limb muscle weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0009054",
+        "label": "Scapuloperoneal myopathy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0009055",
+        "label": "Generalized limb muscle atrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0009060",
+        "label": "Scapular muscle atrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0009077",
+        "label": "Weakness of long finger extensor muscles"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0009473",
+        "label": "Joint contracture of the hand"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010307",
+        "label": "Stridor"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010318",
+        "label": "Aplasia/Hypoplasia of the abdominal wall musculature"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010484",
+        "label": "Hypertrophy of the upper limb"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010496",
+        "label": "Hypertrophy of the lower limb"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010546",
+        "label": "Muscle fibrillation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010602",
+        "label": "Type 2 muscle fiber predominance"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010628",
+        "label": "Facial palsy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010639",
+        "label": "Elevated alkaline phosphatase of bone origin"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010729",
+        "label": "Cherry red spot of the macula"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010871",
+        "label": "Sensory ataxia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010978",
+        "label": "Abnormality of immune system physiology"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011001",
+        "label": "Increased bone mineral density"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011308",
+        "label": "Slender toe"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011331",
+        "label": "Hemifacial atrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011359",
+        "label": "Dry hair"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011400",
+        "label": "Abnormal CNS myelination"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011402",
+        "label": "Demyelinating sensory neuropathy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011663",
+        "label": "Right ventricular cardiomyopathy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011675",
+        "label": "Arrhythmia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011808",
+        "label": "Decreased patellar reflex"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011916",
+        "label": "Toe extensor amyotrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011923",
+        "label": "Decreased activity of mitochondrial complex I"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011924",
+        "label": "Decreased activity of mitochondrial complex III"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011960",
+        "label": "Substantia nigra gliosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011968",
+        "label": "Feeding difficulties"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0012056",
+        "label": "Cutaneous melanoma"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0012079",
+        "label": "Abnormality of central motor conduction"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0012240",
+        "label": "Increased intramyocellular lipid droplets"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0012286",
+        "label": "Abnormal hypothalamus morphology"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0012368",
+        "label": "Flat face"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0012444",
+        "label": "Brain atrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0040083",
+        "label": "Toe walking"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100021",
+        "label": "Cerebral palsy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100022",
+        "label": "Abnormality of movement"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100293",
+        "label": "Muscle fiber hypertrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100299",
+        "label": "Muscle fiber inclusion bodies"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100360",
+        "label": "Contractures of the joints of the upper limbs"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100542",
+        "label": "Abnormal localization of kidney"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100543",
+        "label": "Cognitive impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100555",
+        "label": "Asymmetric growth"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100585",
+        "label": "Telangiectasia of the skin"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100611",
+        "label": "Multiple glomerular cysts"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100627",
+        "label": "Displacement of the external urethral meatus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100693",
+        "label": "Iridodonesis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100704",
+        "label": "Cortical visual impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100748",
+        "label": "Muscular edema"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100800",
+        "label": "Aplasia/Hypoplasia of the pancreas"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0200034",
+        "label": "Papule"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0200042",
+        "label": "Skin ulcer"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0200043",
+        "label": "Verrucae"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000467",
+        "label": "Neck muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003184",
+        "label": "Decreased hip abduction"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003198",
+        "label": "Myopathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003323",
+        "label": "Progressive muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003390",
+        "label": "Sensory axonal neuropathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003438",
+        "label": "Absent Achilles reflex"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003445",
+        "label": "EMG: neuropathic changes"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003457",
+        "label": "EMG abnormality"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003694",
+        "label": "Late-onset proximal muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003713",
+        "label": "Muscle fiber necrosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003715",
+        "label": "Myofibrillar myopathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003749",
+        "label": "Pelvic girdle muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007002",
+        "label": "Motor axonal neuropathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007141",
+        "label": "Sensorimotor neuropathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007340",
+        "label": "Lower limb muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008994",
+        "label": "Proximal muscle weakness in lower limbs"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008997",
+        "label": "Proximal muscle weakness in upper limbs"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009072",
+        "label": "Decreased Achilles reflex"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009073",
+        "label": "Progressive proximal muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011805",
+        "label": "Abnormality of muscle morphology"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012378",
+        "label": "Fatigue"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0002302",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0002302",
+            "interpretationStatus": "CAUSATIVE",
+            "gene": {
+              "valueId": "HGNC:8565",
+              "symbol": "PABPN1"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:35:59Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "unew-straub",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

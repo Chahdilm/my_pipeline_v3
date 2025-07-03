@@ -1,0 +1,139 @@
+{
+  "id": "P0022079",
+  "subject": {
+    "id": "P0022079",
+    "alternateIds": [
+      "NP0444"
+    ],
+    "dateOfBirth": "2003-06-13T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000641",
+        "label": "Dysmetric saccades"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000717",
+        "label": "Autism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000743",
+        "label": "Frontal release signs"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002376",
+        "label": "Developmental regression"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002546",
+        "label": "Incomprehensible speech"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007099",
+        "label": "Arnold-Chiari type I malformation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007944",
+        "label": "Intermittent microsaccadic pursuits"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008760",
+        "label": "Violent behavior"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010864",
+        "label": "Intellectual disability, severe"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012651",
+        "label": "Abasia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030212",
+        "label": "Collectionism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100710",
+        "label": "Impulsivity"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0022079",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:06:03Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "vhir-macaya",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-RND"
+      }
+    ]
+  }
+}

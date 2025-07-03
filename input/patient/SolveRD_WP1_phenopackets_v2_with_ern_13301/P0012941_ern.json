@@ -1,0 +1,195 @@
+{
+  "id": "P0012941",
+  "subject": {
+    "id": "P0012941",
+    "alternateIds": [
+      "RUMC_solverd_ithaca_0493"
+    ],
+    "dateOfBirth": "1998-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000240",
+        "label": "Abnormality of skull size"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004324",
+        "label": "Increased body weight"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004325",
+        "label": "Decreased body weight"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000098",
+        "label": "Tall stature"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000276",
+        "label": "Long face"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000280",
+        "label": "Coarse facial features"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000336",
+        "label": "Prominent supraorbital ridges"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000358",
+        "label": "Posteriorly rotated ears"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000574",
+        "label": "Thick eyebrow"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000664",
+        "label": "Synophrys"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000718",
+        "label": "Aggressive behavior"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000767",
+        "label": "Pectus excavatum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001061",
+        "label": "Acne"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001250",
+        "label": "Seizures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002342",
+        "label": "Intellectual disability, moderate"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008551",
+        "label": "Microtia"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0012941",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0012941",
+            "interpretationStatus": "CAUSATIVE",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:2978",
+                  "symbol": "DNMT3A"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "2",
+                  "pos": "25470546",
+                  "ref": "T",
+                  "alt": "A",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:56:28Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-vissers",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

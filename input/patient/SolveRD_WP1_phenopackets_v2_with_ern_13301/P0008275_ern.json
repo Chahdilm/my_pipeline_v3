@@ -1,0 +1,377 @@
+{
+  "id": "P0008275",
+  "subject": {
+    "id": "P0008275",
+    "alternateIds": [
+      "AU_328"
+    ],
+    "dateOfBirth": "2008-01-11T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000098",
+        "label": "Tall stature"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000252",
+        "label": "Microcephaly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000256",
+        "label": "Macrocephaly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000776",
+        "label": "Congenital diaphragmatic hernia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000925",
+        "label": "Abnormality of the vertebral column"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000953",
+        "label": "Hyperpigmentation of the skin"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001010",
+        "label": "Hypopigmentation of the skin"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001180",
+        "label": "Hand oligodactyly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001371",
+        "label": "Flexion contracture"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001629",
+        "label": "Ventricular septal defect"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001631",
+        "label": "Atrial septal defect"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001636",
+        "label": "Tetralogy of Fallot"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001638",
+        "label": "Cardiomyopathy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001674",
+        "label": "Complete atrioventricular canal defect"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001680",
+        "label": "Coarctation of aorta"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001762",
+        "label": "Talipes equinovarus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001770",
+        "label": "Toe syndactyly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001836",
+        "label": "Camptodactyly of toe"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001849",
+        "label": "Foot oligodactyly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002088",
+        "label": "Abnormality of lung morphology"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002650",
+        "label": "Scoliosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002652",
+        "label": "Skeletal dysplasia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002659",
+        "label": "Increased susceptibility to fractures"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004322",
+        "label": "Short stature"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004324",
+        "label": "Increased body weight"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004325",
+        "label": "Decreased body weight"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005306",
+        "label": "Capillary hemangiomas"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0006101",
+        "label": "Finger syndactyly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0009816",
+        "label": "Lower limb undergrowth"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0009824",
+        "label": "Upper limb undergrowth"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011276",
+        "label": "Vascular skin abnormality"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011675",
+        "label": "Arrhythmia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100258",
+        "label": "Preaxial polydactyly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100259",
+        "label": "Postaxial polydactyly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100490",
+        "label": "Camptodactyly of finger"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000708",
+        "label": "Behavioral abnormality"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000729",
+        "label": "Autistic behavior"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000733",
+        "label": "Stereotypy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000750",
+        "label": "Delayed speech and language development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002360",
+        "label": "Sleep disturbance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100716",
+        "label": "Self-injurious behavior"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0008275",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0008275",
+            "interpretationStatus": "CAUSATIVE",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:29022",
+                  "symbol": "SPECC1L"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "22",
+                  "pos": "24709327",
+                  "ref": "C",
+                  "alt": "T",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:36:08Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "aous-renieri",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

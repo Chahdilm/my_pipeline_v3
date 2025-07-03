@@ -1,0 +1,171 @@
+{
+  "id": "P0018773",
+  "subject": {
+    "id": "P0018773",
+    "alternateIds": [
+      "PED7484.1"
+    ],
+    "dateOfBirth": "2015-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000308",
+        "label": "Microretrognathia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000316",
+        "label": "Hypertelorism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000340",
+        "label": "Sloping forehead"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000347",
+        "label": "Micrognathia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000356",
+        "label": "Abnormality of the outer ear"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000413",
+        "label": "Atresia of the external auditory canal"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000518",
+        "label": "Cataract"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000589",
+        "label": "Coloboma"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000598",
+        "label": "Abnormality of the ear"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001629",
+        "label": "Ventricular septal defect"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001669",
+        "label": "Transposition of the great arteries"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002937",
+        "label": "Hemivertebrae"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003191",
+        "label": "Cleft ala nasi"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004411",
+        "label": "Deviated nasal septum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008572",
+        "label": "External ear malformation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010754",
+        "label": "Abnormality of the temporomandibular joint"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0018773",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:398156",
+        "label": "Oculoauriculofrontonasal syndrome"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:58:19Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "chud-faivre",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "id": "P0019742",
+  "subject": {
+    "id": "P0019742",
+    "alternateIds": [
+      "BES008_P"
+    ],
+    "dateOfBirth": "2014-07-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000028",
+        "label": "Cryptorchidism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000648",
+        "label": "Optic atrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001250",
+        "label": "Seizures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001272",
+        "label": "Cerebellar atrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001511",
+        "label": "Intrauterine growth retardation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001558",
+        "label": "Decreased fetal movement"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002033",
+        "label": "Poor suck"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002360",
+        "label": "Sleep disturbance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002453",
+        "label": "Abnormality of the globus pallidus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004322",
+        "label": "Short stature"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007366",
+        "label": "Atrophy/Degeneration affecting the brainstem"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008897",
+        "label": "Postnatal growth retardation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011436",
+        "label": "Abnormal maternal serum screening"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011451",
+        "label": "Congenital microcephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012512",
+        "label": "Diffuse optic disc pallor"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012736",
+        "label": "Profound global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100633",
+        "label": "Esophagitis"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0019742",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:05:03Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "tigem-nigro",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

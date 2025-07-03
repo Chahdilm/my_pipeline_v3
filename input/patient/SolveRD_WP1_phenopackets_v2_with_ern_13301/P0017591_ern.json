@@ -1,0 +1,344 @@
+{
+  "id": "P0017591",
+  "subject": {
+    "id": "P0017591",
+    "alternateIds": [
+      "RUMC_solverd_ithaca_2588"
+    ],
+    "dateOfBirth": "1994-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000252",
+        "label": "Microcephaly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000256",
+        "label": "Macrocephaly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000823",
+        "label": "Delayed puberty"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000826",
+        "label": "Precocious puberty"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001787",
+        "label": "Abnormal delivery"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001622",
+        "label": "Premature birth"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001518",
+        "label": "Small for gestational age"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0006579",
+        "label": "Prolonged neonatal jaundice"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002643",
+        "label": "Neonatal respiratory distress"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0040187",
+        "label": "Neonatal sepsis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001998",
+        "label": "Neonatal hypoglycemia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000308",
+        "label": "Microretrognathia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000316",
+        "label": "Hypertelorism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000322",
+        "label": "Short philtrum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000348",
+        "label": "High forehead"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000463",
+        "label": "Anteverted nares"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000664",
+        "label": "Synophrys"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001250",
+        "label": "Seizures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001263",
+        "label": "Global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001274",
+        "label": "Agenesis of corpus callosum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001276",
+        "label": "Hypertonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001347",
+        "label": "Hyperreflexia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001537",
+        "label": "Umbilical hernia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001572",
+        "label": "Macrodontia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002019",
+        "label": "Constipation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002020",
+        "label": "Gastroesophageal reflux"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002187",
+        "label": "Intellectual disability, profound"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002282",
+        "label": "Heterotopia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002307",
+        "label": "Drooling"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002751",
+        "label": "Kyphoscoliosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003305",
+        "label": "Block vertebrae"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004322",
+        "label": "Short stature"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005280",
+        "label": "Depressed nasal bridge"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006532",
+        "label": "Recurrent pneumonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007858",
+        "label": "Chorioretinal lacunae"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008416",
+        "label": "Six lumbar vertebrae"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008947",
+        "label": "Infantile muscular hypotonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010722",
+        "label": "Asymmetry of the ears"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011228",
+        "label": "Horizontal eyebrow"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011338",
+        "label": "Abnormality of mouth shape"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011480",
+        "label": "Unilateral microphthalmos"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012469",
+        "label": "Infantile spasms"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0200134",
+        "label": "Epileptic encephalopathy"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0017591",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:50",
+        "label": "Aicardi syndrome"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:58:02Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-vissers",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

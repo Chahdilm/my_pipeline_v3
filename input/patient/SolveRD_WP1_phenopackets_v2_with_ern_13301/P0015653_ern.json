@@ -1,0 +1,408 @@
+{
+  "id": "P0015653",
+  "subject": {
+    "id": "P0015653",
+    "alternateIds": [
+      "NP0418-1"
+    ],
+    "dateOfBirth": "2013-03-27T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000252",
+        "label": "Microcephaly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000256",
+        "label": "Macrocephaly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000271",
+        "label": "Abnormality of the face"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000496",
+        "label": "Abnormality of eye movement"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000508",
+        "label": "Ptosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000821",
+        "label": "Hypothyroidism"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000951",
+        "label": "Abnormality of the skin"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001250",
+        "label": "Seizures"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001257",
+        "label": "Spasticity"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001260",
+        "label": "Dysarthria"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001265",
+        "label": "Hyporeflexia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001279",
+        "label": "Syncope"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001291",
+        "label": "Abnormality of the cranial nerves"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001324",
+        "label": "Muscle weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001332",
+        "label": "Dystonia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001347",
+        "label": "Hyperreflexia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001438",
+        "label": "Abnormality of abdomen morphology"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001626",
+        "label": "Abnormality of the cardiovascular system"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002015",
+        "label": "Dysphagia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002169",
+        "label": "Clonus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002240",
+        "label": "Hepatomegaly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002813",
+        "label": "Abnormality of limb bone morphology"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003202",
+        "label": "Skeletal muscle atrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007256",
+        "label": "Abnormal pyramidal signs"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008947",
+        "label": "Infantile muscular hypotonia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100022",
+        "label": "Abnormality of movement"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0009800",
+        "label": "Maternal diabetes"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011438",
+        "label": "Maternal teratogenic exposure"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001511",
+        "label": "Intrauterine growth retardation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001562",
+        "label": "Oligohydramnios"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001561",
+        "label": "Polyhydramnios"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001558",
+        "label": "Decreased fetal movement"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005855",
+        "label": "Multiple prenatal fractures"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000708",
+        "label": "Behavioral abnormality"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000729",
+        "label": "Autistic behavior"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000733",
+        "label": "Stereotypy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000735",
+        "label": "Impaired social interactions"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000736",
+        "label": "Short attention span"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000750",
+        "label": "Delayed speech and language development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000817",
+        "label": "Poor eye contact"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002381",
+        "label": "Aphasia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002463",
+        "label": "Language impairment"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006863",
+        "label": "Severe expressive language delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007064",
+        "label": "Progressive language deterioration"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011352",
+        "label": "Severe receptive language delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012433",
+        "label": "Abnormal social behavior"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100851",
+        "label": "Abnormal emotion/affect behavior"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001787",
+        "label": "Abnormal delivery"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002376",
+        "label": "Developmental regression"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011412",
+        "label": "Ventouse delivery"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0015653",
+      "progressStatus": "SOLVED"
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:98818",
+        "label": "Landau-Kleffner syndrome"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:57:05Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "vhir-macaya",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-RND"
+      }
+    ]
+  }
+}

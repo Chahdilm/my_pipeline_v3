@@ -1,0 +1,152 @@
+{
+  "id": "P0015062",
+  "subject": {
+    "id": "P0015062",
+    "alternateIds": [
+      "RUMC_SolveRD_RND_0054"
+    ],
+    "dateOfBirth": "1959-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000639",
+        "label": "Nystagmus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001251",
+        "label": "Ataxia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001288",
+        "label": "Gait disturbance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002141",
+        "label": "Gait imbalance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002167",
+        "label": "Neurological speech impairment"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009830",
+        "label": "Peripheral neuropathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030786",
+        "label": "Photopsia"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0015062",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0015062",
+            "interpretationStatus": "CAUSATIVE",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:801",
+                  "symbol": "ATP1A3"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "19",
+                  "pos": "42471481",
+                  "ref": "C",
+                  "alt": "T",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:99",
+        "label": "Autosomal dominant cerebellar ataxia"
+      }
+    },
+    {
+      "term": {
+        "id": "Orphanet:183518",
+        "label": "Rare hereditary ataxia"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:56:54Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-vandewarrenburg",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-RND"
+      }
+    ]
+  }
+}

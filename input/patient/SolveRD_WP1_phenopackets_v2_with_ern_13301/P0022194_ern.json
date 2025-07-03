@@ -1,0 +1,201 @@
+{
+  "id": "P0022194",
+  "subject": {
+    "id": "P0022194",
+    "alternateIds": [
+      "D1402151"
+    ],
+    "dateOfBirth": "2013-12-04T00:00:00Z",
+    "vitalStatus": {
+      "status": "DECEASED"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000023",
+        "label": "Inguinal hernia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001263",
+        "label": "Global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001508",
+        "label": "Failure to thrive"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001601",
+        "label": "Laryngomalacia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002453",
+        "label": "Abnormality of the globus pallidus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008527",
+        "label": "Congenital sensorineural hearing impairment"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008936",
+        "label": "Muscular hypotonia of the trunk"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0022194",
+      "progressStatus": "UNSOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0022194",
+            "interpretationStatus": "CANDIDATE",
+            "gene": {
+              "valueId": "HGNC:4284",
+              "symbol": "GJB2"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0022194",
+            "interpretationStatus": "CANDIDATE",
+            "gene": {
+              "valueId": "HGNC:4288",
+              "symbol": "GJB6"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0022194",
+            "interpretationStatus": "CANDIDATE",
+            "gene": {
+              "valueId": "HGNC:26591",
+              "symbol": "PRRT3"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0022194",
+            "interpretationStatus": "CANDIDATE",
+            "gene": {
+              "valueId": "HGNC:3638",
+              "symbol": "FDX1"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0022194",
+            "interpretationStatus": "CANDIDATE",
+            "gene": {
+              "valueId": "HGNC:17360",
+              "symbol": "LRIG1"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0022194",
+            "interpretationStatus": "CANDIDATE",
+            "gene": {
+              "valueId": "HGNC:14971",
+              "symbol": "SNX7"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0022194",
+            "interpretationStatus": "CANDIDATE",
+            "gene": {
+              "valueId": "HGNC:28989",
+              "symbol": "NPIPB3"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0022194",
+            "interpretationStatus": "CANDIDATE",
+            "gene": {
+              "valueId": "HGNC:41985",
+              "symbol": "NPIPB4"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0022194",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:20597",
+                  "symbol": "UFM1"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "13",
+                  "pos": "38923901",
+                  "ref": "TTCA",
+                  "alt": "T",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:06:12Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "uzg-poppe",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-RND"
+      }
+    ]
+  }
+}

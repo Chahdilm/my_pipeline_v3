@@ -1,0 +1,298 @@
+{
+  "id": "P0019554",
+  "subject": {
+    "id": "P0019554",
+    "alternateIds": [
+      "RUMC_solverd_ithaca_2700"
+    ],
+    "dateOfBirth": "2013-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000002",
+        "label": "Abnormality of body height"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000202",
+        "label": "Oral cleft"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000240",
+        "label": "Abnormality of skull size"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000364",
+        "label": "Hearing abnormality"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000504",
+        "label": "Abnormality of vision"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001622",
+        "label": "Premature birth"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002360",
+        "label": "Sleep disturbance"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011968",
+        "label": "Feeding difficulties"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001622",
+        "label": "Premature birth"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000294",
+        "label": "Low anterior hairline"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000369",
+        "label": "Low-set ears"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000395",
+        "label": "Prominent antihelix"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000455",
+        "label": "Broad nasal tip"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000574",
+        "label": "Thick eyebrow"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000582",
+        "label": "Upslanted palpebral fissure"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000708",
+        "label": "Behavioral abnormality"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000735",
+        "label": "Impaired social interactions"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000750",
+        "label": "Delayed speech and language development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000954",
+        "label": "Single transverse palmar crease"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001007",
+        "label": "Hirsutism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001156",
+        "label": "Brachydactyly syndrome"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001182",
+        "label": "Tapered finger"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001263",
+        "label": "Global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001270",
+        "label": "Motor delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001274",
+        "label": "Agenesis of corpus callosum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001520",
+        "label": "Large for gestational age"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001799",
+        "label": "Short nail"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001998",
+        "label": "Neonatal hypoglycemia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006889",
+        "label": "Intellectual disability, borderline"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010055",
+        "label": "Broad hallux"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010529",
+        "label": "Echolalia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011412",
+        "label": "Ventouse delivery"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100603",
+        "label": "Toxemia of pregnancy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001520",
+        "label": "Large for gestational age"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001998",
+        "label": "Neonatal hypoglycemia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011412",
+        "label": "Ventouse delivery"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100603",
+        "label": "Toxemia of pregnancy"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0019554",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:04:57Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-vissers",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

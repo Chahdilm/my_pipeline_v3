@@ -1,0 +1,158 @@
+{
+  "id": "P0101615",
+  "subject": {
+    "id": "P0101615",
+    "alternateIds": [
+      "BAR-Fam29_01"
+    ],
+    "dateOfBirth": "2008-08-13T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0007002",
+        "label": "Motor axonal neuropathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001270",
+        "label": "Motor delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002540",
+        "label": "Inability to walk"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001349",
+        "label": "Facial diplegia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100543",
+        "label": "Cognitive impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001308",
+        "label": "Tongue fasciculations"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002460",
+        "label": "Distal muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007936",
+        "label": "Restrictive external ophthalmoplegia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003701",
+        "label": "Proximal muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001284",
+        "label": "Areflexia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003327",
+        "label": "Axial muscle weakness"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0101615",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0101615",
+            "interpretationStatus": "CAUSATIVE",
+            "gene": {
+              "valueId": "HGNC:12469",
+              "symbol": "UBA1"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:53739",
+        "label": "Distal hereditary motor neuropathy"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:06:29Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "hsjd-nascimento",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

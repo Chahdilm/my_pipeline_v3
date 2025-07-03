@@ -1,0 +1,133 @@
+{
+  "id": "P0484392",
+  "subject": {
+    "id": "P0484392",
+    "alternateIds": [
+      "20GR005823"
+    ],
+    "dateOfBirth": "2011-12-07T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000271",
+        "label": "Abnormality of the face"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000276",
+        "label": "Long face"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000411",
+        "label": "Protruding ear"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000463",
+        "label": "Anteverted nares"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000692",
+        "label": "Misalignment of teeth"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000708",
+        "label": "Behavioral abnormality"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001328",
+        "label": "Specific learning disability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002003",
+        "label": "Large forehead"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010055",
+        "label": "Broad hallux"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010442",
+        "label": "Polydactyly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030084",
+        "label": "Clinodactyly"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0484392",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:10:59Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "ipg-maystadt",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

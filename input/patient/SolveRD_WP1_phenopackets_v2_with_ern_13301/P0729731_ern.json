@@ -1,0 +1,154 @@
+{
+  "id": "P0729731",
+  "subject": {
+    "id": "P0729731",
+    "alternateIds": [
+      "90471"
+    ],
+    "dateOfBirth": "1948-05-29T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000510",
+        "label": "Rod-cone dystrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000407",
+        "label": "Sensorineural hearing impairment"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003200",
+        "label": "Ragged-red muscle fibers"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003688",
+        "label": "Cytochrome C oxidase-negative muscle fibers"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008972",
+        "label": "Decreased activity of mitochondrial respiratory chain"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007141",
+        "label": "Sensorimotor neuropathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003477",
+        "label": "Peripheral axonal neuropathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000518",
+        "label": "Cataract"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001639",
+        "label": "Hypertrophic cardiomyopathy"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0729731",
+      "progressStatus": "UNSOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0729731",
+            "interpretationStatus": "CAUSATIVE",
+            "gene": {
+              "valueId": "HGNC:12601",
+              "symbol": "USH2A"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0729731",
+            "interpretationStatus": "CAUSATIVE",
+            "gene": {
+              "valueId": "HGNC:7577",
+              "symbol": "MYH7"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:886",
+        "label": "Usher syndrome"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:11:12Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "ucl-hanna",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

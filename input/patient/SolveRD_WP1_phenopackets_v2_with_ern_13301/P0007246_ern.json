@@ -1,0 +1,229 @@
+{
+  "id": "P0007246",
+  "subject": {
+    "id": "P0007246",
+    "alternateIds": [
+      "PED1510.1"
+    ],
+    "dateOfBirth": "2012-04-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000023",
+        "label": "Inguinal hernia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000047",
+        "label": "Hypospadias"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000074",
+        "label": "Ureteropelvic junction obstruction"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000121",
+        "label": "Nephrocalcinosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000280",
+        "label": "Coarse facial features"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000307",
+        "label": "Pointed chin"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000319",
+        "label": "Smooth philtrum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000369",
+        "label": "Low-set ears"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000519",
+        "label": "Congenital cataract"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001263",
+        "label": "Global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001319",
+        "label": "Neonatal hypotonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001382",
+        "label": "Joint hypermobility"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001407",
+        "label": "Hepatic cysts"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001510",
+        "label": "Growth delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001869",
+        "label": "Deep plantar creases"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002942",
+        "label": "Thoracic kyphosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003159",
+        "label": "Hyperoxaluria"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006129",
+        "label": "Drumstick terminal phalanges"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006157",
+        "label": "Prominent palmar flexion creases"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007016",
+        "label": "Corticospinal tract hypoplasia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011327",
+        "label": "Posterior plagiocephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011428",
+        "label": "Short fetal femur length"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011968",
+        "label": "Feeding difficulties"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100761",
+        "label": "Visceral angiomatosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001518",
+        "label": "Small for gestational age"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001622",
+        "label": "Premature birth"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003561",
+        "label": "Birth length less than 3rd percentile"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0007246",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:36:06Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "chud-faivre",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

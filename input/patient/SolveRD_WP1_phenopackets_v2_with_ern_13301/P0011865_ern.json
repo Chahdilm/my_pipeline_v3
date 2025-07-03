@@ -1,0 +1,221 @@
+{
+  "id": "P0011865",
+  "subject": {
+    "id": "P0011865",
+    "alternateIds": [
+      "ID21441"
+    ],
+    "dateOfBirth": "1989-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000012",
+        "label": "Urinary urgency"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000020",
+        "label": "Urinary incontinence"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000496",
+        "label": "Abnormality of eye movement"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000640",
+        "label": "Gaze-evoked nystagmus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001260",
+        "label": "Dysarthria"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002015",
+        "label": "Dysphagia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002066",
+        "label": "Gait ataxia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002070",
+        "label": "Limb ataxia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002495",
+        "label": "Impaired vibratory sensation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007199",
+        "label": "Progressive spastic paraparesis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008944",
+        "label": "Distal lower limb amyotrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100022",
+        "label": "Abnormality of movement"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100543",
+        "label": "Cognitive impairment"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0011865",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "OMIM:612319",
+          "label": "Spastic Paraplegia 35, Autosomal Recessive"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0011865",
+            "interpretationStatus": "CAUSATIVE",
+            "gene": {
+              "valueId": "HGNC:21197",
+              "symbol": "FA2H"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0011865",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:21197",
+                  "symbol": "FA2H"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "16",
+                  "pos": "74750316",
+                  "ref": "G",
+                  "alt": "A",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0011865",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:21197",
+                  "symbol": "FA2H"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "16",
+                  "pos": "74750376",
+                  "ref": "C",
+                  "alt": "A",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:171629",
+        "label": "Autosomal recessive spastic paraplegia type 35"
+      }
+    },
+    {
+      "term": {
+        "id": "OMIM:612319",
+        "label": "Spastic Paraplegia 35, Autosomal Recessive"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:56:00Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "ekut-schuele",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-RND"
+      }
+    ]
+  }
+}

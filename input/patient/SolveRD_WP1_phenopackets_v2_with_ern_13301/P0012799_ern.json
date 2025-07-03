@@ -1,0 +1,152 @@
+{
+  "id": "P0012799",
+  "subject": {
+    "id": "P0012799",
+    "alternateIds": [
+      "RUMC_solverd_ithaca_0351"
+    ],
+    "dateOfBirth": "2005-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000002",
+        "label": "Abnormality of body height"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000540",
+        "label": "Hypermetropia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000821",
+        "label": "Hypothyroidism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000953",
+        "label": "Hyperpigmentation of the skin"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001256",
+        "label": "Intellectual disability, mild"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001288",
+        "label": "Gait disturbance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001324",
+        "label": "Muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001385",
+        "label": "Hip dysplasia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001513",
+        "label": "Obesity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002754",
+        "label": "Osteomyelitis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003198",
+        "label": "Myopathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003388",
+        "label": "Easy fatigability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003546",
+        "label": "Exercise intolerance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100651",
+        "label": "Type I diabetes mellitus"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0012799",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:56:13Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-vissers",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

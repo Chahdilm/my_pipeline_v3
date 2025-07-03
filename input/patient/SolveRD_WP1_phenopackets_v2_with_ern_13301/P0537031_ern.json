@@ -1,0 +1,335 @@
+{
+  "id": "P0537031",
+  "subject": {
+    "id": "P0537031",
+    "alternateIds": [
+      "RUMC_solverd_ithaca_2923"
+    ],
+    "dateOfBirth": "1988-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0011410",
+        "label": "Caesarian section"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001510",
+        "label": "Growth delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001824",
+        "label": "Weight loss"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000175",
+        "label": "Cleft palate"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000193",
+        "label": "Bifid uvula"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000324",
+        "label": "Facial asymmetry"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000465",
+        "label": "Webbed neck"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003196",
+        "label": "Short nose"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011120",
+        "label": "Concave nasal ridge"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012810",
+        "label": "Wide nasal base"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0410003",
+        "label": "Cleft maxillary alveolus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0410030",
+        "label": "Cleft lip"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000639",
+        "label": "Nystagmus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000316",
+        "label": "Hypertelorism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000612",
+        "label": "Iris coloboma"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000651",
+        "label": "Diplopia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007663",
+        "label": "Reduced visual acuity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0025514",
+        "label": "Morning glory anomaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000358",
+        "label": "Posteriorly rotated ears"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002093",
+        "label": "Respiratory insufficiency"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002942",
+        "label": "Thoracic kyphosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0200021",
+        "label": "Down-sloping shoulders"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001864",
+        "label": "Clinodactyly of the 5th toe"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0200055",
+        "label": "Small hand"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000458",
+        "label": "Anosmia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001331",
+        "label": "Absent septum pellucidum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001338",
+        "label": "Partial agenesis of the corpus callosum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002118",
+        "label": "Abnormal cerebral ventricle morphology"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002384",
+        "label": "Focal impaired awareness seizure"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007082",
+        "label": "Dilated third ventricle"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007330",
+        "label": "Frontal encephalocele"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011817",
+        "label": "Basal encephalocele"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007334",
+        "label": "Bilateral tonic-clonic seizure with focal onset"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011185",
+        "label": "EEG with focal epileptiform discharges"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030048",
+        "label": "Colpocephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001081",
+        "label": "Cholelithiasis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000821",
+        "label": "Hypothyroidism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012503",
+        "label": "Abnormality of the pituitary gland"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0537031",
+      "progressStatus": "UNSOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0537031",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "UNCERTAIN_SIGNIFICANCE",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:6263",
+                  "symbol": "KCNJ2"
+                },
+                "expressions": [
+                  {
+                    "syntax": "hgvs",
+                    "value": "NM_000891.2:c.779G>A"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:1993",
+        "label": "Pai syndrome"
+      }
+    },
+    {
+      "term": {
+        "id": "OMIM:155145",
+        "label": "Cleft, Median, Of Upper Lip With Polyps Of Facial Skin And Nasal Mucosa"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:11:02Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-vissers",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

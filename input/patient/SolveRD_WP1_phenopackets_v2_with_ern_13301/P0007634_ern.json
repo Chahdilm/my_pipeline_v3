@@ -1,0 +1,183 @@
+{
+  "id": "P0007634",
+  "subject": {
+    "id": "P0007634",
+    "alternateIds": [
+      "25782_ND0443"
+    ],
+    "dateOfBirth": "2011-04-19T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000023",
+        "label": "Inguinal hernia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000028",
+        "label": "Cryptorchidism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000252",
+        "label": "Microcephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000278",
+        "label": "Retrognathia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000565",
+        "label": "Esotropia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000821",
+        "label": "Hypothyroidism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001257",
+        "label": "Spasticity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001270",
+        "label": "Motor delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001276",
+        "label": "Hypertonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002020",
+        "label": "Gastroesophageal reflux"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002650",
+        "label": "Scoliosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002871",
+        "label": "Central apnea"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012469",
+        "label": "Infantile spasms"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030043",
+        "label": "Hip Subluxation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030084",
+        "label": "Clinodactyly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030842",
+        "label": "Choking episodes"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0200134",
+        "label": "Epileptic encephalopathy"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0007634",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:87277",
+        "label": "Rare intellectual disability"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:36:06Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "iier-posada",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "UDN-Spain"
+      }
+    ]
+  }
+}

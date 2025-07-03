@@ -1,0 +1,153 @@
+{
+  "id": "P0229515",
+  "subject": {
+    "id": "P0229515",
+    "alternateIds": [
+      "CY0019"
+    ],
+    "dateOfBirth": "2020-04-18T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000568",
+        "label": "Microphthalmia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011480",
+        "label": "Unilateral microphthalmos"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000508",
+        "label": "Ptosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002808",
+        "label": "Kyphosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005684",
+        "label": "Distal arthrogryposis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001252",
+        "label": "Hypotonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001290",
+        "label": "Generalized hypotonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002086",
+        "label": "Abnormality of the respiratory system"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011968",
+        "label": "Feeding difficulties"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001166",
+        "label": "Arachnodactyly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010557",
+        "label": "Overlapping fingers"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000160",
+        "label": "Narrow mouth"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0229515",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:2053",
+        "label": "Freeman-Sheldon syndrome"
+      }
+    },
+    {
+      "term": {
+        "id": "Orphanet:2461",
+        "label": "Marden-Walker syndrome"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:06:41Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "namiii-anastasiadou",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

@@ -1,0 +1,552 @@
+{
+  "id": "P0018039",
+  "subject": {
+    "id": "P0018039",
+    "alternateIds": [
+      "TOP_ESTE2472_1"
+    ],
+    "dateOfBirth": "2013-04-20T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000365",
+        "label": "Hearing impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000639",
+        "label": "Nystagmus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001371",
+        "label": "Flexion contracture"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001638",
+        "label": "Cardiomyopathy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002093",
+        "label": "Respiratory insufficiency"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002104",
+        "label": "Apnea"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002277",
+        "label": "Horner syndrome"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002650",
+        "label": "Scoliosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002792",
+        "label": "Reduced vital capacity"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002878",
+        "label": "Respiratory failure"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002880",
+        "label": "obsolete Respiratory difficulties"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003390",
+        "label": "Sensory axonal neuropathy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003403",
+        "label": "EMG: decremental response of compound muscle action potential to repetitive nerve stimulation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003445",
+        "label": "EMG: neuropathic changes"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003457",
+        "label": "EMG abnormality"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003458",
+        "label": "EMG: myopathic abnormalities"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003474",
+        "label": "Sensory impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003730",
+        "label": "EMG: myotonic runs"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005750",
+        "label": "Contractures of the joints of the lower limbs"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007002",
+        "label": "Motor axonal neuropathy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007220",
+        "label": "Demyelinating motor neuropathy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007327",
+        "label": "Mixed demyelinating and axonal polyneuropathy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007687",
+        "label": "Unilateral ptosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007838",
+        "label": "Progressive ptosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007911",
+        "label": "Congenital bilateral ptosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007970",
+        "label": "Congenital ptosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010307",
+        "label": "Stridor"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010546",
+        "label": "Muscle fibrillation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011402",
+        "label": "Demyelinating sensory neuropathy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011471",
+        "label": "Gastrostomy tube feeding in infancy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011675",
+        "label": "Arrhythmia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0012079",
+        "label": "Abnormality of central motor conduction"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0012246",
+        "label": "Oculomotor nerve palsy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100283",
+        "label": "EMG: continuous motor unit activity at rest"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100360",
+        "label": "Contractures of the joints of the upper limbs"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100543",
+        "label": "Cognitive impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000297",
+        "label": "Facial hypotonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000508",
+        "label": "Ptosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000544",
+        "label": "External ophthalmoplegia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000597",
+        "label": "Ophthalmoparesis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000602",
+        "label": "Ophthalmoplegia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001260",
+        "label": "Dysarthria"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001488",
+        "label": "Bilateral ptosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001618",
+        "label": "Dysphonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002015",
+        "label": "Dysphagia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002068",
+        "label": "Neuromuscular dysphagia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002167",
+        "label": "Neurological speech impairment"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003324",
+        "label": "Generalized muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003388",
+        "label": "Easy fatigability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003473",
+        "label": "Fatigable weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003691",
+        "label": "Scapular winging"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005216",
+        "label": "Chewing difficulties"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008376",
+        "label": "Nasal, dysarthic speech"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008948",
+        "label": "Proximal upper limb amyotrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009020",
+        "label": "Exercise-induced muscle fatigue"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010526",
+        "label": "Dysgraphia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030192",
+        "label": "Fatigable weakness of bulbar muscles"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030193",
+        "label": "Fatigable weakness of chewing muscles"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030194",
+        "label": "Fatigable weakness of speech muscles"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030195",
+        "label": "Fatigable weakness of swallowing muscles"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030196",
+        "label": "Fatigable weakness of respiratory muscles"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030197",
+        "label": "Fatigable weakness of skeletal muscles"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030200",
+        "label": "Fatiguable weakness of proximal limb muscles"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0018039",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0018039",
+            "interpretationStatus": "CAUSATIVE",
+            "gene": {
+              "valueId": "HGNC:9863",
+              "symbol": "RAPSN"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0018039",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "UNCERTAIN_SIGNIFICANCE",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:9863",
+                  "symbol": "RAPSN"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "11",
+                  "pos": "47459571",
+                  "ref": "G",
+                  "alt": "A",
+                  "info": "Uncertain significance"
+                }
+              }
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0018039",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "LIKELY_PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:9863",
+                  "symbol": "RAPSN"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "11",
+                  "pos": "47469662",
+                  "ref": "T",
+                  "alt": "A",
+                  "info": "Likely pathogenic"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:590",
+        "label": "Congenital myasthenic syndrome"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:58:07Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "cheo-lochmuller",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

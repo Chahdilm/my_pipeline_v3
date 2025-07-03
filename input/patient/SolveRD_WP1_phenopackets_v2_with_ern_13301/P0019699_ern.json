@@ -1,0 +1,403 @@
+{
+  "id": "P0019699",
+  "subject": {
+    "id": "P0019699",
+    "alternateIds": [
+      "AHCH-NW"
+    ],
+    "dateOfBirth": "2018-09-08T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000819",
+        "label": "Diabetes mellitus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000925",
+        "label": "Abnormality of the vertebral column"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001180",
+        "label": "Hand oligodactyly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001250",
+        "label": "Seizures"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001251",
+        "label": "Ataxia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001257",
+        "label": "Spasticity"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001332",
+        "label": "Dystonia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001371",
+        "label": "Flexion contracture"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001396",
+        "label": "Cholestasis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001539",
+        "label": "Omphalocele"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001543",
+        "label": "Gastroschisis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001738",
+        "label": "Exocrine pancreatic insufficiency"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001762",
+        "label": "Talipes equinovarus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001770",
+        "label": "Toe syndactyly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001836",
+        "label": "Camptodactyly of toe"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001849",
+        "label": "Foot oligodactyly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002032",
+        "label": "Esophageal atresia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002072",
+        "label": "Chorea"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002251",
+        "label": "Aganglionic megacolon"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002575",
+        "label": "Tracheoesophageal fistula"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002650",
+        "label": "Scoliosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002652",
+        "label": "Skeletal dysplasia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002659",
+        "label": "Increased susceptibility to fractures"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002910",
+        "label": "Elevated hepatic transaminases"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0006101",
+        "label": "Finger syndactyly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0009816",
+        "label": "Lower limb undergrowth"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0009824",
+        "label": "Upper limb undergrowth"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010301",
+        "label": "Spinal dysraphism"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100258",
+        "label": "Preaxial polydactyly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100259",
+        "label": "Postaxial polydactyly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100490",
+        "label": "Camptodactyly of finger"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001511",
+        "label": "Intrauterine growth retardation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001562",
+        "label": "Oligohydramnios"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001561",
+        "label": "Polyhydramnios"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001558",
+        "label": "Decreased fetal movement"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001622",
+        "label": "Premature birth"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000069",
+        "label": "Abnormality of the ureter"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000072",
+        "label": "Hydroureter"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000076",
+        "label": "Vesicoureteral reflux"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000126",
+        "label": "Hydronephrosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001290",
+        "label": "Generalized hypotonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001631",
+        "label": "Atrial septal defect"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002151",
+        "label": "Increased serum lactate"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002194",
+        "label": "Delayed gross motor development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003324",
+        "label": "Generalized muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003444",
+        "label": "EMG: chronic denervation signs"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001787",
+        "label": "Abnormal delivery"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009800",
+        "label": "Maternal diabetes"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011410",
+        "label": "Caesarian section"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030363",
+        "label": "Primary Caesarian section"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0019699",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:05:01Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "alderhey-madhu",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

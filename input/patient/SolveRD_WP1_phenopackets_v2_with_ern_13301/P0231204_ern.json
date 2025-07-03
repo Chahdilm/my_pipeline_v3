@@ -1,0 +1,110 @@
+{
+  "id": "P0231204",
+  "subject": {
+    "id": "P0231204",
+    "alternateIds": [
+      "578K"
+    ],
+    "dateOfBirth": "1999-11-30T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0011147",
+        "label": "Typical absence seizure"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0231204",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "619873",
+          "label": "Parenti-Mignot neurodevelopmental syndrome"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0231204",
+            "interpretationStatus": "CAUSATIVE",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "LIKELY_PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:16816",
+                  "symbol": "CHD5"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "1",
+                  "pos": "6166570",
+                  "ref": "C",
+                  "alt": "G",
+                  "info": "Likely pathogenic"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "619873",
+        "label": "Parenti-Mignot neurodevelopmental syndrome"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:06:41Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "chm-guerrini",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EpiCARE"
+      }
+    ]
+  }
+}

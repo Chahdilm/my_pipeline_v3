@@ -1,0 +1,404 @@
+{
+  "id": "P0015654",
+  "subject": {
+    "id": "P0015654",
+    "alternateIds": [
+      "NP0476-1"
+    ],
+    "dateOfBirth": "2016-03-02T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000256",
+        "label": "Macrocephaly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000324",
+        "label": "Facial asymmetry"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000496",
+        "label": "Abnormality of eye movement"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000508",
+        "label": "Ptosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000518",
+        "label": "Cataract"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000708",
+        "label": "Behavioral abnormality"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000951",
+        "label": "Abnormality of the skin"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001257",
+        "label": "Spasticity"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001260",
+        "label": "Dysarthria"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001265",
+        "label": "Hyporeflexia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001291",
+        "label": "Abnormality of the cranial nerves"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001324",
+        "label": "Muscle weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001332",
+        "label": "Dystonia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001347",
+        "label": "Hyperreflexia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002015",
+        "label": "Dysphagia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002273",
+        "label": "Tetraparesis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002385",
+        "label": "Paraparesis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003202",
+        "label": "Skeletal muscle atrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004374",
+        "label": "Hemiplegia/hemiparesis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008947",
+        "label": "Infantile muscular hypotonia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100022",
+        "label": "Abnormality of movement"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0009800",
+        "label": "Maternal diabetes"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011438",
+        "label": "Maternal teratogenic exposure"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001511",
+        "label": "Intrauterine growth retardation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001562",
+        "label": "Oligohydramnios"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001561",
+        "label": "Polyhydramnios"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001558",
+        "label": "Decreased fetal movement"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0012758",
+        "label": "Neurodevelopmental delay"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005855",
+        "label": "Multiple prenatal fractures"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000260",
+        "label": "Wide anterior fontanel"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000316",
+        "label": "Hypertelorism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000377",
+        "label": "Abnormality of the pinna"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000960",
+        "label": "Sacral dimple"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001162",
+        "label": "Postaxial hand polydactyly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001830",
+        "label": "Postaxial foot polydactyly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006136",
+        "label": "Bilateral postaxial polydactyly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006610",
+        "label": "Wide intermamillary distance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011169",
+        "label": "Generalized clonic seizures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012741",
+        "label": "Unilateral cryptorchidism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001623",
+        "label": "Breech presentation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001787",
+        "label": "Abnormal delivery"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011411",
+        "label": "Forceps delivery"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0015654",
+      "progressStatus": "UNSOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0015654",
+            "interpretationStatus": "CANDIDATE",
+            "gene": {
+              "valueId": "HGNC:17245",
+              "symbol": "CPA6"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0015654",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "UNCERTAIN_SIGNIFICANCE",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:17245",
+                  "symbol": "CPA6"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "8",
+                  "pos": "68396042",
+                  "ref": "C",
+                  "alt": "T",
+                  "info": "Uncertain significance"
+                }
+              }
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0015654",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "UNCERTAIN_SIGNIFICANCE",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:17245",
+                  "symbol": "CPA6"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "8",
+                  "pos": "68419039",
+                  "ref": "G",
+                  "alt": "C",
+                  "info": "Uncertain significance"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:57:06Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "vhir-macaya",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-RND"
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "id": "P0528514",
+  "subject": {
+    "id": "P0528514",
+    "alternateIds": [
+      "RUMC_solverd_ithaca_2801"
+    ],
+    "dateOfBirth": "2008-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000154",
+        "label": "Wide mouth"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000244",
+        "label": "Brachyturricephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000322",
+        "label": "Short philtrum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000448",
+        "label": "Prominent nose"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000582",
+        "label": "Upslanted palpebral fissure"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000735",
+        "label": "Impaired social interactions"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000771",
+        "label": "Gynecomastia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001182",
+        "label": "Tapered finger"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001256",
+        "label": "Intellectual disability, mild"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001263",
+        "label": "Global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001763",
+        "label": "Pes planus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001792",
+        "label": "Small nail"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002591",
+        "label": "Polyphagia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012412",
+        "label": "Premature adrenarche"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100807",
+        "label": "Long fingers"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0528514",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:11:02Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-vissers",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

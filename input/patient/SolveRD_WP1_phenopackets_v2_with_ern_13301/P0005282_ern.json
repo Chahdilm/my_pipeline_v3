@@ -1,0 +1,283 @@
+{
+  "id": "P0005282",
+  "subject": {
+    "id": "P0005282",
+    "alternateIds": [
+      "8653"
+    ],
+    "dateOfBirth": "1996-09-18T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000023",
+        "label": "Inguinal hernia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000028",
+        "label": "Cryptorchidism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000256",
+        "label": "Macrocephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000262",
+        "label": "Turricephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000276",
+        "label": "Long face"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000369",
+        "label": "Low-set ears"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000486",
+        "label": "Strabismus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000729",
+        "label": "Autistic behavior"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000733",
+        "label": "Stereotypy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001263",
+        "label": "Global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001344",
+        "label": "Absent speech"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001763",
+        "label": "Pes planus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001999",
+        "label": "Abnormal facial shape"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002066",
+        "label": "Gait ataxia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002079",
+        "label": "Hypoplasia of the corpus callosum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002419",
+        "label": "Molar tooth sign on MRI"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002509",
+        "label": "Limb hypertonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002789",
+        "label": "Tachypnea"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004322",
+        "label": "Short stature"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004325",
+        "label": "Decreased body weight"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004616",
+        "label": "Cleft vertebral arch"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004626",
+        "label": "Lumbar scoliosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005619",
+        "label": "Thoracolumbar kyphosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008551",
+        "label": "Microtia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010544",
+        "label": "Vertical nystagmus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010864",
+        "label": "Intellectual disability, severe"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012768",
+        "label": "Neonatal asphyxia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100702",
+        "label": "Arachnoid cyst"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0005282",
+      "progressStatus": "UNSOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0005282",
+            "interpretationStatus": "REJECTED",
+            "gene": {
+              "valueId": "HGNC:3775",
+              "symbol": "FMR1"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0005282",
+            "interpretationStatus": "REJECTED",
+            "gene": {
+              "valueId": "HGNC:6990",
+              "symbol": "MECP2"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0005282",
+            "interpretationStatus": "REJECTED",
+            "gene": {
+              "valueId": "HGNC:1497",
+              "symbol": "CASK"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0005282",
+            "interpretationStatus": "CANDIDATE",
+            "gene": {
+              "valueId": "HGNC:11957",
+              "symbol": "MED12"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0005282",
+            "interpretationStatus": "CANDIDATE",
+            "gene": {
+              "valueId": "HGNC:11164",
+              "symbol": "SNRPN"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:36:03Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "galliera-forzano",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

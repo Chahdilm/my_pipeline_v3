@@ -1,0 +1,388 @@
+{
+  "id": "P0015674",
+  "subject": {
+    "id": "P0015674",
+    "alternateIds": [
+      "NP0472-1"
+    ],
+    "dateOfBirth": "2011-05-18T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000118",
+        "label": "Phenotypic abnormality"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000496",
+        "label": "Abnormality of eye movement"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000508",
+        "label": "Ptosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000951",
+        "label": "Abnormality of the skin"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001251",
+        "label": "Ataxia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001257",
+        "label": "Spasticity"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001260",
+        "label": "Dysarthria"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001265",
+        "label": "Hyporeflexia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001291",
+        "label": "Abnormality of the cranial nerves"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001324",
+        "label": "Muscle weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001332",
+        "label": "Dystonia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001336",
+        "label": "Myoclonus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001337",
+        "label": "Tremor"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001347",
+        "label": "Hyperreflexia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002015",
+        "label": "Dysphagia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002063",
+        "label": "Rigidity"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002072",
+        "label": "Chorea"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002169",
+        "label": "Clonus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002240",
+        "label": "Hepatomegaly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002273",
+        "label": "Tetraparesis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002385",
+        "label": "Paraparesis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003202",
+        "label": "Skeletal muscle atrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004374",
+        "label": "Hemiplegia/hemiparesis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007256",
+        "label": "Abnormal pyramidal signs"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008947",
+        "label": "Infantile muscular hypotonia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100033",
+        "label": "Tics"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0009800",
+        "label": "Maternal diabetes"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011438",
+        "label": "Maternal teratogenic exposure"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001511",
+        "label": "Intrauterine growth retardation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001562",
+        "label": "Oligohydramnios"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001561",
+        "label": "Polyhydramnios"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001558",
+        "label": "Decreased fetal movement"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005855",
+        "label": "Multiple prenatal fractures"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000708",
+        "label": "Behavioral abnormality"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000711",
+        "label": "Restlessness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000733",
+        "label": "Stereotypy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001288",
+        "label": "Gait disturbance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002359",
+        "label": "Frequent falls"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012169",
+        "label": "Self-biting"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012433",
+        "label": "Abnormal social behavior"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0025160",
+        "label": "Abnormal temper tantrums"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0025161",
+        "label": "Frequent temper tantrums"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030051",
+        "label": "Tip-toe gait"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100716",
+        "label": "Self-injurious behavior"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001263",
+        "label": "Global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011343",
+        "label": "Moderate global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012758",
+        "label": "Neurodevelopmental delay"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0015674",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:57:06Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "vhir-macaya",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-RND"
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "P0001485",
+  "subject": {
+    "id": "P0001485",
+    "alternateIds": [
+      "TUB0981"
+    ],
+    "dateOfBirth": "1966-10-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0001251",
+        "label": "Ataxia"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0001485",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "OMIM:183090",
+          "label": "Spinocerebellar Ataxia 2"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0001485",
+            "interpretationStatus": "CAUSATIVE",
+            "gene": {
+              "valueId": "HGNC:10555",
+              "symbol": "ATXN2"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:98756",
+        "label": "Spinocerebellar ataxia type 2"
+      }
+    },
+    {
+      "term": {
+        "id": "OMIM:183090",
+        "label": "Spinocerebellar Ataxia 2"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:35:58Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "ekut-synofzik",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-RND"
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "id": "P0327874",
+  "subject": {
+    "id": "P0327874",
+    "alternateIds": [
+      "31598_ND1753"
+    ],
+    "dateOfBirth": "2017-09-29T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0001290",
+        "label": "Generalized hypotonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002938",
+        "label": "Lumbar hyperlordosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001763",
+        "label": "Pes planus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001284",
+        "label": "Areflexia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100960",
+        "label": "Asymmetric ventricles"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0025356",
+        "label": "Psychomotor retardation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001388",
+        "label": "Joint laxity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008936",
+        "label": "Muscular hypotonia of the trunk"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008081",
+        "label": "Pes valgus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001288",
+        "label": "Gait disturbance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011343",
+        "label": "Moderate global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001998",
+        "label": "Neonatal hypoglycemia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001319",
+        "label": "Neonatal hypotonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000954",
+        "label": "Single transverse palmar crease"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006610",
+        "label": "Wide intermamillary distance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002019",
+        "label": "Constipation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003550",
+        "label": "Predominantly lower limb lymphedema"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006799",
+        "label": "Basal ganglia cysts"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0327874",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:10:48Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "iier-posada",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "UDN-Spain"
+      }
+    ]
+  }
+}

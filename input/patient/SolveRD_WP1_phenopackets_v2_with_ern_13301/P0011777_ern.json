@@ -1,0 +1,201 @@
+{
+  "id": "P0011777",
+  "subject": {
+    "id": "P0011777",
+    "alternateIds": [
+      "ID15010"
+    ],
+    "dateOfBirth": "1993-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000012",
+        "label": "Urinary urgency"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000020",
+        "label": "Urinary incontinence"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000648",
+        "label": "Optic atrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000657",
+        "label": "Oculomotor apraxia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001260",
+        "label": "Dysarthria"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001285",
+        "label": "Spastic tetraparesis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002015",
+        "label": "Dysphagia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002079",
+        "label": "Hypoplasia of the corpus callosum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004322",
+        "label": "Short stature"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007149",
+        "label": "Distal upper limb amyotrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007199",
+        "label": "Progressive spastic paraparesis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008944",
+        "label": "Distal lower limb amyotrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100543",
+        "label": "Cognitive impairment"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0011777",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "OMIM:312920",
+          "label": "Spastic Paraplegia 2, X-linked"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0011777",
+            "interpretationStatus": "CAUSATIVE",
+            "gene": {
+              "valueId": "HGNC:9086",
+              "symbol": "PLP1"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0011777",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:9086",
+                  "symbol": "PLP1"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "X",
+                  "pos": "103040589",
+                  "ref": "G",
+                  "alt": "C",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:280229",
+        "label": "Pelizaeus-Merzbacher disease in female carriers"
+      }
+    },
+    {
+      "term": {
+        "id": "OMIM:312920",
+        "label": "Spastic Paraplegia 2, X-linked"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:56:00Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "ekut-schuele",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-RND"
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "id": "P0008431",
+  "subject": {
+    "id": "P0008431",
+    "alternateIds": [
+      "MR1671"
+    ],
+    "dateOfBirth": "2006-09-15T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000194",
+        "label": "Open mouth"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000232",
+        "label": "Everted lower lip vermilion"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000252",
+        "label": "Microcephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000303",
+        "label": "Mandibular prognathia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000718",
+        "label": "Aggressive behavior"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000733",
+        "label": "Stereotypy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000735",
+        "label": "Impaired social interactions"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000750",
+        "label": "Delayed speech and language development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000752",
+        "label": "Hyperactivity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001182",
+        "label": "Tapered finger"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001263",
+        "label": "Global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002360",
+        "label": "Sleep disturbance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004322",
+        "label": "Short stature"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005216",
+        "label": "Chewing difficulties"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005280",
+        "label": "Depressed nasal bridge"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006313",
+        "label": "Widely spaced primary teeth"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006347",
+        "label": "Microdontia of primary teeth"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008386",
+        "label": "Aplasia/Hypoplasia of the nails"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0025112",
+        "label": "Sound sensitivity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030220",
+        "label": "Socially inappropriate behavior"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0045075",
+        "label": "Sparse eyebrow"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100023",
+        "label": "Recurrent hand flapping"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100716",
+        "label": "Self-injurious behavior"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0008431",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:36:08Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "aous-renieri",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

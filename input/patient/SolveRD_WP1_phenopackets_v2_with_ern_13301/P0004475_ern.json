@@ -1,0 +1,165 @@
+{
+  "id": "P0004475",
+  "subject": {
+    "id": "P0004475",
+    "alternateIds": [
+      "BB3794"
+    ],
+    "dateOfBirth": "1996-09-29T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0003403",
+        "label": "EMG: decremental response of compound muscle action potential to repetitive nerve stimulation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011805",
+        "label": "Abnormality of muscle morphology"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000508",
+        "label": "Ptosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001263",
+        "label": "Global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001319",
+        "label": "Neonatal hypotonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001601",
+        "label": "Laryngomalacia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002205",
+        "label": "Recurrent respiratory infections"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002361",
+        "label": "Psychomotor deterioration"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002527",
+        "label": "Falls"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002643",
+        "label": "Neonatal respiratory distress"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003391",
+        "label": "Gowers sign"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003473",
+        "label": "Fatigable weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003546",
+        "label": "Exercise intolerance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003551",
+        "label": "Difficulty climbing stairs"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003701",
+        "label": "Proximal muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008872",
+        "label": "Feeding difficulties in infancy"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0004475",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:36:02Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "cheo-lochmuller",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

@@ -1,0 +1,564 @@
+{
+  "id": "P0014965",
+  "subject": {
+    "id": "P0014965",
+    "alternateIds": [
+      "G36573"
+    ],
+    "dateOfBirth": "1996-04-02T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000069",
+        "label": "Abnormality of the ureter"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000085",
+        "label": "Horseshoe kidney"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000098",
+        "label": "Tall stature"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000107",
+        "label": "Renal cyst"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000175",
+        "label": "Cleft palate"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000204",
+        "label": "Cleft upper lip"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000252",
+        "label": "Microcephaly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000256",
+        "label": "Macrocephaly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000316",
+        "label": "Hypertelorism"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000356",
+        "label": "Abnormality of the outer ear"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000359",
+        "label": "Abnormality of the inner ear"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000384",
+        "label": "Preauricular skin tag"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000405",
+        "label": "Conductive hearing impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000407",
+        "label": "Sensorineural hearing impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000481",
+        "label": "Abnormality of the cornea"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000518",
+        "label": "Cataract"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000568",
+        "label": "Microphthalmia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000593",
+        "label": "Abnormality of the anterior chamber"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000601",
+        "label": "Hypotelorism"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000639",
+        "label": "Nystagmus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000776",
+        "label": "Congenital diaphragmatic hernia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000925",
+        "label": "Abnormality of the vertebral column"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000953",
+        "label": "Hyperpigmentation of the skin"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001010",
+        "label": "Hypopigmentation of the skin"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001180",
+        "label": "Hand oligodactyly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001363",
+        "label": "Craniosynostosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001371",
+        "label": "Flexion contracture"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001396",
+        "label": "Cholestasis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001528",
+        "label": "Hemihypertrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001539",
+        "label": "Omphalocele"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001543",
+        "label": "Gastroschisis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001629",
+        "label": "Ventricular septal defect"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001631",
+        "label": "Atrial septal defect"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001636",
+        "label": "Tetralogy of Fallot"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001638",
+        "label": "Cardiomyopathy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001674",
+        "label": "Complete atrioventricular canal defect"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001680",
+        "label": "Coarctation of aorta"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001762",
+        "label": "Talipes equinovarus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001836",
+        "label": "Camptodactyly of toe"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001849",
+        "label": "Foot oligodactyly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001999",
+        "label": "Abnormal facial shape"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002032",
+        "label": "Esophageal atresia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002251",
+        "label": "Aganglionic megacolon"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002575",
+        "label": "Tracheoesophageal fistula"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002650",
+        "label": "Scoliosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002652",
+        "label": "Skeletal dysplasia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002659",
+        "label": "Increased susceptibility to fractures"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002910",
+        "label": "Elevated hepatic transaminases"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004322",
+        "label": "Short stature"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004325",
+        "label": "Decreased body weight"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004467",
+        "label": "Preauricular pit"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005306",
+        "label": "Capillary hemangiomas"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0006101",
+        "label": "Finger syndactyly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0009816",
+        "label": "Lower limb undergrowth"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0009824",
+        "label": "Upper limb undergrowth"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011276",
+        "label": "Vascular skin abnormality"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011675",
+        "label": "Arrhythmia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100258",
+        "label": "Preaxial polydactyly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100490",
+        "label": "Camptodactyly of finger"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000479",
+        "label": "Abnormality of the retina"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000486",
+        "label": "Strabismus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000505",
+        "label": "Visual impairment"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000587",
+        "label": "Abnormality of the optic nerve"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000589",
+        "label": "Coloboma"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001508",
+        "label": "Failure to thrive"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001770",
+        "label": "Toe syndactyly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002088",
+        "label": "Abnormality of lung morphology"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002110",
+        "label": "Bronchiectasis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004324",
+        "label": "Increased body weight"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010795",
+        "label": "Cerebellar glioma"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011069",
+        "label": "Increased number of teeth"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0025423",
+        "label": "HP:0025423"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100259",
+        "label": "Postaxial polydactyly"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0014965",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:56:51Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "muh-claytonsmith",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": "P0010046",
+  "subject": {
+    "id": "P0010046",
+    "alternateIds": [
+      "PED1065.1"
+    ],
+    "dateOfBirth": "2009-10-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000201",
+        "label": "Pierre-Robin sequence"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001999",
+        "label": "Abnormal facial shape"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002509",
+        "label": "Limb hypertonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005684",
+        "label": "Distal arthrogryposis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009062",
+        "label": "Infantile axial hypotonia"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0010046",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "OMIM:605039",
+          "label": "BOHRING-OPITZ SYNDROME"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0010046",
+            "interpretationStatus": "CAUSATIVE",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:15646",
+                  "symbol": "KLHL7"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "7",
+                  "pos": "23180564",
+                  "ref": "G",
+                  "alt": "A",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0010046",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:15646",
+                  "symbol": "KLHL7"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "7",
+                  "pos": "23180564",
+                  "ref": "G",
+                  "alt": "A",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:97297",
+        "label": "Bohring-Opitz syndrome"
+      }
+    },
+    {
+      "term": {
+        "id": "OMIM:605039",
+        "label": "BOHRING-OPITZ SYNDROME"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:36:12Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "chud-faivre",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

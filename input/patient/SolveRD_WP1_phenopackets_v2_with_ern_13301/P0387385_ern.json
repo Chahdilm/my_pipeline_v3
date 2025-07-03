@@ -1,0 +1,176 @@
+{
+  "id": "P0387385",
+  "subject": {
+    "id": "P0387385",
+    "alternateIds": [
+      "CY0021"
+    ],
+    "dateOfBirth": "2013-07-13T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0011451",
+        "label": "Primary microcephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000520",
+        "label": "Proptosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000821",
+        "label": "Hypothyroidism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000708",
+        "label": "Behavioral abnormality"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011344",
+        "label": "Severe global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001328",
+        "label": "Specific learning disability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007550",
+        "label": "Hypohidrosis or hyperhidrosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000750",
+        "label": "Delayed speech and language development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012443",
+        "label": "Abnormality of brain morphology"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002133",
+        "label": "Status epilepticus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002197",
+        "label": "Generalized-onset seizure"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011150",
+        "label": "Myoclonic absence seizure"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0387385",
+      "progressStatus": "UNSOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0387385",
+            "gene": {
+              "valueId": "HGNC:30664",
+              "symbol": "CLPB"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0387385",
+            "gene": {
+              "valueId": "HGNC:9179",
+              "symbol": "POLG"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0387385",
+            "gene": {
+              "valueId": "HGNC:24249",
+              "symbol": "YARS2"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "OMIM:616271",
+        "label": "3-@methylglutaconic Aciduria With Cataracts, Neurologic Involvement,and Neutropenia"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:10:54Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "namiii-anastasiadou",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EpiCARE"
+      }
+    ]
+  }
+}

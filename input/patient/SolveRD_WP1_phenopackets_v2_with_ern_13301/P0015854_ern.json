@@ -1,0 +1,491 @@
+{
+  "id": "P0015854",
+  "subject": {
+    "id": "P0015854",
+    "alternateIds": [
+      "NP0536"
+    ],
+    "dateOfBirth": "1999-03-12T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000252",
+        "label": "Microcephaly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000256",
+        "label": "Macrocephaly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000496",
+        "label": "Abnormality of eye movement"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000508",
+        "label": "Ptosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000708",
+        "label": "Behavioral abnormality"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000767",
+        "label": "Pectus excavatum"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000768",
+        "label": "Pectus carinatum"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001000",
+        "label": "Abnormality of skin pigmentation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001251",
+        "label": "Ataxia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001260",
+        "label": "Dysarthria"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001265",
+        "label": "Hyporeflexia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001291",
+        "label": "Abnormality of the cranial nerves"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001310",
+        "label": "Dysmetria"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001324",
+        "label": "Muscle weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001332",
+        "label": "Dystonia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001336",
+        "label": "Myoclonus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001337",
+        "label": "Tremor"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002015",
+        "label": "Dysphagia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002063",
+        "label": "Rigidity"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002169",
+        "label": "Clonus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002273",
+        "label": "Tetraparesis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002486",
+        "label": "Myotonia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003199",
+        "label": "Decreased muscle mass"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003271",
+        "label": "Visceromegaly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003391",
+        "label": "Gowers sign"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003712",
+        "label": "Skeletal muscle hypertrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003719",
+        "label": "Muscle mounding"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003808",
+        "label": "Abnormal muscle tone"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0006610",
+        "label": "Wide intermamillary distance"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0006901",
+        "label": "Impaired thermal sensitivity"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007034",
+        "label": "Generalized hyperreflexia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007256",
+        "label": "Abnormal pyramidal signs"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008551",
+        "label": "Microtia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0009800",
+        "label": "Maternal diabetes"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001511",
+        "label": "Intrauterine growth retardation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001562",
+        "label": "Oligohydramnios"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001561",
+        "label": "Polyhydramnios"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001558",
+        "label": "Decreased fetal movement"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001787",
+        "label": "Abnormal delivery"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001518",
+        "label": "Small for gestational age"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001520",
+        "label": "Large for gestational age"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003561",
+        "label": "Birth length less than 3rd percentile"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003517",
+        "label": "Birth length greater than 97th percentile"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011451",
+        "label": "Congenital microcephaly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004488",
+        "label": "Macrocephaly at birth"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0012758",
+        "label": "Neurodevelopmental delay"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005855",
+        "label": "Multiple prenatal fractures"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000118",
+        "label": "Phenotypic abnormality"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000218",
+        "label": "High palate"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000324",
+        "label": "Facial asymmetry"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000327",
+        "label": "Hypoplasia of the maxilla"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000445",
+        "label": "Wide nose"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001279",
+        "label": "Syncope"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001761",
+        "label": "Pes cavus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003768",
+        "label": "Periodic paralysis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004484",
+        "label": "Craniofacial asymmetry"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006682",
+        "label": "Ventricular extrasystoles"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009804",
+        "label": "Reduced number of teeth"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012668",
+        "label": "Vasovagal syncope"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0015854",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0015854",
+            "interpretationStatus": "CAUSATIVE",
+            "gene": {
+              "valueId": "HGNC:3036",
+              "symbol": "DSC2"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:57:16Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "vhir-macaya",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

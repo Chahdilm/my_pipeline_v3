@@ -1,0 +1,461 @@
+{
+  "id": "P0015678",
+  "subject": {
+    "id": "P0015678",
+    "alternateIds": [
+      "NP0373"
+    ],
+    "dateOfBirth": "2012-05-17T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000119",
+        "label": "Abnormality of the genitourinary system"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000252",
+        "label": "Microcephaly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000271",
+        "label": "Abnormality of the face"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000496",
+        "label": "Abnormality of eye movement"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000639",
+        "label": "Nystagmus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001000",
+        "label": "Abnormality of skin pigmentation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001251",
+        "label": "Ataxia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001626",
+        "label": "Abnormality of the cardiovascular system"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001943",
+        "label": "Hypoglycemia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001987",
+        "label": "Hyperammonemia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002086",
+        "label": "Abnormality of the respiratory system"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002478",
+        "label": "Progressive spastic quadriplegia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003074",
+        "label": "Hyperglycemia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003124",
+        "label": "Hypercholesterolemia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008180",
+        "label": "Mildly elevated creatine phosphokinase"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011024",
+        "label": "Abnormality of the gastrointestinal tract"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100022",
+        "label": "Abnormality of movement"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0009800",
+        "label": "Maternal diabetes"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011438",
+        "label": "Maternal teratogenic exposure"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001511",
+        "label": "Intrauterine growth retardation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001562",
+        "label": "Oligohydramnios"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001561",
+        "label": "Polyhydramnios"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001558",
+        "label": "Decreased fetal movement"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005855",
+        "label": "Multiple prenatal fractures"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000717",
+        "label": "Autism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000736",
+        "label": "Short attention span"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000750",
+        "label": "Delayed speech and language development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001250",
+        "label": "Seizures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001256",
+        "label": "Intellectual disability, mild"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001257",
+        "label": "Spasticity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001260",
+        "label": "Dysarthria"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001263",
+        "label": "Global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002061",
+        "label": "Lower limb spasticity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002064",
+        "label": "Spastic gait"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002133",
+        "label": "Status epilepticus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002169",
+        "label": "Clonus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002191",
+        "label": "Progressive spasticity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002312",
+        "label": "Clumsiness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002313",
+        "label": "Spastic paraparesis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002373",
+        "label": "Febrile seizures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002385",
+        "label": "Paraparesis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002395",
+        "label": "Lower limb hyperreflexia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002474",
+        "label": "Expressive language delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003487",
+        "label": "Babinski sign"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006801",
+        "label": "Hyperactive deep tendon reflexes"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007083",
+        "label": "Hyperactive patellar reflex"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007199",
+        "label": "Progressive spastic paraparesis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007256",
+        "label": "Abnormal pyramidal signs"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010843",
+        "label": "EEG with focal slow activity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011193",
+        "label": "EEG with focal spikes"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011448",
+        "label": "Ankle clonus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100543",
+        "label": "Cognitive impairment"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000750",
+        "label": "Delayed speech and language development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001263",
+        "label": "Global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001270",
+        "label": "Motor delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002194",
+        "label": "Delayed gross motor development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002474",
+        "label": "Expressive language delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012758",
+        "label": "Neurodevelopmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0025335",
+        "label": "Delayed ability to stand"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0015678",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0015678",
+            "interpretationStatus": "CAUSATIVE",
+            "gene": {
+              "valueId": "HGNC:9179",
+              "symbol": "POLG"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:57:06Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "vhir-macaya",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-RND"
+      }
+    ]
+  }
+}

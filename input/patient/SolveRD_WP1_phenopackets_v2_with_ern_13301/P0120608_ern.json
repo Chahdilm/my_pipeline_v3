@@ -1,0 +1,171 @@
+{
+  "id": "P0120608",
+  "subject": {
+    "id": "P0120608",
+    "alternateIds": [
+      "L3947"
+    ],
+    "dateOfBirth": "1989-10-20T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0012444",
+        "label": "Brain atrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0032792",
+        "label": "Tonic seizure"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002133",
+        "label": "Status epilepticus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002090",
+        "label": "Pneumonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002301",
+        "label": "Hemiplegia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010864",
+        "label": "Intellectual disability, severe"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0020217",
+        "label": "Focal aware motor seizure"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0032712",
+        "label": "Focal impaired awareness motor seizure"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001269",
+        "label": "Hemiparesis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012010",
+        "label": "EEG with frontal focal spike waves"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012009",
+        "label": "EEG with central focal spike waves"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002392",
+        "label": "EEG with polyspike wave complexes"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012013",
+        "label": "EEG with temporal focal spike waves"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0032794",
+        "label": "Myoclonic seizure"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002171",
+        "label": "Gliosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007334",
+        "label": "Bilateral tonic-clonic seizure with focal onset"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0120608",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:2382",
+        "label": "Lennox-Gastaut syndrome"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:06:32Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "ekut-lerche",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EpiCARE"
+      }
+    ]
+  }
+}

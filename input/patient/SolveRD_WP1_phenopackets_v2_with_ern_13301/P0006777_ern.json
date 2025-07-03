@@ -1,0 +1,167 @@
+{
+  "id": "P0006777",
+  "subject": {
+    "id": "P0006777",
+    "alternateIds": [
+      "MIST149"
+    ],
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0003731",
+        "label": "Quadriceps muscle weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008959",
+        "label": "Distal upper limb muscle weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0009053",
+        "label": "Distal lower limb muscle weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000467",
+        "label": "Neck muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003323",
+        "label": "Progressive muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003457",
+        "label": "EMG abnormality"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003473",
+        "label": "Fatigable weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003560",
+        "label": "Muscular dystrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008994",
+        "label": "Proximal muscle weakness in lower limbs"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008997",
+        "label": "Proximal muscle weakness in upper limbs"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0006777",
+      "progressStatus": "UNSOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "OMIM:254110",
+          "label": "MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2H"
+        }
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "OMIM:254110",
+        "label": "MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2H"
+      }
+    },
+    {
+      "term": {
+        "id": "OMIM:253601",
+        "label": "MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2B"
+      }
+    },
+    {
+      "term": {
+        "id": "OMIM:608807",
+        "label": "MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2J"
+      }
+    },
+    {
+      "term": {
+        "id": "OMIM:601954",
+        "label": "MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2G"
+      }
+    },
+    {
+      "term": {
+        "id": "OMIM:159000",
+        "label": "MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 1A"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:36:04Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "unew-straub",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "id": "P0019548",
+  "subject": {
+    "id": "P0019548",
+    "alternateIds": [
+      "RUMC_solverd_ithaca_2689"
+    ],
+    "dateOfBirth": "2002-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000154",
+        "label": "Wide mouth"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000252",
+        "label": "Microcephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000319",
+        "label": "Smooth philtrum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000322",
+        "label": "Short philtrum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000350",
+        "label": "Small forehead"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000414",
+        "label": "Bulbous nose"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001250",
+        "label": "Seizures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001257",
+        "label": "Spasticity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001270",
+        "label": "Motor delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001344",
+        "label": "Absent speech"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001385",
+        "label": "Hip dysplasia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001388",
+        "label": "Joint laxity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001572",
+        "label": "Macrodontia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002079",
+        "label": "Hypoplasia of the corpus callosum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002119",
+        "label": "Ventriculomegaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002307",
+        "label": "Drooling"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002376",
+        "label": "Developmental regression"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003307",
+        "label": "Hyperlordosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004322",
+        "label": "Short stature"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010055",
+        "label": "Broad hallux"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010864",
+        "label": "Intellectual disability, severe"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012471",
+        "label": "Thick vermilion border"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012810",
+        "label": "Wide nasal base"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100021",
+        "label": "Cerebral palsy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0200005",
+        "label": "Abnormal shape of the palpebral fissure"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008071",
+        "label": "Maternal hypertension"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0019548",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:72",
+        "label": "Angelman syndrome"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:04:57Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-vissers",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

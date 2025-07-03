@@ -1,0 +1,235 @@
+{
+  "id": "P0014517",
+  "subject": {
+    "id": "P0014517",
+    "alternateIds": [
+      "15-1375"
+    ],
+    "dateOfBirth": "2008-01-03T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000252",
+        "label": "Microcephaly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000256",
+        "label": "Macrocephaly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000365",
+        "label": "Hearing impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000572",
+        "label": "Visual loss"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0030354",
+        "label": "Abnormal serum interferon level"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0040272",
+        "label": "Hyperintensity of MRI T2 signal of the spinal cord"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001284",
+        "label": "Areflexia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001290",
+        "label": "Generalized hypotonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001332",
+        "label": "Dystonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001344",
+        "label": "Absent speech"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002273",
+        "label": "Tetraparesis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002451",
+        "label": "Limb dystonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002453",
+        "label": "Abnormality of the globus pallidus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002514",
+        "label": "Cerebral calcification"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002530",
+        "label": "Axial dystonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002981",
+        "label": "Abnormality of the calf"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003438",
+        "label": "Absent Achilles reflex"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003487",
+        "label": "Babinski sign"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006844",
+        "label": "Absent patellar reflexes"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007183",
+        "label": "Focal T2 hyperintense basal ganglia lesion"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007325",
+        "label": "Generalized dystonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007374",
+        "label": "Atrophy/Degeneration involving the caudate nucleus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010994",
+        "label": "Abnormality of the striatum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012048",
+        "label": "Oromandibular dystonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012179",
+        "label": "Craniofacial dystonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0040140",
+        "label": "Degeneration of the striatum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0045007",
+        "label": "Abnormality of the substantia nigra"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0014517",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:56:46Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "vhir-macaya",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-RND"
+      }
+    ]
+  }
+}

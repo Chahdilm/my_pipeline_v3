@@ -1,0 +1,502 @@
+{
+  "id": "P0000876",
+  "subject": {
+    "id": "P0000876",
+    "alternateIds": [
+      "COL0978"
+    ],
+    "vitalStatus": {},
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000297",
+        "label": "Facial hypotonia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000365",
+        "label": "Hearing impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000405",
+        "label": "Conductive hearing impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000407",
+        "label": "Sensorineural hearing impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000410",
+        "label": "Mixed hearing impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000467",
+        "label": "Neck muscle weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000708",
+        "label": "Behavioral abnormality"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000726",
+        "label": "Dementia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000751",
+        "label": "Personality changes"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001250",
+        "label": "Seizures"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001251",
+        "label": "Ataxia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001260",
+        "label": "Dysarthria"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001266",
+        "label": "Choreoathetosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001308",
+        "label": "Tongue fasciculations"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001371",
+        "label": "Flexion contracture"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001618",
+        "label": "Dysphonia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001638",
+        "label": "Cardiomyopathy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001760",
+        "label": "Abnormality of the foot"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002015",
+        "label": "Dysphagia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002093",
+        "label": "Respiratory insufficiency"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002459",
+        "label": "Dysautonomia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002483",
+        "label": "Bulbar signs"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002650",
+        "label": "Scoliosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002872",
+        "label": "Apneic episodes precipitated by illness, fatigue, stress"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002878",
+        "label": "Respiratory failure"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002987",
+        "label": "Elbow flexion contracture"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003273",
+        "label": "Hip contracture"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003327",
+        "label": "Axial muscle weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003484",
+        "label": "Upper limb muscle weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003691",
+        "label": "Scapular winging"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005750",
+        "label": "Contractures of the joints of the lower limbs"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0006380",
+        "label": "Knee flexion contracture"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0006466",
+        "label": "Ankle contracture"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0006801",
+        "label": "Hyperactive deep tendon reflexes"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008959",
+        "label": "Distal upper limb muscle weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010307",
+        "label": "Stridor"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011471",
+        "label": "Gastrostomy tube feeding in infancy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011675",
+        "label": "Arrhythmia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0012046",
+        "label": "Areflexia of upper limbs"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100360",
+        "label": "Contractures of the joints of the upper limbs"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100490",
+        "label": "Camptodactyly of finger"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001284",
+        "label": "Areflexia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001315",
+        "label": "Reduced tendon reflexes"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001324",
+        "label": "Muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002345",
+        "label": "Action tremor"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002380",
+        "label": "Fasciculations"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002522",
+        "label": "Areflexia of lower limbs"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003202",
+        "label": "Skeletal muscle atrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003307",
+        "label": "Hyperlordosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003323",
+        "label": "Progressive muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003444",
+        "label": "EMG: chronic denervation signs"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003445",
+        "label": "EMG: neuropathic changes"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003690",
+        "label": "Limb muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003701",
+        "label": "Proximal muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003730",
+        "label": "EMG: myotonic runs"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003731",
+        "label": "Quadriceps muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007210",
+        "label": "Lower limb amyotrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007289",
+        "label": "Limb fasciculations"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007340",
+        "label": "Lower limb muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008956",
+        "label": "Proximal lower limb amyotrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008981",
+        "label": "Calf muscle hypertrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008994",
+        "label": "Proximal muscle weakness in lower limbs"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009050",
+        "label": "Quadriceps muscle atrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009073",
+        "label": "Progressive proximal muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010546",
+        "label": "Muscle fibrillation"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0000876",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:35:57Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "uk-wirth",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

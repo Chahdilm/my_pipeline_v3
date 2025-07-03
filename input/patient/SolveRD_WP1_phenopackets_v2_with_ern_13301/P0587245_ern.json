@@ -1,0 +1,169 @@
+{
+  "id": "P0587245",
+  "subject": {
+    "id": "P0587245",
+    "alternateIds": [
+      "GE142_P1"
+    ],
+    "dateOfBirth": "2008-11-08T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000154",
+        "label": "Wide mouth"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000252",
+        "label": "Microcephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000294",
+        "label": "Low anterior hairline"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000322",
+        "label": "Short philtrum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000545",
+        "label": "Myopia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000687",
+        "label": "Widely spaced teeth"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000805",
+        "label": "Enuresis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001057",
+        "label": "Aplasia cutis congenita"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001382",
+        "label": "Joint hypermobility"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002508",
+        "label": "Brainstem dysplasia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003764",
+        "label": "Nevus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006989",
+        "label": "Dysplastic corpus callosum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007018",
+        "label": "Attention deficit hyperactivity disorder"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009748",
+        "label": "Large earlobe"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009765",
+        "label": "Low hanging columella"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011342",
+        "label": "Mild global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012033",
+        "label": "Sacral lipoma"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0587245",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:11:04Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "tigem-nigro",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "id": "P0010069",
+  "subject": {
+    "id": "P0010069",
+    "alternateIds": [
+      "PED1431.1"
+    ],
+    "dateOfBirth": "1975-11-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000767",
+        "label": "Pectus excavatum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001373",
+        "label": "Joint dislocation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001382",
+        "label": "Joint hypermobility"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002164",
+        "label": "Nail dysplasia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006471",
+        "label": "Fixed elbow flexion"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006498",
+        "label": "Aplasia/Hypoplasia of the patella"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009780",
+        "label": "Iliac horns"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0010069",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "OMIM:161200",
+          "label": "NAIL-PATELLA SYNDROME"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0010069",
+            "interpretationStatus": "CAUSATIVE",
+            "gene": {
+              "valueId": "HGNC:6654",
+              "symbol": "LMX1B"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:2614",
+        "label": "Nail-patella syndrome"
+      }
+    },
+    {
+      "term": {
+        "id": "OMIM:161200",
+        "label": "NAIL-PATELLA SYNDROME"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:36:12Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "chud-faivre",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

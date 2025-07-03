@@ -1,0 +1,135 @@
+{
+  "id": "P0016915",
+  "subject": {
+    "id": "P0016915",
+    "alternateIds": [
+      "RUMC_solverd_genturis_0054"
+    ],
+    "dateOfBirth": "1954-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0002671",
+        "label": "Basal cell carcinoma"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002861",
+        "label": "Melanoma"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002895",
+        "label": "Papillary thyroid carcinoma"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0016915",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0016915",
+            "interpretationStatus": "CAUSATIVE",
+            "gene": {
+              "valueId": "HGNC:16627",
+              "symbol": "CHEK2"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0016915",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:16627",
+                  "symbol": "CHEK2"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "22",
+                  "pos": "29091856",
+                  "ref": "AG",
+                  "alt": "A",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:443909",
+        "label": "Hereditary nonpolyposis colon cancer"
+      }
+    },
+    {
+      "term": {
+        "id": "Orphanet:440437",
+        "label": "Familial colorectal cancer Type X"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:57:38Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-devoer",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-GENTURIS"
+      }
+    ]
+  }
+}

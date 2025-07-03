@@ -1,0 +1,153 @@
+{
+  "id": "P0558655",
+  "subject": {
+    "id": "P0558655",
+    "alternateIds": [
+      "L4823"
+    ],
+    "dateOfBirth": "2003-08-10T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0002342",
+        "label": "Intellectual disability, moderate"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0033716",
+        "label": "EEG with frontal epileptiform discharges"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0033720",
+        "label": "EEG with occipital epileptiform discharges"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0020174",
+        "label": "Refractory drug response"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012469",
+        "label": "Infantile spasms"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0200134",
+        "label": "Epileptic encephalopathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003593",
+        "label": "Infantile onset"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002373",
+        "label": "Febrile seizure (within the age range of 3 months to 6 years)"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0410263",
+        "label": "Brain imaging abnormality"
+      },
+      "excluded": true
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0558655",
+      "progressStatus": "UNSOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0558655",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "LIKELY_BENIGN",
+              "variationDescriptor": {
+                "id": "rs193922626",
+                "geneContext": {
+                  "valueId": "HGNC:10484",
+                  "symbol": "RYR2"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "1",
+                  "pos": "237754201",
+                  "id": "rs193922626",
+                  "ref": "G",
+                  "alt": "C",
+                  "info": "Likely benign"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:11:03Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "ekut-lerche",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EpiCARE"
+      }
+    ]
+  }
+}

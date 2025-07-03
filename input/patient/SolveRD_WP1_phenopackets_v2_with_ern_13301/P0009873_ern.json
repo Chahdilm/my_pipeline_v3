@@ -1,0 +1,142 @@
+{
+  "id": "P0009873",
+  "subject": {
+    "id": "P0009873",
+    "alternateIds": [
+      "PED1059.1"
+    ],
+    "dateOfBirth": "2013-02-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0001622",
+        "label": "Premature birth"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000122",
+        "label": "Unilateral renal agenesis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000126",
+        "label": "Hydronephrosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000289",
+        "label": "Broad philtrum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000470",
+        "label": "Short neck"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001319",
+        "label": "Neonatal hypotonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002705",
+        "label": "High, narrow palate"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003422",
+        "label": "Vertebral segmentation defect"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005257",
+        "label": "Thoracic hypoplasia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006712",
+        "label": "Aplasia/Hypoplasia of the ribs"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001518",
+        "label": "Small for gestational age"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0009873",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:94095",
+        "label": "Spondylocostal dysostosis-anal and genitourinary malformations syndrome"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:36:11Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "chud-faivre",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

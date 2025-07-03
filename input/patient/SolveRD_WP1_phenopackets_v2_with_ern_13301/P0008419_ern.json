@@ -1,0 +1,436 @@
+{
+  "id": "P0008419",
+  "subject": {
+    "id": "P0008419",
+    "alternateIds": [
+      "MR_326"
+    ],
+    "dateOfBirth": "1995-06-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000020",
+        "label": "Urinary incontinence"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000405",
+        "label": "Conductive hearing impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000407",
+        "label": "Sensorineural hearing impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000501",
+        "label": "Glaucoma"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000508",
+        "label": "Ptosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000518",
+        "label": "Cataract"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000597",
+        "label": "Ophthalmoparesis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000648",
+        "label": "Optic atrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000975",
+        "label": "Hyperhidrosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001197",
+        "label": "Abnormality of prenatal development or birth"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001291",
+        "label": "Abnormality of the cranial nerves"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001308",
+        "label": "Tongue fasciculations"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001332",
+        "label": "Dystonia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001337",
+        "label": "Tremor"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001374",
+        "label": "Congenital hip dislocation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001558",
+        "label": "Decreased fetal movement"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001561",
+        "label": "Polyhydramnios"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002015",
+        "label": "Dysphagia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002019",
+        "label": "Constipation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002063",
+        "label": "Rigidity"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002072",
+        "label": "Chorea"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002167",
+        "label": "Neurological speech impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002194",
+        "label": "Delayed gross motor development"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002197",
+        "label": "Generalized seizures"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002305",
+        "label": "Athetosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002373",
+        "label": "Febrile seizures"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002607",
+        "label": "Bowel incontinence"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002650",
+        "label": "Scoliosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002804",
+        "label": "Arthrogryposis multiplex congenita"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005341",
+        "label": "Autonomic bladder dysfunction"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007359",
+        "label": "Focal seizures"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010729",
+        "label": "Cherry red spot of the macula"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010862",
+        "label": "Delayed fine motor development"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011097",
+        "label": "Epileptic spasms"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011145",
+        "label": "Symptomatic seizures"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011146",
+        "label": "Dialeptic seizures"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011968",
+        "label": "Feeding difficulties"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000154",
+        "label": "Wide mouth"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000347",
+        "label": "Micrognathia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000349",
+        "label": "Widow's peak"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000490",
+        "label": "Deeply set eye"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000545",
+        "label": "Myopia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000639",
+        "label": "Nystagmus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000750",
+        "label": "Delayed speech and language development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001263",
+        "label": "Global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001513",
+        "label": "Obesity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001562",
+        "label": "Oligohydramnios"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001956",
+        "label": "Truncal obesity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002342",
+        "label": "Intellectual disability, moderate"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002360",
+        "label": "Sleep disturbance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002719",
+        "label": "Recurrent infections"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012471",
+        "label": "Thick vermilion border"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0025112",
+        "label": "Sound sensitivity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0040080",
+        "label": "Anteverted ears"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0008419",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:240371",
+        "label": "Syndromic obesity"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:36:08Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "aous-renieri",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

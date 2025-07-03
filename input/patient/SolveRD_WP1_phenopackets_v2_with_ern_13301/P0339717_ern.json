@@ -1,0 +1,125 @@
+{
+  "id": "P0339717",
+  "subject": {
+    "id": "P0339717",
+    "alternateIds": [
+      "FP2240A"
+    ],
+    "dateOfBirth": "2004-03-31T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000554",
+        "label": "Uveitis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000794",
+        "label": "IgA deposition in the glomerulus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000822",
+        "label": "Hypertension"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000988",
+        "label": "Skin rash"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001369",
+        "label": "Arthritis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005186",
+        "label": "Synovial hypertrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008327",
+        "label": "Microscopic nephrocalcinosis"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0339717",
+      "progressStatus": "UNSOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0339717",
+            "interpretationStatus": "CANDIDATE",
+            "gene": {
+              "valueId": "HGNC:",
+              "symbol": "CTB-96E2.2"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:10:50Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "igg-uva",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-RITA"
+      }
+    ]
+  }
+}

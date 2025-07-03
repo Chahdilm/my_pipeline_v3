@@ -1,0 +1,181 @@
+{
+  "id": "P0015085",
+  "subject": {
+    "id": "P0015085",
+    "alternateIds": [
+      "RUMC_SolveRD_RND_0077"
+    ],
+    "dateOfBirth": "1957-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000017",
+        "label": "Nocturia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000571",
+        "label": "Hypometric saccades"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001262",
+        "label": "Excessive daytime somnolence"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001278",
+        "label": "Orthostatic hypotension"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001300",
+        "label": "Parkinsonism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001348",
+        "label": "Brisk reflexes"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001370",
+        "label": "Rheumatoid arthritis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001903",
+        "label": "Anemia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002019",
+        "label": "Constipation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002066",
+        "label": "Gait ataxia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002067",
+        "label": "Bradykinesia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002136",
+        "label": "Broad-based gait"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004437",
+        "label": "Cranial hyperostosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008652",
+        "label": "Autonomic erectile dysfunction"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009830",
+        "label": "Peripheral neuropathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010873",
+        "label": "Cervical spinal cord atrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011441",
+        "label": "Abnormality of the medulla oblongata"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012332",
+        "label": "Abnormal autonomic nervous system physiology"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100247",
+        "label": "Recurrent singultus"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0015085",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:56:54Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-vandewarrenburg",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-RND"
+      }
+    ]
+  }
+}

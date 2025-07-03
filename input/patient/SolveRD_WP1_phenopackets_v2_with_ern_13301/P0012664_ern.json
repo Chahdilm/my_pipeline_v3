@@ -1,0 +1,235 @@
+{
+  "id": "P0012664",
+  "subject": {
+    "id": "P0012664",
+    "alternateIds": [
+      "RUMC_solverd_ithaca_0216"
+    ],
+    "dateOfBirth": "2011-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000123",
+        "label": "Nephritis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000160",
+        "label": "Narrow mouth"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000286",
+        "label": "Epicanthus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000329",
+        "label": "Facial hemangioma"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000430",
+        "label": "Underdeveloped nasal alae"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000455",
+        "label": "Broad nasal tip"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000486",
+        "label": "Strabismus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000506",
+        "label": "Telecanthus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000540",
+        "label": "Hypermetropia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000750",
+        "label": "Delayed speech and language development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000821",
+        "label": "Hypothyroidism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001270",
+        "label": "Motor delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001382",
+        "label": "Joint hypermobility"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001385",
+        "label": "Hip dysplasia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001520",
+        "label": "Large for gestational age"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001639",
+        "label": "Hypertrophic cardiomyopathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001872",
+        "label": "Abnormality of thrombocytes"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001901",
+        "label": "Polycythemia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002092",
+        "label": "Pulmonary arterial hypertension"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002643",
+        "label": "Neonatal respiratory distress"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003196",
+        "label": "Short nose"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004914",
+        "label": "Recurrent infantile hypoglycemia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005233",
+        "label": "Hypoplasia of the gallbladder"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005280",
+        "label": "Depressed nasal bridge"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008513",
+        "label": "Bilateral conductive hearing impairment"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010620",
+        "label": "Malar prominence"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011061",
+        "label": "Abnormality of dental structure"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0012664",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:56:02Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-vissers",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

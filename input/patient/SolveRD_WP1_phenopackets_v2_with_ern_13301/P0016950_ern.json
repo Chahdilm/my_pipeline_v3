@@ -1,0 +1,437 @@
+{
+  "id": "P0016950",
+  "subject": {
+    "id": "P0016950",
+    "alternateIds": [
+      "FR-NEIDF0003"
+    ],
+    "dateOfBirth": "2001-06-05T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0001618",
+        "label": "Dysphonia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003691",
+        "label": "Scapular winging"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005946",
+        "label": "Ventilator dependence with inability to wean"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010484",
+        "label": "Hypertrophy of the upper limb"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010496",
+        "label": "Hypertrophy of the lower limb"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010628",
+        "label": "Facial palsy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011331",
+        "label": "Hemifacial atrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0030192",
+        "label": "Fatigable weakness of bulbar muscles"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000467",
+        "label": "Neck muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001239",
+        "label": "Wrist flexion contracture"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001270",
+        "label": "Motor delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002650",
+        "label": "Scoliosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002751",
+        "label": "Kyphoscoliosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002878",
+        "label": "Respiratory failure"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002880",
+        "label": "obsolete Respiratory difficulties"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002987",
+        "label": "Elbow flexion contracture"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003089",
+        "label": "Hamstring contractures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003273",
+        "label": "Hip contracture"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003306",
+        "label": "Spinal rigidity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003323",
+        "label": "Progressive muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003473",
+        "label": "Fatigable weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003560",
+        "label": "Muscular dystrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003722",
+        "label": "Neck flexor weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003724",
+        "label": "Shoulder girdle muscle atrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003731",
+        "label": "Quadriceps muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003741",
+        "label": "Congenital muscular dystrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004347",
+        "label": "Weakness of muscles of respiration"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004887",
+        "label": "Respiratory failure requiring assisted ventilation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005750",
+        "label": "Contractures of the joints of the lower limbs"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006380",
+        "label": "Knee flexion contracture"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006466",
+        "label": "Ankle contracture"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006957",
+        "label": "Loss of ability to walk"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007149",
+        "label": "Distal upper limb amyotrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008944",
+        "label": "Distal lower limb amyotrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008959",
+        "label": "Distal upper limb muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008963",
+        "label": "Tibialis muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008994",
+        "label": "Proximal muscle weakness in lower limbs"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008997",
+        "label": "Proximal muscle weakness in upper limbs"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009027",
+        "label": "Foot dorsiflexor weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009053",
+        "label": "Distal lower limb muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009055",
+        "label": "Generalized limb muscle atrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009060",
+        "label": "Scapular muscle atrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009073",
+        "label": "Progressive proximal muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009473",
+        "label": "Joint contracture of the hand"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011727",
+        "label": "Peroneal muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012785",
+        "label": "Flexion contracture of finger"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030196",
+        "label": "Fatigable weakness of respiratory muscles"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030197",
+        "label": "Fatigable weakness of skeletal muscles"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030198",
+        "label": "Fatigable weakness of distal limb muscles"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030199",
+        "label": "Fatigable weakness of neck muscles"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030200",
+        "label": "Fatiguable weakness of proximal limb muscles"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100360",
+        "label": "Contractures of the joints of the upper limbs"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0016950",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "OMIM:254090",
+          "label": "ULLRICH CONGENITAL MUSCULAR DYSTROPHY 1"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0016950",
+            "interpretationStatus": "CAUSATIVE",
+            "gene": {
+              "valueId": "HGNC:2212",
+              "symbol": "COL6A2"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0016950",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:2212",
+                  "symbol": "COL6A2"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "21",
+                  "pos": "47536593",
+                  "ref": "T",
+                  "alt": "C",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:75840",
+        "label": "Congenital muscular dystrophy, Ullrich type"
+      }
+    },
+    {
+      "term": {
+        "id": "OMIM:254090",
+        "label": "ULLRICH CONGENITAL MUSCULAR DYSTROPHY 1"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:57:39Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "aim-bonne",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

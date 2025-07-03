@@ -1,0 +1,228 @@
+{
+  "id": "P0001130",
+  "subject": {
+    "id": "P0001130",
+    "alternateIds": [
+      "DNC0028"
+    ],
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000508",
+        "label": "Ptosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000750",
+        "label": "Delayed speech and language development"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001317",
+        "label": "Abnormality of the cerebellum"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001320",
+        "label": "Cerebellar vermis hypoplasia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001339",
+        "label": "Lissencephaly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001344",
+        "label": "Absent speech"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002015",
+        "label": "Dysphagia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002060",
+        "label": "Abnormality of the cerebrum"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002126",
+        "label": "Polymicrogyria"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002167",
+        "label": "Neurological speech impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002350",
+        "label": "Cerebellar cyst"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002363",
+        "label": "Abnormality of brainstem morphology"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002500",
+        "label": "Abnormality of the cerebral white matter"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003236",
+        "label": "Elevated serum creatine phosphokinase"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007033",
+        "label": "Cerebellar dysplasia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100543",
+        "label": "Cognitive impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001324",
+        "label": "Muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002205",
+        "label": "Recurrent respiratory infections"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003307",
+        "label": "Hyperlordosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003327",
+        "label": "Axial muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008994",
+        "label": "Proximal muscle weakness in lower limbs"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008997",
+        "label": "Proximal muscle weakness in upper limbs"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0001130",
+      "progressStatus": "UNSOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "OMIM:255300",
+          "label": "MYOPATHY, CONGENITAL"
+        }
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "OMIM:255300",
+        "label": "MYOPATHY, CONGENITAL"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:35:57Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "ucl-muntoni",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

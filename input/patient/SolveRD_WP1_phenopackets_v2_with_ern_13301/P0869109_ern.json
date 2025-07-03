@@ -1,0 +1,119 @@
+{
+  "id": "P0869109",
+  "subject": {
+    "id": "P0869109",
+    "alternateIds": [
+      "028P"
+    ],
+    "dateOfBirth": "2007-03-21T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0008947",
+        "label": "Infantile muscular hypotonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002500",
+        "label": "Abnormality of the cerebral white matter"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002373",
+        "label": "Febrile seizure (within the age range of 3 months to 6 years)"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004488",
+        "label": "Macrocephaly at birth"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001355",
+        "label": "Megalencephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001999",
+        "label": "Abnormal facial shape"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0869109",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0869109",
+            "interpretationStatus": "CAUSATIVE",
+            "gene": {
+              "valueId": "HGNC:6996",
+              "symbol": "MEF2C"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:11:17Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "chm-guerrini",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EpiCARE"
+      }
+    ]
+  }
+}

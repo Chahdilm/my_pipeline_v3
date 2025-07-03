@@ -1,0 +1,223 @@
+{
+  "id": "P0019791",
+  "subject": {
+    "id": "P0019791",
+    "alternateIds": [
+      "GE030_P"
+    ],
+    "dateOfBirth": "2005-07-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000316",
+        "label": "Hypertelorism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000365",
+        "label": "Hearing impairment"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000407",
+        "label": "Sensorineural hearing impairment"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000568",
+        "label": "Microphthalmia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000589",
+        "label": "Coloboma"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000750",
+        "label": "Delayed speech and language development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000821",
+        "label": "Hypothyroidism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000826",
+        "label": "Precocious puberty"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000832",
+        "label": "Primary hypothyroidism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001048",
+        "label": "Cavernous hemangioma"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001263",
+        "label": "Global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001513",
+        "label": "Obesity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001622",
+        "label": "Premature birth"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001787",
+        "label": "Abnormal delivery"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001999",
+        "label": "Abnormal facial shape"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004324",
+        "label": "Increased body weight"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007486",
+        "label": "Cavernous hemangioma of the face"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008619",
+        "label": "Bilateral sensorineural hearing impairment"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010862",
+        "label": "Delayed fine motor development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011276",
+        "label": "Vascular skin abnormality"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011410",
+        "label": "Caesarian section"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011834",
+        "label": "Moyamoya phenomenon"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012304",
+        "label": "Hypoplastic aortic arch"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012372",
+        "label": "Abnormal eye morphology"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100729",
+        "label": "Large face"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0019791",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:05:03Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "tigem-nigro",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

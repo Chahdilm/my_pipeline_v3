@@ -1,0 +1,659 @@
+{
+  "id": "P0018037",
+  "subject": {
+    "id": "P0018037",
+    "alternateIds": [
+      "TOP_ESTE2030_1"
+    ],
+    "dateOfBirth": "2002-04-13T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000365",
+        "label": "Hearing impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000639",
+        "label": "Nystagmus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001283",
+        "label": "Bulbar palsy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001638",
+        "label": "Cardiomyopathy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002015",
+        "label": "Dysphagia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002167",
+        "label": "Neurological speech impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002460",
+        "label": "Distal muscle weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002483",
+        "label": "Bulbar signs"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002803",
+        "label": "Congenital contracture"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002804",
+        "label": "Arthrogryposis multiplex congenita"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002828",
+        "label": "Multiple joint contractures"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003121",
+        "label": "Limb joint contracture"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003202",
+        "label": "Skeletal muscle atrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003323",
+        "label": "Progressive muscle weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003324",
+        "label": "Generalized muscle weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003474",
+        "label": "Sensory impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003691",
+        "label": "Scapular winging"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003704",
+        "label": "Scapuloperoneal weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003730",
+        "label": "EMG: myotonic runs"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003752",
+        "label": "Episodic flaccid weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004347",
+        "label": "Weakness of muscles of respiration"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004631",
+        "label": "Decreased cervical spine flexion due to contractures of posterior cervical muscles"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005684",
+        "label": "Distal arthrogryposis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005745",
+        "label": "Congenital foot contractures"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005781",
+        "label": "Contractures of the large joints"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005853",
+        "label": "Congenital foot contraction deformities"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005876",
+        "label": "Progressive flexion contractures"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005879",
+        "label": "Congenital finger flexion contractures"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0006597",
+        "label": "Diaphragmatic paralysis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007149",
+        "label": "Distal upper limb amyotrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008944",
+        "label": "Distal lower limb amyotrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008948",
+        "label": "Proximal upper limb amyotrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008956",
+        "label": "Proximal lower limb amyotrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008959",
+        "label": "Distal upper limb muscle weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008994",
+        "label": "Proximal muscle weakness in lower limbs"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0009023",
+        "label": "Abdominal wall muscle weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0009053",
+        "label": "Distal lower limb muscle weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010546",
+        "label": "Muscle fibrillation"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011471",
+        "label": "Gastrostomy tube feeding in infancy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011675",
+        "label": "Arrhythmia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0012507",
+        "label": "Weakness of orbicularis oculi muscle"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0030044",
+        "label": "Flexion contracture of digit"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100283",
+        "label": "EMG: continuous motor unit activity at rest"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100492",
+        "label": "Joint contractures involving the joints of the feet"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100543",
+        "label": "Cognitive impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000297",
+        "label": "Facial hypotonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000467",
+        "label": "Neck muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000508",
+        "label": "Ptosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000544",
+        "label": "External ophthalmoplegia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000597",
+        "label": "Ophthalmoparesis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000602",
+        "label": "Ophthalmoplegia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001324",
+        "label": "Muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001371",
+        "label": "Flexion contracture"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001488",
+        "label": "Bilateral ptosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002650",
+        "label": "Scoliosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002751",
+        "label": "Kyphoscoliosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002792",
+        "label": "Reduced vital capacity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002880",
+        "label": "obsolete Respiratory difficulties"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002943",
+        "label": "Thoracic scoliosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003198",
+        "label": "Myopathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003327",
+        "label": "Axial muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003388",
+        "label": "Easy fatigability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003403",
+        "label": "EMG: decremental response of compound muscle action potential to repetitive nerve stimulation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003423",
+        "label": "Thoracolumbar kyphoscoliosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003457",
+        "label": "EMG abnormality"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003458",
+        "label": "EMG: myopathic abnormalities"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003473",
+        "label": "Fatigable weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003484",
+        "label": "Upper limb muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003554",
+        "label": "Type 2 muscle fiber atrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003690",
+        "label": "Limb muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003701",
+        "label": "Proximal muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003722",
+        "label": "Neck flexor weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004303",
+        "label": "Abnormality of muscle fibers"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005659",
+        "label": "Thoracic kyphoscoliosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005997",
+        "label": "Restricted neck movement due to contractures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007831",
+        "label": "Nonprogressive restrictive external ophthalmoplegia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008997",
+        "label": "Proximal muscle weakness in upper limbs"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009020",
+        "label": "Exercise-induced muscle fatigue"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009113",
+        "label": "Diaphragmatic weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011805",
+        "label": "Abnormality of muscle morphology"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011807",
+        "label": "Type 1 muscle fiber atrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030000",
+        "label": "EMG: repetitive nerve stimulation abnormality"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030197",
+        "label": "Fatigable weakness of skeletal muscles"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030200",
+        "label": "Fatiguable weakness of proximal limb muscles"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100295",
+        "label": "Muscle fiber atrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100297",
+        "label": "Increased endomysial connective tissue"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0018037",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0018037",
+            "interpretationStatus": "CAUSATIVE",
+            "gene": {
+              "valueId": "HGNC:2190",
+              "symbol": "COL13A1"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:590",
+        "label": "Congenital myasthenic syndrome"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:58:07Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "cheo-lochmuller",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "id": "P0001286",
+  "subject": {
+    "id": "P0001286",
+    "alternateIds": [
+      "MZAG015"
+    ],
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0001638",
+        "label": "Cardiomyopathy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002015",
+        "label": "Dysphagia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002880",
+        "label": "obsolete Respiratory difficulties"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0006957",
+        "label": "Loss of ability to walk"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011675",
+        "label": "Arrhythmia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000467",
+        "label": "Neck muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000639",
+        "label": "Nystagmus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001263",
+        "label": "Global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001290",
+        "label": "Generalized hypotonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002066",
+        "label": "Gait ataxia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002171",
+        "label": "Gliosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002353",
+        "label": "EEG abnormality"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002361",
+        "label": "Psychomotor deterioration"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002884",
+        "label": "Hepatoblastoma"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003547",
+        "label": "Shoulder girdle muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003724",
+        "label": "Shoulder girdle muscle atrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004879",
+        "label": "Intermittent hyperventilation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006970",
+        "label": "Periventricular leukomalacia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010547",
+        "label": "Muscle flaccidity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010818",
+        "label": "Generalized tonic seizures"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0001286",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:35:57Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "unew-straub",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "id": "P0021013",
+  "subject": {
+    "id": "P0021013",
+    "alternateIds": [
+      "190787"
+    ],
+    "dateOfBirth": "2019-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "DECEASED"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0012188",
+        "label": "Hyperemesis gravidarum"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008071",
+        "label": "Maternal hypertension"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0030244",
+        "label": "Maternal fever in pregnancy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100622",
+        "label": "Maternal seizures"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011438",
+        "label": "Maternal teratogenic exposure"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100603",
+        "label": "Toxemia of pregnancy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011436",
+        "label": "Abnormal maternal serum screening"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000193",
+        "label": "Bifid uvula"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000215",
+        "label": "Thick upper lip vermilion"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000319",
+        "label": "Smooth philtrum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000356",
+        "label": "Abnormality of the outer ear"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000954",
+        "label": "Single transverse palmar crease"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001273",
+        "label": "Abnormality of the corpus callosum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001302",
+        "label": "Pachygyria"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001433",
+        "label": "Hepatosplenomegaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001760",
+        "label": "Abnormality of the foot"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001999",
+        "label": "Abnormal facial shape"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002282",
+        "label": "Heterotopia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004719",
+        "label": "Hyperechogenic kidneys"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001511",
+        "label": "Intrauterine growth retardation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008223",
+        "label": "Compensated hypothyroidism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008883",
+        "label": "Mild intrauterine growth retardation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009800",
+        "label": "Maternal diabetes"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0021013",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "OMIM:619422",
+          "label": "Spinocerebellar Ataxia, Autosomal Recessive 31"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0021013",
+            "interpretationStatus": "CAUSATIVE",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:16935",
+                  "symbol": "ATG7"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "3",
+                  "pos": "11404314",
+                  "ref": "C",
+                  "alt": "T",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0021013",
+            "interpretationStatus": "CAUSATIVE",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:16935",
+                  "symbol": "ATG7"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "3",
+                  "pos": "11404378",
+                  "ref": "T",
+                  "alt": "TT",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "OMIM:619422",
+        "label": "Spinocerebellar Ataxia, Autosomal Recessive 31"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:05:29Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "chubx-lacombe",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "id": "P0000091",
+  "subject": {
+    "id": "P0000091",
+    "alternateIds": [
+      "COL0967"
+    ],
+    "vitalStatus": {},
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000405",
+        "label": "Conductive hearing impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000407",
+        "label": "Sensorineural hearing impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000410",
+        "label": "Mixed hearing impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000501",
+        "label": "Glaucoma"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000518",
+        "label": "Cataract"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000519",
+        "label": "Congenital cataract"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000639",
+        "label": "Nystagmus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000648",
+        "label": "Optic atrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000726",
+        "label": "Dementia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000751",
+        "label": "Personality changes"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001260",
+        "label": "Dysarthria"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001284",
+        "label": "Areflexia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001308",
+        "label": "Tongue fasciculations"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001638",
+        "label": "Cardiomyopathy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002015",
+        "label": "Dysphagia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002093",
+        "label": "Respiratory insufficiency"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002872",
+        "label": "Apneic episodes precipitated by illness, fatigue, stress"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002878",
+        "label": "Respiratory failure"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003390",
+        "label": "Sensory axonal neuropathy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0006801",
+        "label": "Hyperactive deep tendon reflexes"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007149",
+        "label": "Distal upper limb amyotrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008948",
+        "label": "Proximal upper limb amyotrophy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010307",
+        "label": "Stridor"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010729",
+        "label": "Cherry red spot of the macula"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011402",
+        "label": "Demyelinating sensory neuropathy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011471",
+        "label": "Gastrostomy tube feeding in infancy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011675",
+        "label": "Arrhythmia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000508",
+        "label": "Ptosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001315",
+        "label": "Reduced tendon reflexes"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001618",
+        "label": "Dysphonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002459",
+        "label": "Dysautonomia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002936",
+        "label": "Distal sensory impairment"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003323",
+        "label": "Progressive muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003445",
+        "label": "EMG: neuropathic changes"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003474",
+        "label": "Sensory impairment"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007002",
+        "label": "Motor axonal neuropathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008944",
+        "label": "Distal lower limb amyotrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008956",
+        "label": "Proximal lower limb amyotrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009053",
+        "label": "Distal lower limb muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010546",
+        "label": "Muscle fibrillation"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0000091",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:35:56Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "uk-wirth",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

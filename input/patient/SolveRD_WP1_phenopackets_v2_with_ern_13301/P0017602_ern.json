@@ -1,0 +1,212 @@
+{
+  "id": "P0017602",
+  "subject": {
+    "id": "P0017602",
+    "alternateIds": [
+      "173043"
+    ],
+    "vitalStatus": {
+      "status": "DECEASED"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0012188",
+        "label": "Hyperemesis gravidarum"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008071",
+        "label": "Maternal hypertension"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0009800",
+        "label": "Maternal diabetes"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0030244",
+        "label": "Maternal fever in pregnancy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100622",
+        "label": "Maternal seizures"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011438",
+        "label": "Maternal teratogenic exposure"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100603",
+        "label": "Toxemia of pregnancy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011436",
+        "label": "Abnormal maternal serum screening"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000185",
+        "label": "Cleft soft palate"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001195",
+        "label": "Single umbilical artery"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002101",
+        "label": "Abnormal lung lobation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005164",
+        "label": "Dysplastic pulmonary valve"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011408",
+        "label": "Moderate intrauterine growth retardation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011598",
+        "label": "Right aortic arch with retroesophageal left subclavian artery"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000185",
+        "label": "Cleft soft palate"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001195",
+        "label": "Single umbilical artery"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001511",
+        "label": "Intrauterine growth retardation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002101",
+        "label": "Abnormal lung lobation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005164",
+        "label": "Dysplastic pulmonary valve"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005301",
+        "label": "Persistent left superior vena cava"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011408",
+        "label": "Moderate intrauterine growth retardation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011598",
+        "label": "Right aortic arch with retroesophageal left subclavian artery"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012020",
+        "label": "Right aortic arch"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0017602",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:58:02Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "chubx-lacombe",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

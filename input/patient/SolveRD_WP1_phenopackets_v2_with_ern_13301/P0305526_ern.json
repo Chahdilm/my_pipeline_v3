@@ -1,0 +1,151 @@
+{
+  "id": "P0305526",
+  "subject": {
+    "id": "P0305526",
+    "alternateIds": [
+      "BES053_P"
+    ],
+    "dateOfBirth": "2013-01-17T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000219",
+        "label": "Thin upper lip vermilion"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000431",
+        "label": "Wide nasal bridge"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000657",
+        "label": "Oculomotor apraxia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001251",
+        "label": "Ataxia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001513",
+        "label": "Obesity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002079",
+        "label": "Hypoplasia of the corpus callosum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002363",
+        "label": "Abnormality of brainstem morphology"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005280",
+        "label": "Depressed nasal bridge"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006817",
+        "label": "Aplasia/Hypoplasia of the cerebellar vermis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006895",
+        "label": "Lower limb hypertonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007033",
+        "label": "Cerebellar dysplasia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012110",
+        "label": "Hypoplasia of the pons"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0025100",
+        "label": "Abnormal morphology of the hippocampus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0025313",
+        "label": "Exophoria"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0305526",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:10:45Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "tigem-nigro",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

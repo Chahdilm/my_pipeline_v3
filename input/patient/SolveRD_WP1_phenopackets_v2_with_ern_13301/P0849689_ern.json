@@ -1,0 +1,139 @@
+{
+  "id": "P0849689",
+  "subject": {
+    "id": "P0849689",
+    "alternateIds": [
+      "9449"
+    ],
+    "dateOfBirth": "2018-12-05T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000825",
+        "label": "Hyperinsulinemic hypoglycemia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000842",
+        "label": "Hyperinsulinemia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000961",
+        "label": "Cyanosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001250",
+        "label": "Seizure"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001325",
+        "label": "Hypoglycemic coma"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001943",
+        "label": "Hypoglycemia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001988",
+        "label": "Recurrent hypoglycemia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001998",
+        "label": "Neonatal hypoglycemia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002173",
+        "label": "Hypoglycemic seizures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003162",
+        "label": "Fasting hypoglycemia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008283",
+        "label": "Fasting hyperinsulinemia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012734",
+        "label": "Ketotic hypoglycemia"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0849689",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:11:16Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "lu-abou",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EpiCARE"
+      }
+    ]
+  }
+}

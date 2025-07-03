@@ -1,0 +1,205 @@
+{
+  "id": "P0043439",
+  "subject": {
+    "id": "P0043439",
+    "alternateIds": [
+      "PR_20"
+    ],
+    "dateOfBirth": "2004-11-24T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000248",
+        "label": "Brachycephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000520",
+        "label": "Proptosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011381",
+        "label": "Aplasia of the semicircular canal"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000365",
+        "label": "Hearing impairment"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011039",
+        "label": "Abnormality of the helix"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0031703",
+        "label": "Abnormal ear morphology"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008551",
+        "label": "Microtia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003422",
+        "label": "Vertebral segmentation defect"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000912",
+        "label": "Sprengel anomaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000204",
+        "label": "Cleft upper lip"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000175",
+        "label": "Cleft palate"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001601",
+        "label": "Laryngomalacia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005301",
+        "label": "Persistent left superior vena cava"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001510",
+        "label": "Growth delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001611",
+        "label": "Nasal speech"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001270",
+        "label": "Motor delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000750",
+        "label": "Delayed speech and language development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0033792",
+        "label": "Cross bite"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002705",
+        "label": "High, narrow palate"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0031567",
+        "label": "Abnormal aortic valve cusp morphology"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004484",
+        "label": "Craniofacial asymmetry"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000402",
+        "label": "Stenosis of the external auditory canal"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0043439",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:06:24Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "unipr-percesepe",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-GENTURIS"
+      }
+    ]
+  }
+}

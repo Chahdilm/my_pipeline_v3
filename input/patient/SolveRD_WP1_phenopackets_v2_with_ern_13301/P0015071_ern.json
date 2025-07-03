@@ -1,0 +1,179 @@
+{
+  "id": "P0015071",
+  "subject": {
+    "id": "P0015071",
+    "alternateIds": [
+      "RUMC_SolveRD_RND_0063"
+    ],
+    "dateOfBirth": "1978-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0001251",
+        "label": "Ataxia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001271",
+        "label": "Polyneuropathy"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000012",
+        "label": "Urinary urgency"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000965",
+        "label": "Cutis marmorata"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002064",
+        "label": "Spastic gait"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002136",
+        "label": "Broad-based gait"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002403",
+        "label": "Positive Romberg sign"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002600",
+        "label": "Hyporeflexia of lower limbs"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003438",
+        "label": "Absent Achilles reflex"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003487",
+        "label": "Babinski sign"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006895",
+        "label": "Lower limb hypertonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006938",
+        "label": "Impaired vibration sensation at ankles"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007210",
+        "label": "Lower limb amyotrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007350",
+        "label": "Hyperreflexia in upper limbs"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010992",
+        "label": "Stress urinary incontinence"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100502",
+        "label": "Vitamin B12 deficiency"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0200049",
+        "label": "Upper limb hypertonia"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0015071",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:685",
+        "label": "Hereditary spastic paraplegia"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:56:54Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-vandewarrenburg",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-RND"
+      }
+    ]
+  }
+}

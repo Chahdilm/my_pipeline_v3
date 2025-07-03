@@ -1,0 +1,363 @@
+{
+  "id": "P0015659",
+  "subject": {
+    "id": "P0015659",
+    "alternateIds": [
+      "NP278-1"
+    ],
+    "dateOfBirth": "2000-02-25T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000271",
+        "label": "Abnormality of the face"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000508",
+        "label": "Ptosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000617",
+        "label": "Abnormality of ocular smooth pursuit"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000639",
+        "label": "Nystagmus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000951",
+        "label": "Abnormality of the skin"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001123",
+        "label": "Visual field defect"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001257",
+        "label": "Spasticity"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001324",
+        "label": "Muscle weakness"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002015",
+        "label": "Dysphagia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002273",
+        "label": "Tetraparesis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002385",
+        "label": "Paraparesis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002476",
+        "label": "Primitive reflex"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007034",
+        "label": "Generalized hyperreflexia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0005855",
+        "label": "Multiple prenatal fractures"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000496",
+        "label": "Abnormality of eye movement"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000571",
+        "label": "Hypometric saccades"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000708",
+        "label": "Behavioral abnormality"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000734",
+        "label": "Disinhibition"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000748",
+        "label": "Inappropriate laughter"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001260",
+        "label": "Dysarthria"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001288",
+        "label": "Gait disturbance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001290",
+        "label": "Generalized hypotonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001332",
+        "label": "Dystonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001347",
+        "label": "Hyperreflexia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001348",
+        "label": "Brisk reflexes"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002064",
+        "label": "Spastic gait"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002066",
+        "label": "Gait ataxia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002169",
+        "label": "Clonus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002310",
+        "label": "Orofacial dyskinesia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002317",
+        "label": "Unsteady gait"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002395",
+        "label": "Lower limb hyperreflexia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002451",
+        "label": "Limb dystonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002650",
+        "label": "Scoliosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004373",
+        "label": "Focal dystonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004374",
+        "label": "Hemiplegia/hemiparesis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006801",
+        "label": "Hyperactive deep tendon reflexes"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007338",
+        "label": "Hypermetric saccades"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008947",
+        "label": "Infantile muscular hypotonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011448",
+        "label": "Ankle clonus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012048",
+        "label": "Oromandibular dystonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012194",
+        "label": "Episodic hemiplegia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012547",
+        "label": "Abnormal involuntary eye movements"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100660",
+        "label": "Dyskinesia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001263",
+        "label": "Global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011343",
+        "label": "Moderate global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012758",
+        "label": "Neurodevelopmental delay"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0015659",
+      "progressStatus": "SOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:57:06Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "vhir-macaya",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-RND"
+      }
+    ]
+  }
+}

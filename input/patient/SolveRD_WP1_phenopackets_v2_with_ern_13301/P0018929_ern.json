@@ -1,0 +1,117 @@
+{
+  "id": "P0018929",
+  "subject": {
+    "id": "P0018929",
+    "alternateIds": [
+      "DYS85"
+    ],
+    "dateOfBirth": "1990-05-03T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0002372",
+        "label": "Normal interictal EEG"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003621",
+        "label": "Juvenile onset"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007166",
+        "label": "Paroxysmal dyskinesia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0025226",
+        "label": "Triggered by stress"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0025228",
+        "label": "Triggered by sudden movement"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0018929",
+      "progressStatus": "UNSOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "OMIM:128200",
+          "label": "EPISODIC KINESIGENIC DYSKINESIA 1"
+        }
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:98809",
+        "label": "Paroxysmal kinesigenic dyskinesia"
+      }
+    },
+    {
+      "term": {
+        "id": "OMIM:128200",
+        "label": "EPISODIC KINESIGENIC DYSKINESIA 1"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:04:49Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "ekut-lerche",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-RND"
+      }
+    ]
+  }
+}

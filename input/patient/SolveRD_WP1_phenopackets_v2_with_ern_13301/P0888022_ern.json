@@ -1,0 +1,118 @@
+{
+  "id": "P0888022",
+  "subject": {
+    "id": "P0888022",
+    "alternateIds": [
+      "I_5310_07"
+    ],
+    "dateOfBirth": "1957-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0003003",
+        "label": "Colon cancer"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006716",
+        "label": "Hereditary nonpolyposis colorectal carcinoma"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003003",
+        "label": "Colon cancer"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0200063",
+        "label": "Colorectal polyposis"
+      },
+      "excluded": true
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0888022",
+      "progressStatus": "UNSOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "OMIM:114500",
+          "label": "Colorectal Cancer"
+        }
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:440437",
+        "label": "Familial colorectal cancer Type X"
+      }
+    },
+    {
+      "term": {
+        "id": "Orphanet:443909",
+        "label": "Hereditary nonpolyposis colon cancer"
+      }
+    },
+    {
+      "term": {
+        "id": "OMIM:114500",
+        "label": "Colorectal Cancer"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:11:18Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "idib-capella",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-GENTURIS"
+      }
+    ]
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "id": "P0742736",
+  "subject": {
+    "id": "P0742736",
+    "alternateIds": [
+      "BB7775"
+    ],
+    "dateOfBirth": "1995-04-24T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0001252",
+        "label": "Hypotonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000978",
+        "label": "Bruising susceptibility"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012378",
+        "label": "Fatigue"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001382",
+        "label": "Joint hypermobility"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000750",
+        "label": "Delayed speech and language development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002705",
+        "label": "High, narrow palate"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000193",
+        "label": "Bifid uvula"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001537",
+        "label": "Umbilical hernia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000987",
+        "label": "Atypical scarring of skin"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0030319",
+        "label": "Weakness of facial musculature"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001611",
+        "label": "Nasal speech"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010647",
+        "label": "Abnormal elasticity of skin"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003551",
+        "label": "Difficulty climbing stairs"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005216",
+        "label": "Impaired mastication"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002194",
+        "label": "Delayed gross motor development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011469",
+        "label": "Nasal regurgitation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000276",
+        "label": "Long face"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000478",
+        "label": "Abnormality of the eye"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000545",
+        "label": "Myopia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001763",
+        "label": "Pes planus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007502",
+        "label": "Follicular hyperkeratosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000365",
+        "label": "Hearing impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0008997",
+        "label": "Proximal muscle weakness in upper limbs"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008994",
+        "label": "Proximal muscle weakness in lower limbs"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003236",
+        "label": "Elevated circulating creatine kinase concentration"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003458",
+        "label": "EMG: myopathic abnormalities"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000347",
+        "label": "Micrognathia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001182",
+        "label": "Tapered finger"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001245",
+        "label": "Small thenar eminence"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010487",
+        "label": "Small hypothenar eminence"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0742736",
+      "progressStatus": "UNSOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0742736",
+            "gene": {
+              "valueId": "HGNC:11386",
+              "symbol": "STIM1"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0742736",
+            "interpretationStatus": "CANDIDATE",
+            "gene": {
+              "valueId": "HGNC:10483",
+              "symbol": "RYR1"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0742736",
+            "interpretationStatus": "REJECTED",
+            "gene": {
+              "valueId": "HGNC:7572",
+              "symbol": "MYH2"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0742736",
+            "gene": {
+              "valueId": "HGNC:25896",
+              "symbol": "ORAI1"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0742736",
+            "gene": {
+              "valueId": "HGNC:2211",
+              "symbol": "COL6A1"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0742736",
+            "gene": {
+              "valueId": "HGNC:2212",
+              "symbol": "COL6A2"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0742736",
+            "gene": {
+              "valueId": "HGNC:2213",
+              "symbol": "COL6A3"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0742736",
+            "gene": {
+              "valueId": "HGNC:2188",
+              "symbol": "COL12A1"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0742736",
+            "interpretationStatus": "REJECTED",
+            "gene": {
+              "valueId": "HGNC:7551",
+              "symbol": "MYBPC3"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0742736",
+            "interpretationStatus": "REJECTED",
+            "gene": {
+              "valueId": "HGNC:16905",
+              "symbol": "KLHL41"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:11:13Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "unew-straub",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

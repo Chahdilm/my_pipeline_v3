@@ -1,0 +1,266 @@
+{
+  "id": "P0077253",
+  "subject": {
+    "id": "P0077253",
+    "alternateIds": [
+      "BB0605"
+    ],
+    "dateOfBirth": "1998-06-09T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000486",
+        "label": "Strabismus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000750",
+        "label": "Delayed speech and language development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012450",
+        "label": "Chronic constipation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002888",
+        "label": "Ependymoma"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002194",
+        "label": "Delayed gross motor development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008376",
+        "label": "Nasal, dysarthic speech"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002066",
+        "label": "Gait ataxia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003236",
+        "label": "Elevated circulating creatine kinase concentration"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011968",
+        "label": "Feeding difficulties"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001382",
+        "label": "Joint hypermobility"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001252",
+        "label": "Hypotonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003391",
+        "label": "Gowers sign"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007598",
+        "label": "Bilateral single transverse palmar creases"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005216",
+        "label": "Impaired mastication"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011469",
+        "label": "Nasal regurgitation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009046",
+        "label": "Difficulty running"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000220",
+        "label": "Velopharyngeal insufficiency"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002355",
+        "label": "Difficulty walking"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003089",
+        "label": "Hamstring contractures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002360",
+        "label": "Sleep disturbance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003691",
+        "label": "Scapular winging"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000020",
+        "label": "Urinary incontinence"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007010",
+        "label": "Poor fine motor coordination"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002395",
+        "label": "Lower limb hyperreflexia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002464",
+        "label": "Spastic dysarthria"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030319",
+        "label": "Weakness of facial musculature"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0077253",
+      "progressStatus": "UNSOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0077253",
+            "gene": {
+              "valueId": "HGNC:26594",
+              "symbol": "DOK7"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0077253",
+            "gene": {
+              "valueId": "HGNC:9863",
+              "symbol": "RAPSN"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0077253",
+            "gene": {
+              "valueId": "HGNC:7414",
+              "symbol": "MT-ATP6"
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0077253",
+            "gene": {
+              "valueId": "HGNC:7415",
+              "symbol": "MT-ATP8"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:06:27Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "unew-straub",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

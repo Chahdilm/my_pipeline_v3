@@ -1,0 +1,223 @@
+{
+  "id": "P0022272",
+  "subject": {
+    "id": "P0022272",
+    "alternateIds": [
+      "N892511_1"
+    ],
+    "dateOfBirth": "2010-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000750",
+        "label": "Delayed speech and language development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001397",
+        "label": "Hepatic steatosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001744",
+        "label": "Splenomegaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001954",
+        "label": "Episodic fever"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001999",
+        "label": "Abnormal facial shape"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002194",
+        "label": "Delayed gross motor development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002273",
+        "label": "Tetraparesis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002572",
+        "label": "Episodic vomiting"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003236",
+        "label": "Elevated serum creatine phosphokinase"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003325",
+        "label": "Limb-girdle muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003560",
+        "label": "Muscular dystrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003752",
+        "label": "Episodic flaccid weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004303",
+        "label": "Abnormality of muscle fibers"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011805",
+        "label": "Abnormality of muscle morphology"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012548",
+        "label": "Fatty replacement of skeletal muscle"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0040081",
+        "label": "Abnormal levels of creatine kinase in blood"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100293",
+        "label": "Muscle fiber hypertrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100295",
+        "label": "Muscle fiber atrophy"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0022272",
+      "progressStatus": "UNSOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0022272",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "UNCERTAIN_SIGNIFICANCE",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:851",
+                  "symbol": "ATP6V1A"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "3",
+                  "pos": "113513742",
+                  "ref": "C",
+                  "alt": "T",
+                  "info": "Uncertain significance"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:746",
+        "label": "Mitochondrial trifunctional protein deficiency"
+      }
+    },
+    {
+      "term": {
+        "id": "Orphanet:98486",
+        "label": "Metabolic myopathy"
+      }
+    },
+    {
+      "term": {
+        "id": "Orphanet:98473",
+        "label": "Muscular dystrophy"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:06:22Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "cheo-lochmuller",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "id": "P0015021",
+  "subject": {
+    "id": "P0015021",
+    "alternateIds": [
+      "RUMC_SolveRD_RND_0013"
+    ],
+    "dateOfBirth": "1975-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000486",
+        "label": "Strabismus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000616",
+        "label": "Miosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000640",
+        "label": "Gaze-evoked nystagmus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001260",
+        "label": "Dysarthria"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001272",
+        "label": "Cerebellar atrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001328",
+        "label": "Specific learning disability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002059",
+        "label": "Cerebral atrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002064",
+        "label": "Spastic gait"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002066",
+        "label": "Gait ataxia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002070",
+        "label": "Limb ataxia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002076",
+        "label": "Migraine"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002080",
+        "label": "Intention tremor"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003394",
+        "label": "Muscle cramps"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006895",
+        "label": "Lower limb hypertonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007083",
+        "label": "Hyperactive patellar reflex"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007338",
+        "label": "Hypermetric saccades"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007668",
+        "label": "Impaired pursuit initiation and maintenance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011448",
+        "label": "Ankle clonus"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0015021",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "NA",
+          "label": "NA"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0015021",
+            "interpretationStatus": "CAUSATIVE",
+            "gene": {
+              "valueId": "HGNC:11427",
+              "symbol": "STUB1"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:183518",
+        "label": "Rare hereditary ataxia"
+      }
+    },
+    {
+      "term": {
+        "id": "Orphanet:316226",
+        "label": "Spastic ataxia"
+      }
+    },
+    {
+      "term": {
+        "id": "Orphanet:685",
+        "label": "Hereditary spastic paraplegia"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:56:52Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-vandewarrenburg",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-RND"
+      }
+    ]
+  }
+}

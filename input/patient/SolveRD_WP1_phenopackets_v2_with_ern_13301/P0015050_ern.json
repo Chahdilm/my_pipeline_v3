@@ -1,0 +1,194 @@
+{
+  "id": "P0015050",
+  "subject": {
+    "id": "P0015050",
+    "alternateIds": [
+      "RUMC_SolveRD_RND_0042"
+    ],
+    "dateOfBirth": "1994-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0001251",
+        "label": "Ataxia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001332",
+        "label": "Dystonia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001336",
+        "label": "Myoclonus"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002067",
+        "label": "Bradykinesia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003487",
+        "label": "Babinski sign"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000549",
+        "label": "Abnormal conjugate eye movement"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000641",
+        "label": "Dysmetric saccades"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001347",
+        "label": "Hyperreflexia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001761",
+        "label": "Pes cavus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002064",
+        "label": "Spastic gait"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002442",
+        "label": "Dyscalculia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002509",
+        "label": "Limb hypertonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002938",
+        "label": "Lumbar hyperlordosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006895",
+        "label": "Lower limb hypertonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007210",
+        "label": "Lower limb amyotrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008944",
+        "label": "Distal lower limb amyotrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010522",
+        "label": "Dyslexia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011448",
+        "label": "Ankle clonus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012332",
+        "label": "Abnormal autonomic nervous system physiology"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0015050",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:685",
+        "label": "Hereditary spastic paraplegia"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:56:53Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-vandewarrenburg",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-RND"
+      }
+    ]
+  }
+}

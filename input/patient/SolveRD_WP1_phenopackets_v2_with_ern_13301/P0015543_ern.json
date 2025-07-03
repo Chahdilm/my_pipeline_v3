@@ -1,0 +1,231 @@
+{
+  "id": "P0015543",
+  "subject": {
+    "id": "P0015543",
+    "alternateIds": [
+      "FR-NEIDF0060"
+    ],
+    "dateOfBirth": "1964-03-19T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000508",
+        "label": "Ptosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000544",
+        "label": "External ophthalmoplegia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000597",
+        "label": "Ophthalmoparesis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000602",
+        "label": "Ophthalmoplegia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001349",
+        "label": "Facial diplegia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001488",
+        "label": "Bilateral ptosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001618",
+        "label": "Dysphonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001638",
+        "label": "Cardiomyopathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001644",
+        "label": "Dilated cardiomyopathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002015",
+        "label": "Dysphagia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002068",
+        "label": "Neuromuscular dysphagia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002870",
+        "label": "Obstructive sleep apnea"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003323",
+        "label": "Progressive muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003327",
+        "label": "Axial muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003560",
+        "label": "Muscular dystrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004887",
+        "label": "Respiratory failure requiring assisted ventilation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007838",
+        "label": "Progressive ptosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008997",
+        "label": "Proximal muscle weakness in upper limbs"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009053",
+        "label": "Distal lower limb muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009073",
+        "label": "Progressive proximal muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010628",
+        "label": "Facial palsy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0430025",
+        "label": "Bilateral facial palsy"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0015543",
+      "progressStatus": "UNSOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "OMIM:164300",
+          "label": "OCULOPHARYNGEAL MUSCULAR DYSTROPHY"
+        }
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:270",
+        "label": "Oculopharyngeal muscular dystrophy"
+      }
+    },
+    {
+      "term": {
+        "id": "Orphanet:98897",
+        "label": "Oculopharyngodistal myopathy"
+      }
+    },
+    {
+      "term": {
+        "id": "OMIM:164300",
+        "label": "OCULOPHARYNGEAL MUSCULAR DYSTROPHY"
+      }
+    },
+    {
+      "term": {
+        "id": "OMIM:164310",
+        "label": "OCULOPHARYNGODISTAL MYOPATHY"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:56:57Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "aim-bonne",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

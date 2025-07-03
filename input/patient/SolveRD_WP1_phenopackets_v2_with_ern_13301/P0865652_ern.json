@@ -1,0 +1,223 @@
+{
+  "id": "P0865652",
+  "subject": {
+    "id": "P0865652",
+    "alternateIds": [
+      "5159"
+    ],
+    "dateOfBirth": "1995-09-13T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000160",
+        "label": "Narrow mouth"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000582",
+        "label": "Upslanted palpebral fissure"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000750",
+        "label": "Delayed speech and language development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001263",
+        "label": "Global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001302",
+        "label": "Pachygyria"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001339",
+        "label": "Lissencephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001344",
+        "label": "Absent speech"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002015",
+        "label": "Dysphagia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002126",
+        "label": "Polymicrogyria"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002133",
+        "label": "Status epilepticus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002171",
+        "label": "Gliosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002342",
+        "label": "Intellectual disability, moderate"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002438",
+        "label": "Cerebellar malformation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002465",
+        "label": "Poor speech"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002500",
+        "label": "Abnormal cerebral white matter morphology"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003781",
+        "label": "Excessive salivation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007042",
+        "label": "Focal white matter lesions"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007359",
+        "label": "Focal-onset seizure"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010841",
+        "label": "Multifocal epileptiform discharges"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010864",
+        "label": "Intellectual disability, severe"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011097",
+        "label": "Epileptic spasm"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011185",
+        "label": "EEG with focal epileptiform discharges"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012762",
+        "label": "Cerebral white matter atrophy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0200017",
+        "label": "Cerebral white matter agenesis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0200136",
+        "label": "Oral-pharyngeal dysphagia"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0865652",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:11:17Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "lu-abou",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

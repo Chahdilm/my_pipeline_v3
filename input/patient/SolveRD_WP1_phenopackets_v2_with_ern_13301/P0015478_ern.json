@@ -1,0 +1,183 @@
+{
+  "id": "P0015478",
+  "subject": {
+    "id": "P0015478",
+    "alternateIds": [
+      "25940_ND0853"
+    ],
+    "dateOfBirth": "2005-08-31T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000453",
+        "label": "Choanal atresia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000483",
+        "label": "Astigmatism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000508",
+        "label": "Ptosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000540",
+        "label": "Hypermetropia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000577",
+        "label": "Exotropia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000989",
+        "label": "Pruritus"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001249",
+        "label": "Intellectual disability"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001250",
+        "label": "Seizures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001263",
+        "label": "Global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001270",
+        "label": "Motor delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001288",
+        "label": "Gait disturbance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002463",
+        "label": "Language impairment"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007018",
+        "label": "Attention deficit hyperactivity disorder"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008116",
+        "label": "Flexion limitation of toes"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009773",
+        "label": "Symphalangism affecting the phalanges of the hand"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030896",
+        "label": "Abnormal gastrointestinal transit time"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100255",
+        "label": "Metaphyseal dysplasia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100962",
+        "label": "Shyness"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0015478",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:87277",
+        "label": "Rare intellectual disability"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:56:57Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "iier-posada",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "UDN-Spain"
+      }
+    ]
+  }
+}

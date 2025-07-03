@@ -1,0 +1,329 @@
+{
+  "id": "P0014349",
+  "subject": {
+    "id": "P0014349",
+    "alternateIds": [
+      "RUMC_solverd_ithaca_1901"
+    ],
+    "dateOfBirth": "1993-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0001518",
+        "label": "Small for gestational age"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001520",
+        "label": "Large for gestational age"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004324",
+        "label": "Increased body weight"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004325",
+        "label": "Decreased body weight"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000160",
+        "label": "Narrow mouth"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000252",
+        "label": "Microcephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000311",
+        "label": "Round face"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000319",
+        "label": "Smooth philtrum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000337",
+        "label": "Broad forehead"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000366",
+        "label": "Abnormality of the nose"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000414",
+        "label": "Bulbous nose"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000426",
+        "label": "Prominent nasal bridge"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000490",
+        "label": "Deeply set eye"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000574",
+        "label": "Thick eyebrow"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000750",
+        "label": "Delayed speech and language development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000964",
+        "label": "Eczema"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001167",
+        "label": "Abnormality of finger"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001212",
+        "label": "Prominent fingertip pads"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001250",
+        "label": "Seizures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001251",
+        "label": "Ataxia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001371",
+        "label": "Flexion contracture"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001377",
+        "label": "Limited elbow extension"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001572",
+        "label": "Macrodontia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001773",
+        "label": "Short foot"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001786",
+        "label": "Narrow foot"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001845",
+        "label": "Overlapping toe"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002208",
+        "label": "Coarse hair"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002263",
+        "label": "Exaggerated cupid's bow"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002360",
+        "label": "Sleep disturbance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002376",
+        "label": "Developmental regression"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002571",
+        "label": "Achalasia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003066",
+        "label": "Limited knee extension"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004279",
+        "label": "Short palm"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004322",
+        "label": "Short stature"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006829",
+        "label": "Severe muscular hypotonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006834",
+        "label": "Developmental stagnation at onset of seizures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010624",
+        "label": "Aplastic/hypoplastic toenail"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0010864",
+        "label": "Intellectual disability, severe"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0100807",
+        "label": "Long fingers"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0014349",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "OMIM:612164",
+          "label": "EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 4"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0014349",
+            "interpretationStatus": "CAUSATIVE",
+            "gene": {
+              "valueId": "HGNC:11444",
+              "symbol": "STXBP1"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "OMIM:612164",
+        "label": "EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 4"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:56:42Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "rumc-vissers",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}

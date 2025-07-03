@@ -1,0 +1,231 @@
+{
+  "id": "P0198641",
+  "subject": {
+    "id": "P0198641",
+    "alternateIds": [
+      "SRD071"
+    ],
+    "dateOfBirth": "1959-01-01T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000939",
+        "label": "Osteoporosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001392",
+        "label": "Abnormality of the liver"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001409",
+        "label": "Portal hypertension"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001744",
+        "label": "Splenomegaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001882",
+        "label": "Leukopenia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001945",
+        "label": "Fever"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001973",
+        "label": "Autoimmune thrombocytopenia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002020",
+        "label": "Gastroesophageal reflux"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002040",
+        "label": "Esophageal varix"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002242",
+        "label": "Abnormal intestine morphology"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002619",
+        "label": "Varicose veins"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002716",
+        "label": "Lymphadenopathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002788",
+        "label": "Recurrent upper respiratory tract infections"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004313",
+        "label": "Decreased circulating antibody level"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006530",
+        "label": "Abnormal pulmonary Interstitial morphology"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008441",
+        "label": "Herniation of intervertebral nuclei"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0012185",
+        "label": "Constrictive median neuropathy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030250",
+        "label": "Pulmonary granulomatosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0031378",
+        "label": "Abnormal lymphocyte proliferation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0032170",
+        "label": "Severe varicella zoster infection"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0200008",
+        "label": "Intestinal polyposis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0410301",
+        "label": "Partial absence of specific antibody response to unconjugated pneumococcus vaccine"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0410323",
+        "label": "Drug allergy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0410324",
+        "label": "Dust mite allergy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0410378",
+        "label": "Decreased proportion of naive CD4 T cells"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0410395",
+        "label": "Increased proportion of effector memory CD8-positive, alpha-beta T cells"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0198641",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:1572",
+        "label": "Common variable immunodeficiency"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:06:40Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "ukf-grimbacher",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-RITA"
+      }
+    ]
+  }
+}

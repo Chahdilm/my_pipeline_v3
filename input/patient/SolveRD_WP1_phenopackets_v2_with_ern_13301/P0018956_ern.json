@@ -1,0 +1,245 @@
+{
+  "id": "P0018956",
+  "subject": {
+    "id": "P0018956",
+    "alternateIds": [
+      "FR-NEIDF0011"
+    ],
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "MALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0001317",
+        "label": "Abnormality of the cerebellum"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001320",
+        "label": "Cerebellar vermis hypoplasia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001339",
+        "label": "Lissencephaly"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002060",
+        "label": "Abnormality of the cerebrum"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002126",
+        "label": "Polymicrogyria"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002350",
+        "label": "Cerebellar cyst"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002363",
+        "label": "Abnormality of brainstem morphology"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002500",
+        "label": "Abnormality of the cerebral white matter"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0007033",
+        "label": "Cerebellar dysplasia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000649",
+        "label": "Abnormality of visual evoked potentials"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000657",
+        "label": "Oculomotor apraxia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001187",
+        "label": "Hyperextensibility of the finger joints"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001260",
+        "label": "Dysarthria"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002015",
+        "label": "Dysphagia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002804",
+        "label": "Arthrogryposis multiplex congenita"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002808",
+        "label": "Kyphosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0003803",
+        "label": "Type 1 muscle fiber predominance"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0005639",
+        "label": "Hyperextensible hand joints"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006099",
+        "label": "Metacarpophalangeal joint hyperextensibility"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006958",
+        "label": "Abnormal auditory evoked potentials"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007377",
+        "label": "Abnormality of somatosensory evoked potentials"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008959",
+        "label": "Distal upper limb muscle weakness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008994",
+        "label": "Proximal muscle weakness in lower limbs"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0008997",
+        "label": "Proximal muscle weakness in upper limbs"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0009053",
+        "label": "Distal lower limb muscle weakness"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0018956",
+      "progressStatus": "UNSOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "OMIM:255300",
+          "label": "MYOPATHY, CONGENITAL"
+        }
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:97245",
+        "label": "Congenital myopathy"
+      }
+    },
+    {
+      "term": {
+        "id": "OMIM:255300",
+        "label": "MYOPATHY, CONGENITAL"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:04:50Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "aim-bonne",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-EURO-NMD"
+      }
+    ]
+  }
+}

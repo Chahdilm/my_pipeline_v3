@@ -1,0 +1,313 @@
+{
+  "id": "P0012304",
+  "subject": {
+    "id": "P0012304",
+    "alternateIds": [
+      "NP0387-1"
+    ],
+    "dateOfBirth": "2015-09-19T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000407",
+        "label": "Sensorineural hearing impairment"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001197",
+        "label": "Abnormality of prenatal development or birth"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001943",
+        "label": "Hypoglycemia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0001992",
+        "label": "Organic aciduria"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002011",
+        "label": "Morphological abnormality of the central nervous system"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002015",
+        "label": "Dysphagia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002194",
+        "label": "Delayed gross motor development"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002490",
+        "label": "Increased CSF lactate"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002910",
+        "label": "Elevated hepatic transaminases"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002921",
+        "label": "Abnormality of the cerebrospinal fluid"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0002922",
+        "label": "Increased CSF protein"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003074",
+        "label": "Hyperglycemia"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003128",
+        "label": "Lactic acidosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0003643",
+        "label": "Sulfite oxidase deficiency"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0004337",
+        "label": "Abnormality of amino acid metabolism"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010862",
+        "label": "Delayed fine motor development"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0010863",
+        "label": "Receptive language delay"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0011968",
+        "label": "Feeding difficulties"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0012229",
+        "label": "CSF pleocytosis"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0012447",
+        "label": "Abnormal myelination"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0100022",
+        "label": "Abnormality of movement"
+      },
+      "excluded": true
+    },
+    {
+      "type": {
+        "id": "HP:0000750",
+        "label": "Delayed speech and language development"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002384",
+        "label": "Focal seizures with impairment of consciousness or awareness"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002474",
+        "label": "Expressive language delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0007359",
+        "label": "Focal seizures"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011097",
+        "label": "Epileptic spasms"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011346",
+        "label": "Mild expressive language delay"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0012304",
+      "progressStatus": "SOLVED",
+      "diagnosis": {
+        "disease": {
+          "id": "OMIM:604364",
+          "label": "EPILEPSY, FAMILIAL FOCAL, WITH VARIABLE FOCI 1"
+        },
+        "genomicInterpretations": [
+          {
+            "subjectOrBiosampleId": "P0012304",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:18423",
+                  "symbol": "DEPDC5"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "22",
+                  "pos": "32210991",
+                  "ref": "C",
+                  "alt": "T",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          },
+          {
+            "subjectOrBiosampleId": "P0012304",
+            "interpretationStatus": "CAUSATIVE",
+            "variantInterpretation": {
+              "acmgPathogenicityClassification": "PATHOGENIC",
+              "variationDescriptor": {
+                "geneContext": {
+                  "valueId": "HGNC:18423",
+                  "symbol": "DEPDC5"
+                },
+                "vcfRecord": {
+                  "genomeAssembly": "GRCh37",
+                  "chrom": "22",
+                  "pos": "32210991",
+                  "ref": "C",
+                  "alt": "T",
+                  "info": "Pathogenic"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "diseases": [
+    {
+      "term": {
+        "id": "Orphanet:98820",
+        "label": "Familial focal epilepsy with variable foci"
+      }
+    },
+    {
+      "term": {
+        "id": "OMIM:604364",
+        "label": "EPILEPSY, FAMILIAL FOCAL, WITH VARIABLE FOCI 1"
+      }
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T11:56:01Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "vhir-macaya",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-RND"
+      }
+    ]
+  }
+}

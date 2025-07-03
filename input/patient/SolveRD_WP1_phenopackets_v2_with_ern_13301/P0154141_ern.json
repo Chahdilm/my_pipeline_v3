@@ -1,0 +1,289 @@
+{
+  "id": "P0154141",
+  "subject": {
+    "id": "P0154141",
+    "alternateIds": [
+      "MO045_P"
+    ],
+    "dateOfBirth": "2002-01-22T00:00:00Z",
+    "vitalStatus": {
+      "status": "ALIVE"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [
+    {
+      "type": {
+        "id": "HP:0000252",
+        "label": "Microcephaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000484",
+        "label": "Hyperopic astigmatism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000543",
+        "label": "Optic disc pallor"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000577",
+        "label": "Exotropia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000633",
+        "label": "Decreased lacrimation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000649",
+        "label": "Abnormality of visual evoked potentials"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000733",
+        "label": "Stereotypy"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000821",
+        "label": "Hypothyroidism"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000824",
+        "label": "Decreased response to growth hormone stimuation test"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0000938",
+        "label": "Osteopenia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001252",
+        "label": "Hypotonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001319",
+        "label": "Neonatal hypotonia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001321",
+        "label": "Cerebellar hypoplasia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001338",
+        "label": "Partial agenesis of the corpus callosum"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001344",
+        "label": "Absent speech"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001347",
+        "label": "Hyperreflexia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001397",
+        "label": "Hepatic steatosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001513",
+        "label": "Obesity"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002187",
+        "label": "Intellectual disability, profound"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002190",
+        "label": "Choroid plexus cyst"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002240",
+        "label": "Hepatomegaly"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002353",
+        "label": "EEG abnormality"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002384",
+        "label": "Focal impaired awareness seizure"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002536",
+        "label": "Abnormal cortical gyration"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002827",
+        "label": "Hip dislocation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002888",
+        "label": "Ependymoma"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0002944",
+        "label": "Thoracolumbar scoliosis"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004322",
+        "label": "Short stature"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0004325",
+        "label": "Decreased body weight"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006956",
+        "label": "Dilation of lateral ventricles"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0006970",
+        "label": "Periventricular leukomalacia"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0011344",
+        "label": "Severe global developmental delay"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001511",
+        "label": "Intrauterine growth retardation"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001518",
+        "label": "Small for gestational age"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001562",
+        "label": "Oligohydramnios"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0001622",
+        "label": "Premature birth"
+      }
+    },
+    {
+      "type": {
+        "id": "HP:0030363",
+        "label": "Primary Caesarian section"
+      }
+    }
+  ],
+  "interpretations": [
+    {
+      "id": "P0154141",
+      "progressStatus": "UNSOLVED"
+    }
+  ],
+  "metaData": {
+    "created": "2024-02-15T12:06:36Z",
+    "createdBy": "rdconnect",
+    "submittedBy": "tigem-nigro",
+    "resources": [
+      {
+        "id": "hp",
+        "name": "Human Phenotype Ontology",
+        "url": "https://purl.obolibrary.org/obo/hp.owl",
+        "version": "2020-12-07",
+        "namespacePrefix": "HP",
+        "iriPrefix": "https://purl.obolibrary.org/obo/HP_"
+      },
+      {
+        "id": "orphanet",
+        "name": "Orphanet Rare Disease Ontology",
+        "url": "https://orpha.net/ontology/ORDO_en_3.1.owl",
+        "version": "3.1",
+        "namespacePrefix": "Orphanet",
+        "iriPrefix": "https://www.orpha.net/ORDO/Orphanet_"
+      },
+      {
+        "id": "hgnc",
+        "name": "HUGO Gene Nomenclature Committee",
+        "url": "https://www.genenames.org",
+        "version": "2021-01-13",
+        "namespacePrefix": "HGNC",
+        "iriPrefix": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/"
+      },
+      {
+        "id": "mim",
+        "name": "Online Mendelian Inheritance in Man",
+        "url": "https://omim.org/",
+        "version": "2021-01-21",
+        "namespacePrefix": "OMIM",
+        "iriPrefix": "https://omim.org/entry/"
+      }
+    ],
+    "phenopacketSchemaVersion": "2.0",
+    "externalReferences": [
+      {
+        "id": "ERN-ITHACA"
+      }
+    ]
+  }
+}
